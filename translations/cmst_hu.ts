@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="en_US">
+<TS version="2.1" language="hu">
 <context>
     <name>Agent</name>
     <message>
@@ -161,7 +161,7 @@
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use  the Firefox browser.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translatorcomment>Removed double space</translatorcomment>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the Firefox browser.&lt;/p&gt;&lt;/body&gt;&lt;html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the Firefox browser.&lt;/p&gt;&lt;/body&gt;&lt;html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="361"/>
@@ -3333,17 +3333,17 @@
     <message>
         <source>auto</source>
         <comment>connamn ipv6 method string</comment>
-        <translation type="vanished">Auto</translation>
+        <translation>Auto</translation>
     </message>
     <message>
         <source>manual</source>
         <comment>connamn ipv6 method string</comment>
-        <translation type="vanished">Manual</translation>
+        <translation>Manual</translation>
     </message>
     <message>
         <source>off</source>
         <comment>connamn ipv6 method string</comment>
-        <translation type="vanished">Off</translation>
+        <translation>Off</translation>
     </message>
 </context>
 <context>

@@ -6,17 +6,21 @@ SUBDIRS = ./apps/cmstapp ./apps/rootapp
 include(cmst.pri)
 
 # translations
-TRANSLATIONS += ./translations/cmst_en_US.ts
-TRANSLATIONS += ./translations/cmst_ru_RU.ts
+TRANSLATIONS += ./translations/cmst_cs.ts
+TRANSLATIONS += ./translations/cmst_de.ts
+TRANSLATIONS += ./translations/cmst_es.ts
+TRANSLATIONS += ./translations/cmst_en.ts
+TRANSLATIONS += ./translations/cmst_fr.ts
+TRANSLATIONS += ./translations/cmst_he.ts
+TRANSLATIONS += ./translations/cmst_hu.ts
+TRANSLATIONS += ./translations/cmst_it.ts
+TRANSLATIONS += ./translations/cmst_ja.ts
+TRANSLATIONS += ./translations/cmst_nl.ts
+TRANSLATIONS += ./translations/cmst_pl.ts
+TRANSLATIONS += ./translations/cmst_ru.ts
+TRANSLATIONS += ./translations/cmst_tr.ts
 TRANSLATIONS += ./translations/cmst_zh_CN.ts
-TRANSLATIONS += ./translations/cmst_de_DE.ts
-TRANSLATIONS += ./translations/cmst_pl_PL.ts
-TRANSLATIONS += ./translations/cmst_it_IT.ts
-TRANSLATIONS += ./translations/cmst_es_ES.ts
-TRANSLATIONS += ./translations/cmst_es_CO.ts
-TRANSLATIONS += ./translations/cmst_fr_FR.ts
-TRANSLATIONS += ./translations/cmst_tr_TR.ts
-TRANSLATIONS += ./translations/cmst_nl_NL.ts
+
 
 # non-application files which need to be installed
 #

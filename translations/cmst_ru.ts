@@ -1,71 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="zh_CN">
+<TS version="2.1" language="ru">
 <context>
     <name>Agent</name>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="14"/>
         <source>Agent Input</source>
-        <translation>代理输入</translation>
+        <translation>Данные агента</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="27"/>
         <source>Passphrase</source>
-        <translation>密码</translation>
+        <translation>Пароль</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="46"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If an old passphrase is available it will be shown here for reference.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;如果旧密码可用，它会被显示在这里作为参考。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Если старый пароль доступен, то он будет показан здесь для справки.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="56"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Type the passphrase here.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;在此输入密码。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Введите пароль здесь.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="69"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Check this box to obscure the password characters.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;勾选以隐藏密码。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Установите этот флажок, чтобы скрыть символы пароля.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="72"/>
         <source>&amp;Hide Passphrase</source>
-        <translation>隐藏密码(&amp;H)</translation>
-    </message>
-    <message>
-        <source>&amp;Old Passphrase</source>
-        <translation type="vanished">旧密码(&amp;O)</translation>
+        <translation>&amp;Скрыть пароль</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="79"/>
         <source>O&amp;ld Passphrase</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Старый пароль</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="89"/>
         <source>&amp;Passphrase</source>
-        <translation>密码(&amp;P)</translation>
+        <translation>&amp;Пароль</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="102"/>
         <source>Hidden Network</source>
-        <translation>隐藏网络</translation>
+        <translation>Скрытая сеть</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="108"/>
         <source>&amp;Name</source>
-        <translation>名称(&amp;N)</translation>
+        <translation>&amp;Имя</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="118"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Type the name of the hidden network you wish to connect to.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;输入你想连接的隐藏网络的名称&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Введите имя скрытой сети, к которой вы хотите подключиться.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="131"/>
         <source>Service Set Identifier</source>
-        <translation>服务集标识(SSID)</translation>
+        <translation>Уникальный идентификатор сети</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="137"/>
@@ -75,77 +71,77 @@
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="157"/>
         <source>Wireless Internet Service Provider roaming (WISPr)</source>
-        <translation>无线服务商漫游 (WISPr)</translation>
+        <translation>Роуминг поставщика услуг беспроводного интернета (WISPr)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="163"/>
         <source>&amp;Username</source>
-        <translation>用户名(&amp;U)</translation>
+        <translation>&amp;Имя пользователя</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="173"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;WISPr username.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;WISPr 用户名.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Имя пользователя WISPr.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="183"/>
         <source>Passwor&amp;d</source>
-        <translation>密码(&amp;D)</translation>
+        <translation>&amp;Пароль</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="193"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;WISPr password.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;WISPr 密码.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Пароль WISPr.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="206"/>
         <source>Extensible Authentication Protocol (EAP)</source>
-        <translation>可扩展身份验证协议 (EAP)</translation>
+        <translation>Расширяемый протокол аутентификации (EAP)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="212"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Type your Identity for the Extensible Authentication Protocol&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;输入你的EAP身份&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Введите строку вашей идентификации для расширяемого протокола аутентификации&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="222"/>
         <source>&amp;Identity</source>
-        <translation>身份(&amp;I)</translation>
+        <translation>&amp;Идентификация</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="235"/>
         <source>WiFi Protected Setup (WPS)</source>
-        <translation>受保护的Wifi设置 (WPS)</translation>
+        <translation>Защищённая настройка Wi-Fi (WPS)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="243"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;When checked use WPS push button authentication.  &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;当被勾选时，使用WPS push button 身份验证。  &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Когда стоит флажок, используется аутентификация с помощью кнопки аутентификации WPS.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="246"/>
         <source>Use Push &amp;Button Authentication</source>
-        <translation>使用 Push &amp;Button 身份验证</translation>
+        <translation>Использовать аутентификацию с помощью &amp;кнопки WPS</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="276"/>
         <source>&amp;WPS Pin</source>
-        <translation>&amp;WPS Pin</translation>
+        <translation>Пин &amp;WPS</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="292"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enter a WPS pin.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;输入 WPS pin.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Введите пин WPS.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="311"/>
         <source>Browser Login Requested</source>
-        <translation>需要用浏览器登录</translation>
+        <translation>Запрошен вход с помощью браузера</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="320"/>
         <source>Choose or enter a browser:</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите браузер или введите его название:</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="327"/>
@@ -153,100 +149,72 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Connman is requesting that you open a web browser to complete the login process.&lt;/p&gt;&lt;p&gt;We have scanned your PATH for browsers and any browsers we found are shown below as active. You may select any one browser to use it for the login. If your web browser is not shown active, or is not listed at all, select &lt;span style=&quot; font-weight:600;&quot;&gt;Other&lt;/span&gt; and type the command you would use to start your browser from a command line in the text box. To launch the browser click the &lt;span style=&quot; font-weight:600;&quot;&gt;Launch Browser&lt;/span&gt; button. &lt;/p&gt;&lt;p&gt;If you wish to login manually close this dialog, start your web browser and proceed to the URL shown below:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Connman 需要使用浏览器完成登录。&lt;/p&gt;&lt;p&gt;检测到下列可用的浏览器。选择一个用作登录。如果你的浏览器不可用或未被列出，请选择 &lt;span style=&quot; font-weight:600;&quot;&gt;其它&lt;/span&gt; 并在文本框内输入启动浏览器的命令行。单击&lt;span style=&quot; font-weight:600;&quot;&gt;启动浏览器&lt;/span&gt;按钮启动你的浏览器。 &lt;/p&gt;&lt;p&gt;如果你想手动登录，请关闭这个对话框，并启动你的浏览器打开以下网址：&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Connman is requesting that you open a web browser to complete the login process.&lt;/p&gt;&lt;p&gt;We have scanned your PATH for browsers and any browsers found are shown in the list below. You may select any one browser to use it for the login.  If your web browser is not shown in the list you may enter it directly in the&lt;span style=&quot; font-weight:600;&quot;&gt; Choose or enter a browser box&lt;/span&gt;.&lt;/p&gt;&lt;p&gt;To launch the browser click the &lt;span style=&quot; font-weight:600;&quot;&gt;Launch Browser&lt;/span&gt; button. &lt;/p&gt;&lt;p&gt;If you wish to login manually close this dialog, start your web browser and proceed to the URL shown in the &lt;span style=&quot; font-weight:600;&quot;&gt;Login URL&lt;/span&gt; box.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Connman запрашивает открыть веб-браузер, чтобы завершить процесс входа.&lt;/p&gt;&lt;p&gt;Мы просканировали ваш ПУТЬ для браузеров и все найденные браузеры показаны в списке ниже. Вы можете выбрать любой один браузер, чтобы использовать его для входа. Если ваш веб-браузер отсутствует в списке, введите его название непосредственно в поле &lt;span style=&quot; font-weight:600;&quot;&gt;«Выберите браузер или введите его название»&lt;/span&gt;.&lt;/p&gt;&lt;p&gt;Для запуска браузера нажмите кнопку &lt;span style=&quot; font-weight:600;&quot;&gt;«Запустить браузер»&lt;/span&gt;. &lt;/p&gt;&lt;p&gt;Если вы хотите войти вручную, закройте это окно, запустите веб-браузер и перейдите по URL-адресу, указанному поле &lt;span style=&quot; font-weight:600;&quot;&gt;«URL-адрес входа»&lt;/span&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="342"/>
         <source>Login URL:</source>
-        <translation>登录 URL:</translation>
+        <translation>URL-адрес входа:</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="349"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Connman is requesting you continue login with a web browser. This box shows the URL that contains the login page.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Connman需要使用浏览器登录。该文本框展示了包含登录页面的网址。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use  the Firefox browser.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用Firefox浏览器。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the Opera browser.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用Opera浏览器。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the Luakit browser.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用Luakit浏览器。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the Lynx (console mode) browser.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用Lynx（控制台模式）浏览器。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Login using a browser that is not listed.  Type the browser start command in the box below.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用一个未被列出的浏览器。在下方输入启动命令行。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>Othe&amp;r</source>
-        <translation type="vanished">其它(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Type the browser start command here.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;在此输入浏览器启动命令。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Connman запрашивает продолжение входа с помощью браузера. Это поле показывает URL-адрес со страницей входа.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="361"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use this button to launch the selected browser. The browser will open at the page shown in the Login URL box.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;单击启动选择的浏览器。浏览器将会打开显示在“登录URL”文本框里的网址。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Используйте эту кнопку для запуска указанного браузера. Браузер откроется на странице, показанной в поле URL-адрес входа.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="364"/>
         <source>Launch &amp;Browser</source>
-        <translation>启动浏览器(&amp;B)</translation>
+        <translation>Запустить &amp;браузер</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="396"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;What&apos;s This&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;这是什么？&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Что это&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="399"/>
         <source>...</source>
-        <translation></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="423"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Continue the connection process.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;继续连接。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Продолжить процесс подключения.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="426"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Accept and use the answers you have provided in this dialog. &lt;/p&gt;&lt;p&gt;This will send your input to the connman daemon to continue the connection process.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;接受并使用你在此会话中提供的信息。&lt;/p&gt;&lt;p&gt;这将把你的输入发送给connman守护进程以继续连接。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Принять и использовать ответы, предоставленные вами в этом диалоге. &lt;/p&gt;&lt;p&gt;Это отправит введённый данные демону connman для продолжения процесса подключения.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="429"/>
         <source>O&amp;K</source>
-        <translation>确定(&amp;K)</translation>
+        <translation>O&amp;K</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="436"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cancel the connection process.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;取消连接。&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Отменить процесс подключения.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="439"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cancel the dialog. &lt;/p&gt;&lt;p&gt;This will send a message to the connman daemon that you have cancelled the connection request.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;取消会话。&lt;/p&gt;&lt;p&gt;这将会给connman守护进程发送取消连接请求。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Отменить диалог. &lt;/p&gt;&lt;p&gt;Это отправит сообщение демону connman о том, что вы отменили зпрос на подключение.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="442"/>
         <source>&amp;Cancel</source>
-        <translation>取消(&amp;C)</translation>
+        <translation>&amp;Отмена</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use  the Firefox browser.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -254,16 +222,12 @@
     <message>
         <location filename="../apps/cmstapp/code/agent/agent_dialog.cpp" line="298"/>
         <source> Information</source>
-        <translation> 信息</translation>
+        <translation> информация</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/agent_dialog.cpp" line="299"/>
         <source>You have requested the %1 browser, but we cannot find a terminal program to open it with.  Currenty we can start %1 using these terminals: &lt;b&gt;roxterm&lt;/b&gt; and &lt;b&gt;xterm&lt;/b&gt;.&lt;br&gt;&lt;br&gt;To continue you need to manually open a terminal and then enter: &quot;%1 %2&quot;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You have requested the %1 browser, but we cannot find a terminal program to open it with.  Currenty we can start %1 using these terminals: &lt;b&gt;roxterm&lt;/b&gt; and &lt;b&gt;xterm&lt;/b&gt;.&lt;br&gt;&lt;br&gt;To continue you need to manually open a terminal and then enter: &quot;lynx %2&quot;</source>
-        <translation type="vanished">你选择了%1浏览器，但是无法找到可启动的终端程序。目前可用来启动%1的终端程序有：&lt;b&gt;roxterm&lt;/b&gt; 和 &lt;b&gt;xterm&lt;/b&gt;.&lt;br&gt;&lt;br&gt;要继续，请手动打开一个终端窗口并输入：&quot;lynx %2&quot;</translation>
+        <translation>Вы запросили браузер %1, но мы не можем найти программу терминала для его открытия. В настоящее время мы можем запустить %1, используя следующие терминалы: &lt;b&gt;roxterm&lt;/b&gt; и &lt;b&gt;xterm&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Для продолжения вам нужно открыть терминал вручную и затем ввести: &quot;%1 %2&quot;</translation>
     </message>
 </context>
 <context>
@@ -271,22 +235,22 @@
     <message>
         <location filename="../apps/cmstapp/code/agent/agent.cpp" line="82"/>
         <source>Connman Error</source>
-        <translation>Connman 错误</translation>
+        <translation>Ошибка Connman</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/agent.cpp" line="83"/>
         <source>Connman returned the following error:&lt;b&gt;&lt;center&gt;%1&lt;/b&gt;&lt;br&gt;Would you like to retry?</source>
-        <translation>Connman 返回了以下错误：&lt;b&gt;&lt;center&gt;%1&lt;/b&gt;&lt;br&gt;是否重试？</translation>
+        <translation>Connman вернул следующую ошибку: &lt;b&gt;&lt;center&gt;%1&lt;/b&gt;&lt;br&gt;Вы хотите попробовать снова?</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/agent.cpp" line="131"/>
         <source>Agent Request Failed</source>
-        <translation>代理请求失败</translation>
+        <translation>Запрос агента не удался</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/agent.cpp" line="132"/>
         <source>The agent request failed before a reply was returned.</source>
-        <translation>在得到一个回应之前，代理请求失败了。</translation>
+        <translation>Запрос агента не удался до возврата отклика.</translation>
     </message>
 </context>
 <context>
@@ -295,30 +259,30 @@
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="67"/>
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="84"/>
         <source>%L1 Bytes</source>
-        <translation></translation>
+        <translation>%L1 байтов</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="69"/>
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="86"/>
         <source>%L1 KB</source>
-        <translation></translation>
+        <translation>%L1 КБ</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="71"/>
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="88"/>
         <source>%L1 MB</source>
-        <translation></translation>
+        <translation>%L1 МБ</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="73"/>
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="90"/>
         <source>%L1 GB</source>
-        <translation></translation>
+        <translation>%L1 ГБ</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="76"/>
         <source>&lt;b&gt;Transmit:&lt;/b&gt;&lt;br&gt;TX Total: %1 (%2),  TX Errors: %3,  TX Dropped: %4</source>
-        <translation>&lt;b&gt;已传送：&lt;/b&gt;&lt;br&gt;传送总数: %1 (%2),  传送错误: %3,  传送丢失: %4</translation>
+        <translation>&lt;b&gt;Передано:&lt;/b&gt;&lt;br&gt;Всего TX: %1 (%2), ошибок TX: %3, пропущенных TX: %4</translation>
     </message>
     <message numerus="yes">
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="77"/>
@@ -329,45 +293,55 @@
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="97"/>
         <source>%Ln Packet(s)</source>
         <translation>
-            <numerusform></numerusform>
+            <numerusform>%n пакет</numerusform>
+            <numerusform>%n пакета</numerusform>
+            <numerusform>%n пакетов</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="93"/>
         <source>&lt;br&gt;&lt;br&gt;&lt;b&gt;Received:&lt;/b&gt;&lt;br&gt;RX Total: %1 (%2),  RX Errors: %3,  RX Dropped: %4</source>
-        <translation>&lt;br&gt;&lt;br&gt;&lt;b&gt;已接收：&lt;/b&gt;&lt;br&gt;接收总数: %1 (%2),  接收错误: %3,  接收丢失: %4</translation>
+        <translation>&lt;br&gt;&lt;br&gt;&lt;b&gt;Получено:&lt;/b&gt;&lt;br&gt;Всего RX: %1 (%2), ошибок RX: %3, пропущенных RX: %4</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="100"/>
         <source>&lt;br&gt;&lt;br&gt;&lt;b&gt;Connect Time:&lt;/b&gt;&lt;br&gt;</source>
-        <translation>&lt;br&gt;&lt;br&gt;&lt;b&gt;连接时间：&lt;/b&gt;&lt;br&gt;</translation>
+        <translation>&lt;br&gt;&lt;br&gt;&lt;b&gt;Время соединения:&lt;/b&gt;&lt;br&gt;</translation>
     </message>
     <message numerus="yes">
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="111"/>
         <source>%n Day(s)</source>
         <translation>
-            <numerusform>%n 日</numerusform>
+            <numerusform>%n день</numerusform>
+            <numerusform>%n дня</numerusform>
+            <numerusform>%n дней</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="118"/>
         <source>%n Hour(s)</source>
         <translation>
-            <numerusform>%n 时</numerusform>
+            <numerusform>%n час</numerusform>
+            <numerusform>%n часа</numerusform>
+            <numerusform>%n часов</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="125"/>
         <source>%n Minute(s)</source>
         <translation>
-            <numerusform>%n 分</numerusform>
+            <numerusform>%n минута</numerusform>
+            <numerusform>%n минуты</numerusform>
+            <numerusform>%n минут</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="131"/>
         <source>%n Second(s)</source>
         <translation>
-            <numerusform>%n 秒</numerusform>
+            <numerusform>%n секунда</numerusform>
+            <numerusform>%n секунды</numerusform>
+            <numerusform>%n секунд</numerusform>
         </translation>
     </message>
 </context>
@@ -376,22 +350,22 @@
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/vpnagent.cpp" line="82"/>
         <source>Connman Error</source>
-        <translation type="unfinished">Connman 错误</translation>
+        <translation type="unfinished">Ошибка Connman</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/vpnagent.cpp" line="83"/>
         <source>Connman returned the following error:&lt;b&gt;&lt;center&gt;%1&lt;/b&gt;&lt;br&gt;Would you like to retry?</source>
-        <translation type="unfinished">Connman 返回了以下错误：&lt;b&gt;&lt;center&gt;%1&lt;/b&gt;&lt;br&gt;是否重试？</translation>
+        <translation type="unfinished">Connman вернул следующую ошибку: &lt;b&gt;&lt;center&gt;%1&lt;/b&gt;&lt;br&gt;Вы хотите попробовать снова?</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/vpnagent.cpp" line="119"/>
         <source>Agent Request Failed</source>
-        <translation type="unfinished">代理请求失败</translation>
+        <translation type="unfinished">Запрос агента не удался</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/vpnagent.cpp" line="120"/>
         <source>The agent request failed before a reply was returned.</source>
-        <translation type="unfinished">在得到一个回应之前，代理请求失败了。</translation>
+        <translation type="unfinished">Запрос агента не удался до возврата отклика.</translation>
     </message>
 </context>
 <context>
@@ -399,63 +373,63 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="20"/>
         <source>Dialog</source>
-        <translation>会话</translation>
+        <translation>Диалог</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="48"/>
         <source>&amp;Status</source>
-        <translation>状态(&amp;S)</translation>
+        <translation>&amp;Состояние</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="100"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This checkbox controls the global setting for switching all radios on or off. When checked all radios are powered down.&lt;/p&gt;&lt;p&gt;When the system is In offline mode it is possible to turn individual devices back on. When leaving offline mode the individual policy of each device determines if the radio is turned back on or not.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;这个复选框控制全部网络连接的开关。当被选中时，所有网络连接都将被关闭。&lt;/p&gt;&lt;p&gt;当系统处于飞行模式时，这个开关可能重新打开个人设备。离开飞行模式时，设备的开关状态由各自的策略决定。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Этот флажок управляет глобальным параметром по включению или выключению всех сетевых устройств. Когда флажок установлен, устройства выключены.&lt;/p&gt;&lt;p&gt;Когда система находится в автономном режиме, можно включить отдельные устройства. При выходе из автономного режима отдельные правила для каждого устройства определяют, включится ли оно снова.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="103"/>
         <source>All Devices &amp;Off</source>
-        <translation>关闭所有设备(&amp;O)</translation>
+        <translation>&amp;Отключить все устройства</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="69"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;OfflineMode&lt;/span&gt;&lt;/p&gt;&lt;p&gt;The offline mode indicates the global setting for switching all radios on or off. Changing offline mode to true results in powering down all devices. When leaving offline mode the individual policy of each device decides to switch the radio back on or not. &lt;/p&gt;&lt;p&gt;During offline mode, it is still possible to switch certain technologies manually back on. For example the limited usage of WiFi or Bluetooth devices might be allowed in some situations.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;飞行模式&lt;/span&gt;&lt;/p&gt;&lt;p&gt;飞行模式指全局的无线设备开关设置。打开飞行模式将会关闭所有无线设备。离开飞行模式时，无线设备的开关状态由各自的策略决定。 &lt;/p&gt;&lt;p&gt;在飞行模式打开期间，仍可手动重新打开设备。例如，某些情况下，有限的Wifi或蓝牙使用是允许的。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Автономный режим&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Автономный режим показывает глобальный параметр по включению всех сетевых устройств. Включение автономного режима приведёт к отключению устройств. Когда автономный режим не активирован, отдельные для каждого устройства правила определяют, включать ли устройство снова. &lt;/p&gt;&lt;p&gt;При автономном режиме всё-ещё можно включать технологии вручную. Например, отдельное использование устройств Wi-Fi или Bluetooth может быть разрешено в некоторых ситуациях.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="72"/>
         <source>Global Properties</source>
-        <translation>全局设置</translation>
+        <translation>Общие свойства</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="80"/>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="132"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The global setting for switching all radios on or off. When offline mode is engaged all radios are powered down.&lt;/p&gt;&lt;p&gt;While in offline mode it is possible to turn individual devices back on. When leaving offline mode the individual policy of each device determines if the radio is turned back on or not.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;控制无线设备开关的全局设置。当飞行模式打开时所有无线设备将被关闭。&lt;/p&gt;&lt;p&gt;当处于飞行模式时，个别设备仍然可被重新打开。离开飞行模式时无线设备的开关状态由各自的策略决定。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Глобальный параметр для включения и выключения всех сетевых устройств. Когда автономный режим активирован, все сетевые устройства отключаются.&lt;/p&gt;&lt;p&gt;While in offline mode it is possible to turn individual devices back on. При выходе из автономного режима отдельные правила для каждого устройства определяют, включится ли оно снова.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="83"/>
         <source>OfflineMode: Unavailable</source>
-        <translation>飞行模式：不可用</translation>
+        <translation>Автономный режим: недоступно</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="90"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The global connection state of the system.  Possible values are &amp;quot;offline&amp;quot;, &amp;quot;idle&amp;quot;, &amp;quot;ready&amp;quot;, and &amp;quot;online&amp;quot;.  &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;全局连接状态  可能的状态有 &amp;quot;离线&amp;quot;, &amp;quot;空闲&amp;quot;, &amp;quot;就绪&amp;quot;和&amp;quot;在线&amp;quot;.  &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Общее состояние подключения системы. Возможные значения: &amp;quot;офлайн&amp;quot;, &amp;quot;простаивает&amp;quot;, &amp;quot;готово&amp;quot;, и &amp;quot;онлайн&amp;quot;. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="93"/>
         <source>State: Unavailable</source>
-        <translation>状态：不可用</translation>
+        <translation>Состояние: недоступно</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Connman refers to hardware devices as technologies. This box will display information about all known technologies.&lt;/p&gt;&lt;p&gt;To turn a technology on or off click on the button that shows in the &lt;span style=&quot; font-weight:600;&quot;&gt;Powered&lt;/span&gt; column for the technology.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Connman 把硬件设备称作“技术”。（在翻译中为了容易理解仍写作“设备”） 这个方框内显示了所有已知设备的信息。&lt;/p&gt;&lt;p&gt;要打开或关闭设备，单击对应设备&lt;span style=&quot; font-weight:600;&quot;&gt;已启用&lt;/span&gt;栏内的按钮。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Connman относится к устройствам как к технологиям. В этом поле будет отображаться информация о всех известных технологиях.&lt;/p&gt;&lt;p&gt;Чтобы включить или выключить технологию, нажмите на кнопку, которая отображается в столбце &lt;span style=&quot; font-weight:600;&quot;&gt;«Включено»&lt;/span&gt; для соответствующей технологии.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="166"/>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="149"/>
         <source>Technologies</source>
-        <translation>设备</translation>
+        <translation>Технологии</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="215"/>
@@ -463,229 +437,93 @@
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="626"/>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="833"/>
         <source>Name</source>
-        <translation>名称</translation>
+        <translation>Имя</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="220"/>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="362"/>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="838"/>
         <source>Type</source>
-        <translation>类型</translation>
+        <translation>Тип</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="225"/>
         <source>Powered</source>
-        <translation>已启用</translation>
+        <translation>Включено</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="230"/>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="636"/>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2273"/>
         <source>Connected</source>
-        <translation>已连接</translation>
+        <translation>Подключено</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="235"/>
         <source>Tethering</source>
-        <translation>热点</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="250"/>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="690"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Force a rescan of all WiFi technologies. This is similar to issuing the command &lt;span style=&quot; font-weight:600;&quot;&gt;connmanctl scan wifi&lt;/span&gt; from the command line.&lt;/p&gt;&lt;p&gt;The button will become inactive while the scan is occuring.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;强制所有Wifi设备重新扫描。这与执行命令行 &lt;span style=&quot; font-weight:600;&quot;&gt;connmanctl scan wifi&lt;/span&gt; 类似。&lt;/p&gt;&lt;p&gt;在扫描过程中按钮将被禁用。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>Тетеринг</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="253"/>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="693"/>
         <source>Resc&amp;an</source>
-        <translation>重新扫描(&amp;A)</translation>
+        <translation>Ск&amp;анировать повторно</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="302"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This box lists all services that connman can connect to.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;这个方框内显示了所有connman能够连接到的网络。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;В этом поле перечислены все службы, к которым connman может подключиться.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="305"/>
         <source>Services</source>
-        <translation>服务</translation>
+        <translation>Службы</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="367"/>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="843"/>
         <source>State</source>
-        <translation>状态</translation>
+        <translation>Состояние</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="372"/>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="853"/>
         <source>Connection</source>
-        <translation>连接</translation>
+        <translation>Соединение</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Move the selected service before another in the list.&lt;/p&gt;&lt;p&gt;The button will only become active once a service is selected.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;把列表中选中的服务移到另一项前面。&lt;/p&gt;&lt;p&gt;这个按钮只会在选中一项后启用。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Переместить выбранную службу перед другой в списке.&lt;/p&gt;&lt;p&gt;Кнопка станет активной только после выбора службы.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="388"/>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1851"/>
         <source>Move Before</source>
-        <translation>上移</translation>
+        <translation>Поместить до</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Move the selected service after another in the list.&lt;/p&gt;&lt;p&gt;The button will only become active once a service is selected.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;把列表中选中的服务移到另一项后面。&lt;/p&gt;&lt;p&gt;这个按钮只会在选中一项后启用。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Переместить выбранную службу после другой в списке.&lt;/p&gt;&lt;p&gt;Кнопка станет активной только после выбора службы.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="401"/>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1856"/>
         <source>Move After</source>
-        <translation>下移</translation>
+        <translation>Поместить после</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Hide the connection field&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;隐藏“连接”栏&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Спрятать поле «Соединение»&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="421"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;When checked hide the connection name in the Services box.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;当被勾选时，隐藏“服务”方框内的连接名称。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Когда стоит флажок, прячет имя соединения в поле «Службы».&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="424"/>
         <source>&amp;Less</source>
-        <translation>更少(&amp;L)</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="448"/>
-        <source>&amp;Details</source>
-        <translation>详细信息(&amp;D)</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="460"/>
-        <source>Ser&amp;vice</source>
-        <translation>服务(&amp;V)</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="470"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use this Combobox to select the service for which you wish to view the detailed information.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用这个下拉框选择你想查看详细信息的服务。&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="564"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The default configuration method for all services is automatic or something like DHCP. This should be good enough for most typical usage, but if it is not this button will allow manual configuration of Ethernet and IP settings for the selected Service.&lt;/p&gt;&lt;p&gt;This button will be disabled if the service is provisioned via an external config file or if the service  is a hidden wifi service.  It is not possible to modify the properties of these services.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;所有服务的默认设置都是自动的（或类似DHCP）。 一般此设置足够使用，但若不是，这个按钮可被用来手动设置选中服务的以太网和IP设置。&lt;/p&gt;&lt;p&gt;在以下两种情况下这个按钮会被禁用：服务设置由外部配置文件提供，或服务是一个隐藏Wifi。无法修改这些服务的设置。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="567"/>
-        <source>Configuration</source>
-        <translation>设置</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="580"/>
-        <source>&amp;Wireless</source>
-        <translation>无线网络(&amp;W)</translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This page shows the known WiFi services. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Name:&lt;/span&gt; The SSID of the network.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Favorite:&lt;/span&gt; A heart symbol in this column indicates that this computer has previously made a connection to the network using this service.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Connected:&lt;/span&gt; Shows the connection state of this service. Hover the mouse over the icon to popup a text description.  Online signals that an Internet connectionis available and has been verified.  Ready signals a successfully connected device. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Security: &lt;/span&gt;Describes the type of security used for this service. Possible values are &amp;quot;none&amp;quot;, &amp;quot;wep&amp;quot;, &amp;quot;psk&amp;quot;, &amp;quot;ieee8021x&amp;quot;, and &amp;quot;wps&amp;quot;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;SIgnal Strength:&lt;/span&gt; The strength of the WiFi signal, normalized to a scale of 0 to 100.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;这个页面显示了已知的Wifi服务。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;名称:&lt;/span&gt; 网络的SSID。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;已保存:&lt;/span&gt; 这个栏目中的心形图标表示这台电脑曾经使用这个服务连接网络。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;已连接:&lt;/span&gt; 表示这个服务的连接状态。鼠标划过图标会弹出文字说明。  在线表示网络可用并且已验证。  就绪表示设备成功连接。 &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;安全性: &lt;/span&gt;描述了服务的安全性。可能的值有 &amp;quot;无&amp;quot;, &amp;quot;wep&amp;quot;, &amp;quot;psk&amp;quot;, &amp;quot;ieee8021x&amp;quot;，和&amp;quot;wps&amp;quot;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;信号强度:&lt;/span&gt; Wifi的信号强度，用0到100的值表示。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="631"/>
-        <source>Favorite</source>
-        <translation>已保存</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="641"/>
-        <source>Security</source>
-        <translation>安全性</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="646"/>
-        <source>Signal Strength</source>
-        <translation>信号强度</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="654"/>
-        <source>Wireless Services</source>
-        <translation>无线网络服务</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="660"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Select a wifi service in the table below and press this button to connect the service. &lt;/p&gt;&lt;p&gt;If there is only one wifi service listed in the table pressing this button will automatically select that service and attempt to connect. &lt;/p&gt;&lt;p&gt;If information about the service is needed, a passphrase for instance, you will be prompted for it. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;在下表中选择一个Wifi服务，并按下这个按钮来连接到服务。 &lt;/p&gt;&lt;p&gt;如果列表中只有一个服务，按下这个按钮将会自动选择那个服务并尝试连接。 &lt;/p&gt;&lt;p&gt;如果这个服务需要更多的信息，例如密码，你将会被提示。 &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="663"/>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="754"/>
-        <source>Connect</source>
-        <translation>连接</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="670"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Select a wifi service in the table below and press this button to disconnect it. &lt;/p&gt;&lt;p&gt;If there is only one wifi service in the &amp;quot;ready&amp;quot; or &amp;quot;online&amp;quot; state pressing this button will automatically select that service and disconnect it. &lt;/p&gt;&lt;p&gt;This may also be used to abort a previous connection attempt.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;在下表中选择一个Wifi服务并按下这个按钮来断开它。 &lt;/p&gt;&lt;p&gt;如果只有一个Wifi服务处于 &amp;quot;就绪&amp;quot; 或 &amp;quot;在线&amp;quot; 状态，按下这个按钮将会自动选择那个服务并断开它。 &lt;/p&gt;&lt;p&gt;这也可被用于终止先前的连接尝试。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="673"/>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="767"/>
-        <source>Disconnect</source>
-        <translation>断开</translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Select a wifi service in the table below and press this button to remove the service. &lt;/p&gt;&lt;p&gt;If a service has previously been sussessfully connected (Favorite is true) this button will remove the Favorite property. The service will also be disconnected if it is currently connected. If the service required a passphrase then the passphrase it will be cleared and forgotten.&lt;/p&gt;&lt;p&gt;If a connection attempt failed this can slso be used to reset the service.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;在下表中选择一个Wifi服务并按下这个按钮来删除它。 &lt;/p&gt;&lt;p&gt;如果是曾经成功连接的服务（已保存）这个按钮将会移除已保存属性。如果正在连接到这个服务，服务将被断开。如果服务要求过密码，密码会被清除并忘记。&lt;/p&gt;&lt;p&gt;如果有失败的连接尝试，这个按钮可用于重置服务。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="683"/>
-        <source>Remove</source>
-        <translation>忘记</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="706"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This label shows the number of WiFi technologies (devices) that were found, and the number that are powered on. There must be at least one WiFi technology found and powered in order for the box below to show services.&lt;/p&gt;&lt;p&gt;To turn a technology on or off go to the &lt;span style=&quot; font-weight:600;&quot;&gt;Technologies&lt;/span&gt; box in the &lt;span style=&quot; font-weight:600;&quot;&gt;Status&lt;/span&gt; tab and double click on the text that shows in the &lt;span style=&quot; font-weight:600;&quot;&gt;Powered&lt;/span&gt; column for the technology.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;这个标签显示了找到的和开启的Wifi设备数目。要使下面的方框内显示服务，至少要找到并开启一个Wifi设备。&lt;/p&gt;&lt;p&gt;开关设备请到 &lt;span style=&quot; font-weight:600;&quot;&gt;状态&lt;/span&gt; 标签页的 &lt;span style=&quot; font-weight:600;&quot;&gt;设备&lt;/span&gt; 方框并双击对应设备 &lt;span style=&quot; font-weight:600;&quot;&gt;已启用&lt;/span&gt; 栏内的文字。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="709"/>
-        <source>Wifi State</source>
-        <translation>Wifi 状态</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="865"/>
-        <source>&amp;Counters</source>
-        <translation>统计(&amp;C)</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="886"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The service being monitored by the counters.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;被监视并统计的服务。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="889"/>
-        <source>Service:</source>
-        <translation>服务：</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="932"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Counters for the &amp;quot;online&amp;quot; service connection that is not marked roaming. &lt;/p&gt;&lt;p&gt;Counters may not always be available. The counters could have been disabled at the command line (-c or --disable-counters) or occasionally the connection will register &amp;quot;ready&amp;quot; instead of &amp;quot;online&amp;quot;. Online is a &amp;quot;ready&amp;quot; connection that has verified internet connectivity. It is possible to be online with only a &amp;quot;ready&amp;quot; connection, however the counters only work for they &amp;quot;online&amp;quot; connection.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;非漫游的 &amp;quot;在线&amp;quot; 服务连接的统计信息。 &lt;/p&gt;&lt;p&gt;统计并非总是可用。统计可被命令行 (-c 或 --disable-counters)禁用，也可能在偶然的情况下，连接报告&amp;quot;就绪&amp;quot; 状态而非 &amp;quot;在线&amp;quot;。在线是 &amp;quot;就绪&amp;quot; 的连接通过联网验证后的状态。也有可能通过 &amp;quot;就绪&amp;quot; 的连接而在线，但是统计只对 &amp;quot;在线&amp;quot; 的连接有效。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="905"/>
-        <source>Home</source>
-        <translation>本地</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="35"/>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="477"/>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="577"/>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="733"/>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="862"/>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="902"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&amp;Меньше</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="445"/>
@@ -693,60 +531,118 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="448"/>
+        <source>&amp;Details</source>
+        <translation>&amp;Подробности</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="460"/>
+        <source>Ser&amp;vice</source>
+        <translation>С&amp;лужба</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="470"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use this Combobox to select the service for which you wish to view the detailed information.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Используйте этот выпадающий список, чтобы выбрать службу, для которой вы хотите просмотреть подробную информацию.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="564"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The default configuration method for all services is automatic or something like DHCP. This should be good enough for most typical usage, but if it is not this button will allow manual configuration of Ethernet and IP settings for the selected Service.&lt;/p&gt;&lt;p&gt;This button will be disabled if the service is provisioned via an external config file or if the service  is a hidden wifi service.  It is not possible to modify the properties of these services.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Метод настройки по умолчанию для всех служб – автоматический или что-то вроде DHCP. Он должен подходить для большинства пользователей, в противном случае эта кнопка позволит ручную настройку параметров Ethernet и IP для выбранной службы.&lt;/p&gt;&lt;p&gt;Эта кнопка будет неактивна, если служба конфигурируется внешним файлом или если служба – это скрытая Wi-Fi сеть. Свойства таких служб невозможно изменить.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="567"/>
+        <source>Configuration</source>
+        <translation>Настройка</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="580"/>
+        <source>&amp;Wireless</source>
+        <translation>&amp;Беспроводные сети</translation>
+    </message>
+    <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="586"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This page shows the known WiFi services. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Name:&lt;/span&gt; The SSID of the network.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Favorite:&lt;/span&gt; A heart symbol in this column indicates that this computer has previously made a connection to the network using this service.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Connected:&lt;/span&gt; Shows the connection state of this service. Hover the mouse over the icon to popup a text description. Online signals that an Internet connectionis available and has been verified. Ready signals a successfully connected device. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Security: &lt;/span&gt;Describes the type of security used for this service. Possible values are &amp;quot;none&amp;quot;, &amp;quot;wep&amp;quot;, &amp;quot;psk&amp;quot;, &amp;quot;ieee8021x&amp;quot;, and &amp;quot;wps&amp;quot;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;SIgnal Strength:&lt;/span&gt; The strength of the WiFi signal, normalized to a scale of 0 to 100.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="790"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This page shows the provisioned VPN services. Some cells in the table may only be available once a connection is estlablished. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Name:&lt;/span&gt; The name given in the provisioning file.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Type:&lt;/span&gt; The VPN type (OpenConnect, OpenVPN, PPTP, etc)&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;State:&lt;/span&gt; Shows the connection state of this service. Hover the mouse over the icon to popup a text description. . &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Host: &lt;/span&gt;VPN Host IP.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Domain:&lt;/span&gt; The VPN Domain.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="654"/>
+        <source>Wireless Services</source>
+        <translation>Беспроводные службы</translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="935"/>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="991"/>
-        <source>Counter not available.</source>
-        <translation>统计不可用。</translation>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="660"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Select a wifi service in the table below and press this button to connect the service. &lt;/p&gt;&lt;p&gt;If there is only one wifi service listed in the table pressing this button will automatically select that service and attempt to connect. &lt;/p&gt;&lt;p&gt;If information about the service is needed, a passphrase for instance, you will be prompted for it. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Выберите службу Wi-Fi в таблице ниже, и нажмите эту кнопку, чтобы подключиться к этой службе. &lt;/p&gt;&lt;p&gt;Если в таблице только одна служба wifi, то при нажатии этой кнопки эта служба выберется автоматически и к ней будет предпринята попытка подключения. &lt;/p&gt;&lt;p&gt;Если будет нужна информация о службе, пароль, например, вам будет предложено ввести его.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="961"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Counters for the &amp;quot;online&amp;quot; service connection marked &amp;quot;roaming&amp;quot;.&lt;/p&gt;&lt;p&gt;In the case of cellular services this normally indicates connections to a foreign provider.&lt;/p&gt;&lt;p&gt;Counters may not always be available. The counters could have been disabled at the command line (-c or --disable-counters) or occasionally the connection will register &amp;quot;ready&amp;quot; instead of &amp;quot;online&amp;quot;. Online is a &amp;quot;ready&amp;quot; connection that has verified internet connectivity. It is possible to be online with only a &amp;quot;ready&amp;quot; connection, however the counters only work for they &amp;quot;online&amp;quot; connection.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;被标作&amp;quot;漫游&amp;quot;的&amp;quot;在线&amp;quot; 连接的统计信息。&lt;/p&gt;&lt;p&gt;例如对于蜂窝数据来说，这一般表示连接到异地的运营商。&lt;/p&gt;&lt;p&gt;统计并非总是可用。统计可被命令行 (-c 或 --disable-counters)禁用，也可能在偶然的情况下，连接报告&amp;quot;就绪&amp;quot; 状态而非 &amp;quot;在线&amp;quot;。在线是 &amp;quot;就绪&amp;quot; 的连接通过联网验证后的状态。也有可能通过 &amp;quot;就绪&amp;quot; 的连接而在线，但是统计只对 &amp;quot;在线&amp;quot; 的连接有效。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="663"/>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="754"/>
+        <source>Connect</source>
+        <translation>Подключиться</translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="964"/>
-        <source>Roaming</source>
-        <translation>漫游</translation>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="670"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Select a wifi service in the table below and press this button to disconnect it. &lt;/p&gt;&lt;p&gt;If there is only one wifi service in the &amp;quot;ready&amp;quot; or &amp;quot;online&amp;quot; state pressing this button will automatically select that service and disconnect it. &lt;/p&gt;&lt;p&gt;This may also be used to abort a previous connection attempt.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Выберите Wi-Fi службу в таблице снизу и нажмите эту кнопку, чтобы отключиться от неё. &lt;/p&gt;&lt;p&gt;Если есть только одна Wi-Fi служба в состоянии &amp;quot;Готова&amp;quot; или &amp;quot;Онлайн&amp;quot;, нажатие на эте кнопку автоматически выберет её и отключится от неё. &lt;/p&gt;&lt;p&gt;Это также может быть использовано для отмены предыдущей попытки соединения.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1011"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Counter Settings&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;统计设置&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="673"/>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="767"/>
+        <source>Disconnect</source>
+        <translation>Отсоединиться</translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1014"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The threshold values for counter updates (counter resolution).  Data and time work together to define how often the fields are updated.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;统计更新的阈值。  数据和时间同时定义了更新频率。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Select a wifi service in the table below and press this button to remove the service. &lt;/p&gt;&lt;p&gt;If a service has previously been sussessfully connected (Favorite is true) this button will remove the Favorite property. The service will also be disconnected if it is currently connected. If the service required a passphrase then the passphrase it will be cleared and forgotten.&lt;/p&gt;&lt;p&gt;If a connection attempt failed this can slso be used to reset the service.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Выберите службу Wi-Fi в таблице ниже, и нажмите эту кнопку, чтобы удалить эту службу. &lt;/p&gt;&lt;p&gt;Если служба была ранее успешно подключена (является «Избранной»), эта кнопка удалит статус «Избранной». Служба также будет отключена, если она в момент нажатия подключена. Если услуге требуется пароль то пароль будет снят и забыт
+&lt;/p&gt;&lt;p&gt;Если попытка подключения не удалась, то это также может использоваться для сброса службы.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1017"/>
-        <source>Settings:</source>
-        <translation>设置：</translation>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="683"/>
+        <source>Remove</source>
+        <translation>Удалить</translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1032"/>
-        <source>&amp;Preferences</source>
-        <translation>设置(&amp;P)</translation>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="706"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This label shows the number of WiFi technologies (devices) that were found, and the number that are powered on. There must be at least one WiFi technology found and powered in order for the box below to show services.&lt;/p&gt;&lt;p&gt;To turn a technology on or off go to the &lt;span style=&quot; font-weight:600;&quot;&gt;Technologies&lt;/span&gt; box in the &lt;span style=&quot; font-weight:600;&quot;&gt;Status&lt;/span&gt; tab and double click on the text that shows in the &lt;span style=&quot; font-weight:600;&quot;&gt;Powered&lt;/span&gt; column for the technology.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Эта метка показывает количество Wi-Fi технологий (устройств), которые были найдены, и количество технологий, которые включены. Должна быть найдена и включена как минимум одна технология Wi-Fi для того, чтобы в поле снизу отображались услуги&lt;/p&gt;&lt;p&gt;Чтобы включить и выключить технологию, перейдите к таблице &lt;span style=&quot; font-weight:600;&quot;&gt;Технологии&lt;/span&gt; на вкладке &lt;span style=&quot; font-weight:600;&quot;&gt;Состояние&lt;/span&gt; и сделайте двойное нажатие мышью по тексту в столбце &lt;span style=&quot; font-weight:600;&quot;&gt;Включено&lt;/span&gt; для этой технологии.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1289"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;monospace&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;monospace&apos;; font-weight:600;&quot;&gt;-c&lt;/span&gt;&lt;span style=&quot; font-family:&apos;monospace&apos;;&quot;&gt; or &lt;/span&gt;&lt;span style=&quot; font-family:&apos;monospace&apos;; font-weight:600;&quot;&gt;--enable-counters&lt;/span&gt;&lt;/pre&gt;&lt;p&gt;Enable Connman RX and TX counters.  Counters are experimental in Connman and enabling them will write a large amount of data to the system logs.&lt;/p&gt;&lt;p&gt;Counters are turned off by default, and is a change from the way it was originally.  Up to and including version 2017.09.19 counters were enabled by default.  All versions subsequent to that counters are disabled by default.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="709"/>
+        <source>Wifi State</source>
+        <translation>Состояние Wi-Fi</translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1292"/>
-        <source>Enable Counters</source>
-        <translation type="unfinished"></translation>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1254"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;-m&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt; or &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--minimized&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;
+&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Start the GUI minimized in the system tray.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Параметр командной строки: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;-m&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt; или &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--minimized&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;
+&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Запустить графический пользовательский интерфейс свёрнутым в системный лоток.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1278"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;-w&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt; or &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--wait-time&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;
+&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Specify the wait time in seconds before starting the system tray icon (default is 0 seconds).&lt;/p&gt;&lt;p&gt;If CMST is started and tries to create a tray icon before the system tray itself is created a dialog will be displayed explaining that. This sometimes happens when the program is started automatically. If you know the tray will exist once the system is up you may specify a wait time and CMST will wait that number of seconds before trying to create the tray icon. This is to give the window manager or panel time to create the tray before we try to place the icon there.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Параметр командной строки: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;-w&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt; или &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--wait-time&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;
+&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Укажите время ожидания в секундах перед запуском значка в системном лотке (по умолчанию 0 секунд).&lt;/p&gt;&lt;p&gt;Если CMST запущен и пытается создать значок в системном лотке до запуска системного лотка, будет отображён диалог, объясняющий это. Это иногда происходит, когда программа запускается автоматически. Если вы знаете, что системный лоток будет загружен при запуске системы, вы можете указать время ожидания и CMST будет ждать указанное количество секунд перед тем как создать значок в системном лотке. Это нужно для того, чтобы дать время оконному менеджеру или панели на создание системного лотка перед попыткой помещения в него значка.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Command Line Option: &lt;span style=&quot; font-weight:600;&quot;&gt;-c&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;--disable-counters&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;
+&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Disable the counters.  May be used to minimize load on your system.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Параметр командной строки: &lt;span style=&quot; font-weight:600;&quot;&gt;-c&lt;/span&gt; или &lt;span style=&quot; font-weight:600;&quot;&gt;--disable-counters&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;
+&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Отключить счётчики. Может быть использовано для минимизации нагрузки на систему.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1302"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--counter-update-rate&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;
+&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Specify the frequency in seconds between counter updates (default is 10 seconds). &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Параметр командной строки: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--counter-update-rate&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;
+&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Укажите частоту в секундах между обновлениями счётчика (по умолчанию 10 секунд). &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1306"/>
+        <source>Counter Update Rate </source>
+        <translation>Частота обновления счётчиков </translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1362"/>
@@ -770,54 +666,9 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1461"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;-n&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt; or &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--disable-vpn&lt;/span&gt;&lt;/pre&gt;&lt;p&gt;Disable VPN. This will hide the VPN tab and will also skip trying to make a connection to connman-vpn. The later is useful if your Connman was built with the --disable-vpn feature.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1464"/>
-        <source>Disable VPN</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1471"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;-M&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt; or &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--disable-minimized&lt;/span&gt;&lt;/pre&gt;&lt;p&gt;Disable the minimize button. Use when you want to have the window manager have sole control of minimizing the interface.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1474"/>
-        <source>Disable Minimized</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1525"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Preferences for the interface are in this box.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;这个方框内是接口的设置。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1528"/>
-        <source>Interface</source>
-        <translation>界面</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1563"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked the Start Options set here will be read and used next time the program starts.  &lt;/p&gt;&lt;p&gt;Settings are stored in&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;: ~&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;/.config/cmst/cmst.conf  &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;&lt;br/&gt;This is a standard ini type text file.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1566"/>
-        <source>Use Start Options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1576"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked the state of the GUI will be restored from settings saved on disk. Settings include the geometry and position of the dialog and the current tab. &lt;/p&gt;&lt;p&gt;These settings will be used at next boot to restore the user interface to the way it was at shutdown.&lt;/p&gt;&lt;p&gt;The settings file is: ~&lt;span style=&quot; font-weight:600;&quot;&gt;/.config/cmst/cmst.conf &lt;/span&gt;&lt;br/&gt;This is a standard ini type text file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1579"/>
-        <source>Retain State</source>
-        <translation type="unfinished"></translation>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1419"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Default is no desktop specific code.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;По умолчанию не используется код для конкретного окружения рабочего стола.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1672"/>
@@ -840,185 +691,254 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1268"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;-i&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt; or &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--icon-theme&lt;/span&gt;&lt;/pre&gt;&lt;p&gt;Use an icon theme from your system. You may specify the theme in the box at the right, or if the box is left blank CMST will try and use the system wide icon theme (if one is defined).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This page shows the known WiFi services. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Name:&lt;/span&gt; The SSID of the network.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Favorite:&lt;/span&gt; A heart symbol in this column indicates that this computer has previously made a connection to the network using this service.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Connected:&lt;/span&gt; Shows the connection state of this service. Hover the mouse over the icon to popup a text description.  Online signals that an Internet connectionis available and has been verified.  Ready signals a successfully connected device. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Security: &lt;/span&gt;Describes the type of security used for this service. Possible values are &amp;quot;none&amp;quot;, &amp;quot;wep&amp;quot;, &amp;quot;psk&amp;quot;, &amp;quot;ieee8021x&amp;quot;, and &amp;quot;wps&amp;quot;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;SIgnal Strength:&lt;/span&gt; The strength of the WiFi signal, normalized to a scale of 0 to 100.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;На этой странице показаны доступные службы Wi-Fi. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Имя:&lt;/span&gt; SSID сети.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Избранное:&lt;/span&gt; сомвол сердца в этом столбце означает, что этот компьютер ранее подключался к сети через эту службу.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Подключено:&lt;/span&gt; показывает состояние соединения этой службы. Наведите курсор на значок, чтобы увидеть всплывающее текстовое описание. Онлайн означает, что соединения с интернетом доступны и были проверены. Готов означает успешно подключённое устройство. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Безопасность: &lt;/span&gt;описывает типы шифрования, используемые этой службой. Возможные значения &amp;quot;нет&amp;quot;, &amp;quot;WEP&amp;quot;, &amp;quot;PSK&amp;quot;, &amp;quot;IEEE 8021.X&amp;quot; и &amp;quot;WPS&amp;quot;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Сила сигнала:&lt;/span&gt; сила сигнала Wi-Fi, нормализованная по шкале от 0 до 100.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1271"/>
-        <source>Use Icon Theme</source>
-        <translation type="unfinished"></translation>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="250"/>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="690"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Force a rescan of all WiFi technologies. This is similar to issuing the command &lt;span style=&quot; font-weight:600;&quot;&gt;connmanctl scan wifi&lt;/span&gt; from the command line.&lt;/p&gt;&lt;p&gt;The button will become inactive while the scan is occuring.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Принудительное сканирование всех технологий WiFi. Работает идентично команде &lt;span style=&quot; font-weight:600;&quot;&gt;connmanctl scan wifi&lt;/span&gt; из командной строки.&lt;/p&gt;&lt;p&gt;Кнопка будет неактивной, пока происходит сканирование.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="631"/>
+        <source>Favorite</source>
+        <translation>Избранное</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="641"/>
+        <source>Security</source>
+        <translation>Безопасность</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="646"/>
+        <source>Signal Strength</source>
+        <translation>Сила сигнала</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="865"/>
+        <source>&amp;Counters</source>
+        <translation>&amp;Счётчики</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="886"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The service being monitored by the counters.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Эту службу отслеживают счётчики.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="889"/>
+        <source>Service:</source>
+        <translation>Служба:</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="932"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Counters for the &amp;quot;online&amp;quot; service connection that is not marked roaming. &lt;/p&gt;&lt;p&gt;Counters may not always be available. The counters could have been disabled at the command line (-c or --disable-counters) or occasionally the connection will register &amp;quot;ready&amp;quot; instead of &amp;quot;online&amp;quot;. Online is a &amp;quot;ready&amp;quot; connection that has verified internet connectivity. It is possible to be online with only a &amp;quot;ready&amp;quot; connection, however the counters only work for they &amp;quot;online&amp;quot; connection.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Счётчики для &amp;quot;онлайновой&amp;quot; службы соединений, которая не помечена как роуминг. &lt;/p&gt;&lt;p&gt;Счётчики могут не всегда быть доступны. Счётчики могут быть отключены из командной строки (-c или --disable-counters) или случайно соединение будет зарегистрировано как &amp;quot;готовое&amp;quot; вместо &amp;quot;онлайн&amp;quot;. Онлайн — это &amp;quot;готовое&amp;quot; соединение, которое имеет проверенное соединение с интернетом. Онлайн можно быть только с  &amp;quot;готовым&amp;quot; соединением, однако счётчики будут работать только с &amp;quot;онлайновыми&amp;quot; соединениями.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="905"/>
+        <source>Home</source>
+        <translation>Домашняя сеть</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="935"/>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="991"/>
+        <source>Counter not available.</source>
+        <translation>Счётчики не доступны.</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="961"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Counters for the &amp;quot;online&amp;quot; service connection marked &amp;quot;roaming&amp;quot;.&lt;/p&gt;&lt;p&gt;In the case of cellular services this normally indicates connections to a foreign provider.&lt;/p&gt;&lt;p&gt;Counters may not always be available. The counters could have been disabled at the command line (-c or --disable-counters) or occasionally the connection will register &amp;quot;ready&amp;quot; instead of &amp;quot;online&amp;quot;. Online is a &amp;quot;ready&amp;quot; connection that has verified internet connectivity. It is possible to be online with only a &amp;quot;ready&amp;quot; connection, however the counters only work for they &amp;quot;online&amp;quot; connection.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Счётчики для &amp;quot;онлайновой&amp;quot; службы соединений, которая помечена как &amp;quot;роуминг&amp;quot;.&lt;/p&gt;&lt;p&gt;В случае с сотовыми сетями это обычно означает соединение с иностранным провайдером. &lt;/p&gt;&lt;p&gt;Счётчики могут не всегда быть доступны. Счётчики могут быть отключены из командной строки (-c или --disable-counters) или случайно соединение будет зарегистрировано как &amp;quot;готовое&amp;quot; вместо &amp;quot;онлайн&amp;quot;. Онлайн — это &amp;quot;готовое&amp;quot; соединение, которое имеет проверенное соединение с интернетом. Онлайн можно быть только с  &amp;quot;готовым&amp;quot; соединением, однако счётчики будут работать только с &amp;quot;онлайновыми&amp;quot; соединениями.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="964"/>
+        <source>Roaming</source>
+        <translation>Роуминг</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1011"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Counter Settings&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Настройки счётчиков&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1014"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The threshold values for counter updates (counter resolution).  Data and time work together to define how often the fields are updated.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Пороговые значения для обновления показаний счётчиков (разрешение счётчика). Для этого учитывается как количество данных, так и время.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1017"/>
+        <source>Settings:</source>
+        <translation>Настройки:</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1032"/>
+        <source>&amp;Preferences</source>
+        <translation>&amp;Предпочтения</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1525"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Preferences for the interface are in this box.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Предпочтения для интерфейса находятся в этом поле.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1528"/>
+        <source>Interface</source>
+        <translation>Интерфейс</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked the GUI will be restored from settings saved on disk. Settings include the geometry of the dialog and the state of various check boxes, such as this one. &lt;/p&gt;&lt;p&gt;These settings will be used at next boot to restore the user interface to the way it was at shutdown.&lt;/p&gt;&lt;p style=&apos;white-space:pre&apos;&gt;The settings file is: &lt;span style=&quot; font-weight:600;&quot;&gt;${HOME}/.config/cmst/cmst.conf  &lt;/span&gt;&lt;br&gt;This is a standard ini type text file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;如果被勾选，GUI会恢复存储在磁盘上的设置。这些设置包含对话框的位置和一些复选框的勾选状态，例如这个复选框本身。 &lt;/p&gt;&lt;p&gt;这会使GUI在启动时恢复成最后一次退出时的样子。&lt;/p&gt;&lt;p style=&apos;white-space:pre&apos;&gt;设置文件保存在: &lt;span style=&quot; font-weight:600;&quot;&gt;${HOME}/.config/cmst/cmst.conf  &lt;/span&gt;&lt;br&gt;这是一个标准的ini格式的文本文件。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Если поставлен флажок, параметры пользовательского интерфейса будут загружаться из сохранённых на диске настройки. Настройки включают в себя геометрию окна и состояние различных флажков, таких, как этот. &lt;/p&gt;&lt;p&gt;Эти настройки будут использоваться при следующей загрузке для восстановления пользовательского интерфейса таким, как он был при выключении.&lt;/p&gt;&lt;p style=&apos;white-space:pre&apos;&gt;Файл настроек: &lt;span style=&quot; font-weight:600;&quot;&gt;${HOME}/.config/cmst/cmst.conf&lt;/span&gt;&lt;br&gt;Это стандартный текстовый файл настроек.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Retain Settings</source>
-        <translation type="vanished">保存设置</translation>
+        <translation type="vanished">Запоминать настройки</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1586"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked the display of tooltips will be enabled for the interface widgets.&lt;/p&gt;&lt;p&gt;Tooltips are the small popups that appear when you hover the mouse pointer over an area of the interface. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;被勾选上时，UI控件的提示会被启用。&lt;/p&gt;&lt;p&gt;当你用鼠标划过控件事，提示会弹出。 &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Если установлен флажок, отображение подсказок будет включено для виджетов интерфейса.&lt;/p&gt;&lt;p&gt;Подсказки — это небольшие всплывающие окна, которые появляются при наведении указателя мыши на область интерфейса. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1589"/>
         <source>Enable ToolTips (Interface)</source>
-        <translation>启用提示</translation>
+        <translation>Разрешить всплывающие подсказки (для интерфейса)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1537"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Normally counters are cumulative and will retain the connect time and the TX and RX counts between boots. &lt;/p&gt;&lt;p&gt;When this box is checked the counters will reset to zero every time CMST is started, and if CMST is running everytime a Connman service is started. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;通常，统计信息会一直累计，连接时间和接收、传送计数会保留直到下一次启动。 &lt;/p&gt;&lt;p&gt;当勾选上时，每次cmst或connman启动时统计信息会清零。 &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Обычно счётчики ведут учёт нарастающим итогом, а также сохраняют время подключения и число TX и RX между загрузками. &lt;/p&gt;&lt;p&gt;Когда этот флажок установлен, то счетчики будут сбрасываться до нуля каждый раз, когда CMST запускается, и если CMST выполняется каждый раз, когда запущена служба Connman. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1540"/>
         <source>Reset Counters</source>
-        <translation>重置统计</translation>
+        <translation>Обнулять показания счётчиков</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1547"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;When checked additional controls for advanced users are displayed.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;当勾选时，为高级用户准备的附加设置会显示出来。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Когда стоит флажок, отображаются дополнительные настройки для опытных пользователей.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1550"/>
         <source>Advanced Controls</source>
-        <translation>高级</translation>
+        <translation>Расширенные настройки</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1146"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;These entries control various options for CMST at program start. &lt;/p&gt;&lt;p&gt;All of these options are available from the command line, and if a command line option is provided it will take precedence over these settings.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;这些条目控制cmst启动时的一些选项。 &lt;/p&gt;&lt;p&gt;所有这些选项可以通过命令行设置，而命令行将会覆盖此处的设置。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Эти настройки контролируют различные опции при загрузке CMST. &lt;/p&gt;&lt;p&gt;Все эти опции доступны из командной строки, и если они заданы в командной строке, то они получают преимущество над этими настройками.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1149"/>
         <source>Start Options</source>
-        <translation>启动选项</translation>
+        <translation>Опции запуска</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1180"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;-d&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt; or &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--disable-tray-icon&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;
 &lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Disable the system tray icon.&lt;/p&gt;&lt;p&gt;May be needed for system trays not compliant with the Freedesktop.org system tray specification.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;命令行选项: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;-d&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt; 或 &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--disable-tray-icon&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;
-&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;禁用系统托盘图标。&lt;/p&gt;&lt;p&gt;当系统托盘不支持 Freedesktop.org 系统托盘规范时可能需要。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1184"/>
-        <source>Disable Tray Icon</source>
-        <translation>禁用系统托盘图标</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Параметр командной строки: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;-d&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt; или &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--disable-tray-icon&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;
+&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Отключить значок в системном лотке.&lt;/p&gt;&lt;p&gt;Может понадобиться системам, несовместимым со спецификацией Freedesktop.org.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1194"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Disabled because currently Connman will accept this option but will do nothing with it.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;此选项已禁用，因为当前connman会接受这个选项但是不会做任何事情。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Отключено, поскольку сейчас Connman примет эту настройку, но ничего не сделает с ней.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1197"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Specify the amount of data in KB that must be transmitted before the counters update (default is 1024 KB).&lt;/p&gt;&lt;p&gt;Connman will accept this entry, but according to a comment in the Connman code the actual feature still needs to be implemented and the selection is therefore disabled.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;设定在统计更新前必须传输的数据量，以KB表示 (默认是 1024 KB)。&lt;/p&gt;&lt;p&gt;Connman会接受这个选项，但是根据connman的代码注释，这个特性还未实现，因此选项已禁用。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Укажите объем данных в килобайтах, который должен быть передан до обновления счетчиков (по умолчанию 1024 КБ).&lt;/p&gt;&lt;p&gt;Connman примет этот параметр, но согласно комментарию в коде Connman эта функция всё ещё требует разработки, и выбор, следовательно, отключен.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1200"/>
         <source>Counter Update KB</source>
-        <translation>统计更新 KB</translation>
+        <translation>Обновление счётчиков, КБ</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Specify the wait time in seconds before starting the system tray icon (default is 0 seconds).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;设置启动系统托盘前的等待时间，以秒为单位 (默认是 0 秒)。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Укажите время ожидания в секундах перед запуском значка в системном лотке (по умолчанию 0 секунд).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1229"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Specify the amount of data in KB that must be transmitted before the counters update (default is 1024 KB).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;设定在统计更新前必须传输的数据量，以KB表示 (默认是 1024 KB)。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1254"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;-m&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt; or &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--minimized&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;
-&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Start the GUI minimized in the system tray.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;命令行选项: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;-m&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt; 或 &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--minimized&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;
-&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;启动时最小化到托盘。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Укажите объем данных в килобайтах, который должен быть передан до обновления счетчиков (по умолчанию 1024 КБ).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1258"/>
         <source>Start Minimized</source>
-        <translation>启动时最小化</translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;-i&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt; or &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--icon-theme&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;
-&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the icon theme from your system if one is defined.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;命令行选项: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;-i&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt; 或 &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--icon-theme&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;
-&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用系统图标主题（如果至少一个被定义）。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>Use System Icon Theme</source>
-        <translation type="vanished">使用系统图标主题</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1278"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;-w&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt; or &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--wait-time&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;
-&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Specify the wait time in seconds before starting the system tray icon (default is 0 seconds).&lt;/p&gt;&lt;p&gt;If CMST is started and tries to create a tray icon before the system tray itself is created a dialog will be displayed explaining that. This sometimes happens when the program is started automatically. If you know the tray will exist once the system is up you may specify a wait time and CMST will wait that number of seconds before trying to create the tray icon. This is to give the window manager or panel time to create the tray before we try to place the icon there.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;命令行选项: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;-w&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt; 或 &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--wait-time&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;
-&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;设置启动系统托盘前的等待时间，以秒为单位 (默认是 0 秒)。&lt;/p&gt;&lt;p&gt;如果 CMST 已启动并尝试在系统托盘启动前启动托盘图标，会弹出一个警告对话框。当程序自动启动时，这有时会发生。如果你确定系统启动时会启动托盘，你可以设置一个等待时间，CMST会在创建托盘图标前等待。这使得在我们把图标放入托盘前，WM或面板有时间创建托盘。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>Запускать свёрнутым</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1282"/>
         <source>Wait Time</source>
-        <translation>等待时间</translation>
+        <translation>Время ожидания</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Command Line Option: &lt;span style=&quot; font-weight:600;&quot;&gt;-c&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;--disable-counters&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;
-&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Disable the counters.  May be used to minimize load on your system.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;命令行选项: &lt;span style=&quot; font-weight:600;&quot;&gt;-c&lt;/span&gt; 或 &lt;span style=&quot; font-weight:600;&quot;&gt;--disable-counters&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;
-&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;禁用统计。可能减少系统资源消耗。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1184"/>
+        <source>Disable Tray Icon</source>
+        <translation>Отключить значок в системном лотке</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1563"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked the Start Options set here will be read and used next time the program starts.  &lt;/p&gt;&lt;p&gt;Settings are stored in&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;: ~&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;/.config/cmst/cmst.conf  &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;&lt;br/&gt;This is a standard ini type text file.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1566"/>
+        <source>Use Start Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1576"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked the state of the GUI will be restored from settings saved on disk. Settings include the geometry and position of the dialog and the current tab. &lt;/p&gt;&lt;p&gt;These settings will be used at next boot to restore the user interface to the way it was at shutdown.&lt;/p&gt;&lt;p&gt;The settings file is: ~&lt;span style=&quot; font-weight:600;&quot;&gt;/.config/cmst/cmst.conf &lt;/span&gt;&lt;br/&gt;This is a standard ini type text file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1579"/>
+        <source>Retain State</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1268"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;-i&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt; or &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--icon-theme&lt;/span&gt;&lt;/pre&gt;&lt;p&gt;Use an icon theme from your system. You may specify the theme in the box at the right, or if the box is left blank CMST will try and use the system wide icon theme (if one is defined).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Параметр командной строки: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;-i&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt; или &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--icon-theme&lt;/span&gt;&lt;/pre&gt;&lt;p&gt;Использовать системный набор значков. Вы можете выбрать набор в поле справа или, если поле слева оставлено пустым, CMST попытается использоватьсистемный набор значков (если он определён).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1271"/>
+        <source>Use Icon Theme</source>
+        <translation>Использовать тему значков</translation>
     </message>
     <message>
         <source>Disable Counters</source>
-        <translation type="vanished">禁用统计</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1302"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--counter-update-rate&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;
-&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Specify the frequency in seconds between counter updates (default is 10 seconds). &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;命令行选项: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--counter-update-rate&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;
-&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;设置统计信息更新的频率，以秒为单位 (默认是 10 秒)。 &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1306"/>
-        <source>Counter Update Rate </source>
-        <translation>统计更新频率</translation>
+        <translation type="vanished">Отключить счётчики</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1158"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Specify the frequency in seconds between counter updates (default is 10 seconds). &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;设置统计信息更新的频率，以秒为单位 (默认是 10 秒)。 &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Укажите частоту в секундах между обновлениями показаний счётчика (по умолчанию 0 секунд).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1407"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use code specific for the selected desktop environment.&lt;/p&gt;&lt;p&gt;As of 2014.11.24 there seems to be a problem with QT5.3 and some system trays. There is code in the program to try and work around this issue, and selecting one of these buttons will invoke the code specific to the desktop.&lt;/p&gt;&lt;p&gt;If the bug gets fixed these options will remain so that start up scripts do not break, but the options will do nothing.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用为特定DE准备的程序代码。&lt;/p&gt;&lt;p&gt;以2014.11.24的情况，使用 QT5.3 和某些系统托盘会造成问题。程序中一些代码尝试解决这个问题，勾选一项会启用为特定桌面准备的代码。&lt;/p&gt;&lt;p&gt;当问题被修复时，这些选项会保留以避免启动脚本崩溃，但那时这个选项将什么都不做。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Использовать код, специфичный для выбранного окружения рабочего стола.&lt;/p&gt;&lt;p&gt;Начиная с версии 2014.11.24 кажется существует проблема с Qt 5.3 и некоторыми системными лотками. В программе есть код, спомощью которого можнно попытаться обойти эту проблему, и выбор одного из этих пунктов применит код, специфичный для окружения рабочего стола.&lt;/p&gt;&lt;p&gt;Если ошибка будет устранена, эти опции останутся для того, чтобы не портить загрузочный скрипт, но они уже не будут ни на что влиять.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1410"/>
         <source>Desktop Specific</source>
-        <translation>特定桌面设置</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1419"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Default is no desktop specific code.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;默认没有启用任何特定桌面的代码。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>Для конкретных окружений рабочего стола</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1422"/>
         <source>None</source>
-        <translation>无</translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1435"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--use-xfce&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Параметр командной строки: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--use-xfce&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1438"/>
@@ -1028,7 +948,7 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1448"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--use-mate&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;命令行选项: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--use-mate&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Параметр командной строки: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--use-mate&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1451"/>
@@ -1039,8 +959,8 @@
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1316"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--fake-transparency&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;
 &lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Used to work around a QT bug where system tray icons display with white or black backgrounds instead of being transparent.&lt;/p&gt;&lt;p&gt;You can specify the icon background color here. Format is a hex number in the form RRGGBB.  If the spedified color matches the tray background we&apos;ve effectively created fake transparency. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;命令行选项: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--fake-transparency&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;
-&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;解决一个QT问题，该问题会使托盘图标背景为黑色或白色，而不是透明。&lt;/p&gt;&lt;p&gt;你可以在这里指定托盘图标背景颜色。格式为 RRGGBB 的十六进制值。如果制定的颜色与托盘背景颜色相同，我们就成功地伪造了一个透明背景。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Параметр командной строки: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--fake-transparency&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;
+&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Используется для обхода ошибки Qt, из-за которой значки в системном лотке отображается с белым или чёрным фоном вместо прозрачного.&lt;/p&gt;&lt;p&gt;Вы можете указать здесь цвет фона значка. Формат — шестнадцатиричное число RRGGBB. Если указанный цвет совпадает с фоном системного лотка, значит мы качественно создали псевдопрозрачность. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="680"/>
@@ -1073,79 +993,123 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Domain</source>
+        <translation type="obsolete">Домен</translation>
+    </message>
+    <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1320"/>
         <source>Fake Transparency</source>
-        <translation>伪造托盘图标透明背景</translation>
+        <translation>Псевдопрозрачность</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1330"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Specify the background color as a hex number in the format: RRGGBB.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;指定背景颜色，以十六进制按照如下格式： RRGGBB.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Укажите цвет фона, как шестнадцатеричное число в формате RRGGBB.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1352"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Icon theme to use. For this theme to be used it must be installed on your system. If the theme is not installed, or if you spell the name wrong CMST will fall back to using its internal icon set.&lt;/p&gt;&lt;p&gt;If this box is blank CMST will try and use the system wide icon theme (if one is defined).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Какой набор значков использовать. Чтобы вы могли использовать этот набор, он должен быть установлен в системе. Если набор не установлен, или вы написали название неправильно, CMST будет использовать внутренний набор значков.&lt;/p&gt;&lt;p&gt; Если это поле пустое, CMST попытается использовать общесистемную тему значков (если она определена).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1095"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Preferences for the system tray are in this box.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;系统托盘相关设置在这一块。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Предпочтения для системного лотка находятся в этом поле.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1098"/>
         <source>System Tray</source>
-        <translation>系统托盘</translation>
+        <translation>Системный лоток</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1104"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked an icon will not be displayed in the system tray.  &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;若勾选，不显示托盘图标。  &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Если поставлен флажок, значок значок не будет отображаться в системном лотке.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1107"/>
         <source>Hide Tray Icon</source>
-        <translation>隐藏托盘图标</translation>
+        <translation>Спрятать иконку в системном лотке</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1114"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked the system tray icon will popup a status message when you hover the mouse over it.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;若勾选，在鼠标划过托盘图标时弹出状态信息。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Если поставлен флажок, в системном лотке будет появляться сообщения о состоянии при наведении на значок курсора.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1117"/>
         <source>Enable System Tray Popups</source>
-        <translation>启用托盘弹框</translation>
+        <translation>Разрешить всплывающие уведомления при наведении на значок в системном лотке</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1130"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked the system tray will popup a notify message when a significant connman related event is received.&lt;/p&gt;&lt;p&gt;Notifications can be handled by the System Tray Icon, or by a Notify daemon if one is installed.  Both can not be active at the same time.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;若勾选，托盘图标会在connman相关的重要事件发生时弹出通知消息。&lt;/p&gt;&lt;p&gt;通知可被托盘图标处理，或被通知程序处理（如果存在）。  两者不能同时启用。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Если установлен флажок, то системный лоток покажет сообщение, когда будет получено значительное событие от connman.&lt;/p&gt;&lt;p&gt;Уведомления могут быть обработаны с использованием значка в системном лотке или демоном уведомлений, если он установлен. Оба способа не могут быть активными в одно и то же время.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1133"/>
         <source>System Tray Notifications</source>
-        <translation>系统托盘通知</translation>
+        <translation>Уведомления в системном лотке</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1289"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;monospace&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;monospace&apos;; font-weight:600;&quot;&gt;-c&lt;/span&gt;&lt;span style=&quot; font-family:&apos;monospace&apos;;&quot;&gt; or &lt;/span&gt;&lt;span style=&quot; font-family:&apos;monospace&apos;; font-weight:600;&quot;&gt;--enable-counters&lt;/span&gt;&lt;/pre&gt;&lt;p&gt;Enable Connman RX and TX counters.  Counters are experimental in Connman and enabling them will write a large amount of data to the system logs.&lt;/p&gt;&lt;p&gt;Counters are turned off by default, and is a change from the way it was originally.  Up to and including version 2017.09.19 counters were enabled by default.  All versions subsequent to that counters are disabled by default.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1292"/>
+        <source>Enable Counters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1461"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;-n&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt; or &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--disable-vpn&lt;/span&gt;&lt;/pre&gt;&lt;p&gt;Disable VPN. This will hide the VPN tab and will also skip trying to make a connection to connman-vpn. The later is useful if your Connman was built with the --disable-vpn feature.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1464"/>
+        <source>Disable VPN</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1471"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;-M&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt; or &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--disable-minimized&lt;/span&gt;&lt;/pre&gt;&lt;p&gt;Disable the minimize button. Use when you want to have the window manager have sole control of minimizing the interface.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1474"/>
+        <source>Disable Minimized</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1487"/>
         <source>Notifications</source>
-        <translation>通知</translation>
+        <translation>Уведомления</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1512"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked the system desktop notification daemon will popup a notify message when a significant connman related event is received.&lt;/p&gt;&lt;p&gt;Notifications can be handled by the System Tray Icon, or by a Notification daemon if one is installed. Both can not be active at the same time.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;若勾选，桌面通知程序会在connman相关的重要事件发生时弹出通知消息。&lt;/p&gt;&lt;p&gt;通知可被托盘图标处理，或被通知程序处理（如果存在）。  两者不能同时启用。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Если установлен флажок, то системный демон уведомлений покажет предупреждение, когда будет получено значительное событие от connman.&lt;/p&gt;&lt;p&gt;Уведомления могут быть обработаны с использованием значка в системном лотке или демоном уведомлений, если он установлен. Оба способа не могут быть активными в одно и то же время.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1515"/>
         <source>Notification Daemon</source>
-        <translation>通知程序</translation>
+        <translation>Демон уведомлений</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1499"/>
         <source>Server Status</source>
-        <translation>服务状态</translation>
+        <translation>Состояние сервера</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="35"/>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="477"/>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="577"/>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="733"/>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="862"/>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="902"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="163"/>
@@ -1188,29 +1152,34 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="790"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This page shows the provisioned VPN services. Some cells in the table may only be available once a connection is estlablished. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Name:&lt;/span&gt; The name given in the provisioning file.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Type:&lt;/span&gt; The VPN type (OpenConnect, OpenVPN, PPTP, etc)&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;State:&lt;/span&gt; Shows the connection state of this service. Hover the mouse over the icon to popup a text description. . &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Host: &lt;/span&gt;VPN Host IP.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Domain:&lt;/span&gt; The VPN Domain.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1053"/>
         <source>Program Control</source>
-        <translation>程序控制</translation>
+        <translation>Программное управление</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1082"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked CMST will place an entry in the autostart directory for the current user, unchecking will remove said entry. This directory is typically: &lt;span style=&quot; font-weight:600;&quot;&gt;${HOME}/.config/autostart&lt;/span&gt;. &lt;/p&gt;&lt;p&gt;CMST only add or remove the .desktop file from the autostart directory. Autostarting is typically dependent upon your Desktop Environment and must be enabled from there.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;若勾选，CMST 会在当前用户的启动目录产生一个启动项，不够选则会移除。目录位置一般为： &lt;span style=&quot; font-weight:600;&quot;&gt;${HOME}/.config/autostart&lt;/span&gt;。 &lt;/p&gt;&lt;p&gt;CMST 只会产生或删除启动项文件夹内的 .desktop 文件。自动启动一般依赖于桌面环境，必须在桌面环境启用。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Если поставлена «галочка», CMST поместит элемент в папку автозапуска текущего пользователя, снятие «галочки» удалит этот элемент. Обычно это папка: &lt;span style=&quot; font-weight:600;&quot;&gt;${HOME}/.config/autostart&lt;/span&gt;. &lt;/p&gt;&lt;p&gt;CMST добавит или удалит только .desktop-файл из папки автозапуска. Автозапуск обычно зависит от вашего окружения рабочего стола и должен быть включён отсюда.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1085"/>
         <source>Enable Autostart</source>
-        <translation>启用自动启动</translation>
+        <translation>Включить автозапуск</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1059"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If a Connman service falls into the &amp;quot;Failed&amp;quot; state it will normally remain in that state.&lt;/p&gt;&lt;p&gt;If this box is checked CMST will try to automatically reconnect a WiFi service that enters the &amp;quot;Failed&amp;quot; state. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;如果connman变为了 &amp;quot;失败（Failed）&amp;quot; 状态，它一般会保持那个状态。&lt;/p&gt;&lt;p&gt;如果这个复选框被勾选，CMST会尝试重新连接到进入 &amp;quot;失败（Failed）&amp;quot; 状态前的Wifi服务。 &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Если у службы Connman будет &amp;quot;сбой&amp;quot;, она по умолчанию будет оставаться в этом состоянии.&lt;/p&gt;&lt;p&gt;Если здесь стоит флажок, CMST автоматически попытается переподключиться к службе WiFi, находящейся в состоянии сбоя&amp;quot;сбоя&amp;quot;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1062"/>
         <source>Retry Failed Connection</source>
-        <translation>失败重新连接</translation>
+        <translation>Повторное после сбоя подключение к сети</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1604"/>
@@ -1226,7 +1195,7 @@
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="135"/>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1617"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">...</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1627"/>
@@ -1241,82 +1210,86 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1647"/>
         <source>&amp;Help</source>
-        <translation>帮助(&amp;H)</translation>
+        <translation>&amp;Справка</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1653"/>
         <source>&amp;About</source>
-        <translation>关于(&amp;A)</translation>
+        <translation>&amp;О программе</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1659"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Display a dialog box containing information about this program. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;显示关于本程序的信息的对话框。 &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Показывает диалог, содержащий информацию об этой программе. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1662"/>
         <source>C&amp;MST</source>
-        <translation></translation>
+        <translation>C&amp;MST</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1669"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Display a dialog box containing information about the Icon set used in this program. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;显示关于这个程序中使用的图标的对话框。 &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Показать диалоговое окно, содержащее информацию наборе значков, используемых этой программой. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <source>&amp;AwOken</source>
+        <translation type="vanished">&amp;AwOken</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1686"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Display a dialog box containing information about the QT toolkit used to develop this program. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;显示关于用于构建本程序的Qt工具包的对话框。 &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Отображает диалоговое окно, содержащее информацию о наборе инструментов QT, использованном для разработки этой программы.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1689"/>
         <source>&amp;QT</source>
-        <translation></translation>
+        <translation>&amp;QT</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1696"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use this button to view the program license.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用本按钮查看程序许可。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Используйте эту кнопку, чтобы увидеть лицензию на эту программу.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1699"/>
         <source>&amp;License</source>
-        <translation></translation>
+        <translation>&amp;Лицензия</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1706"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use this button to view the change log of the program.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用本按钮查看程序的更新日志。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Используйте эту кнопку, чтобы увидеть журнал изменений этой программы.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1709"/>
         <source>ChangeLo&amp;g</source>
-        <translation></translation>
+        <translation>Жу&amp;рнал изменений</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1747"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Help&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Program help is mainly provided by the &amp;quot;What&apos;s This&amp;quot; button in the lower left corner. Press the button and then click on an item you are interested in. &amp;quot;What&apos;s This&amp;quot; is also available via context menu by right clicking on a button, box or text area.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;帮助&lt;/span&gt;&lt;/p&gt;&lt;p&gt;程序的帮助信息主要由下方的 &amp;quot;这是什么？&amp;quot; 按钮提供。按下按钮，并单击你想了解的项目。 &amp;quot;这是什么？&amp;quot; 也可通过在条目上右键的上下文菜单访问。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Справка&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Справка по программе в основном представлена кнопкой &amp;quot;Что это&amp;quot; в нижнем левом углу. Нажмите эту кнопку и затем щёлкните по интересующему вас элементу. Функция &amp;quot;Что это&amp;quot; также доступна  через контекстное меню нажатием правой кнопки мыши на кнопку, окно или область текста.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1783"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;What&apos;s This&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;这是什么？&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Что это&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1786"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use this button to find information about an element in the GUI by entering &amp;quot;What&apos;s This&amp;quot; mode. &lt;/p&gt;&lt;p&gt;You may also right click on an element to show the &amp;quot;What&apos;s This&amp;quot; text for it.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用这个按钮进入 &amp;quot;这是什么？&amp;quot; 模式并查看GUI元素的相关信息。 &lt;/p&gt;&lt;p&gt;你也可以通过在界面元素上右键查看与之相关的 &amp;quot;这是什么？&amp;quot; 信息。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Используйте эту кнопку, чтобы узнать об элементе GUI через режим &amp;quot;Что это&amp;quot;. &lt;/p&gt;&lt;p&gt;Вы также можете нажать правую кнопку мыши на элементе, чтобы увидеть текст &amp;quot;Что это&amp;quot; для него.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1796"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Open the provisioning editor to create or edit Connman configuration (provisioning) files.&lt;/p&gt;&lt;p&gt;These config files reside in /var/lib/connman which is owned by root:root. CMST will register a roothelper to allow reading and writing files in this directory. &lt;/p&gt;&lt;p&gt;To avoid abusing the root privileges the editor will only operate on files with names ending in &lt;span style=&quot; font-style:italic;&quot;&gt;.cmst.config&lt;/span&gt;. This file name ending will be added automatically during a file save and cannot be altered. &lt;/p&gt;&lt;p&gt;Using this editor it is not possible to edit or delete config files created by other means.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;打开配置（provision）编辑器，创建或编辑connman配置文件。&lt;/p&gt;&lt;p&gt;这些配置文件在 /var/lib/connman ，所有权为 root:root 。 CMST 会注册一个roothelper来读取和写入这个文件夹内的文件。 &lt;/p&gt;&lt;p&gt;为防止root特权滥用，编辑器只会操作后缀为 &lt;span style=&quot; font-style:italic;&quot;&gt;.cmst.config&lt;/span&gt;的文件。这个后缀会在文件保存时自动添加上，并且不能被修改。 &lt;/p&gt;&lt;p&gt;这个编辑器不能编辑或删除其它方式创建的配置文件。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Открыть редактор конфигурации для создания или редактирования файлов настройки (подготовки к работе) Connman.&lt;/p&gt;&lt;p&gt;Эти файлы находятся в /var/lib/connman, влядельцем которой является root:root. CMST зарегестрирует roothelper для получения разрешения на запись и чтение файлов в эту папку. &lt;/p&gt;&lt;p&gt;Для избежания злоупотреблением правами суперпользователя, редактор будет работать только с файлами, заканчивающимися на &lt;span style=&quot; font-style:italic;&quot;&gt;.cmst.config&lt;/span&gt;. Это окончание имени файла будет задано автоматически во время сохранения файла и не может быть изменено. &lt;/p&gt;&lt;p&gt;С помощью этого редактора невозможно изменить или удалить файлы настройки, созданные с помощью других средств.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1799"/>
         <source>Provisioning Editor</source>
-        <translation>配置编辑器</translation>
+        <translation>Редактор конфигурации</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1806"/>
@@ -1331,23 +1304,23 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1816"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Exit the program and remove the system tray icon. Connman will still be running as a daemon but will not be managed by this program.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;退出程序并移除托盘图标。Connman仍会以守护进程运行，但是不再受本程序管理。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Выйти из программы и убрать значок из системного лотка. Connman всё-ещё будет запущен как демон, но не будет управляться этой программой.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1819"/>
         <source>E&amp;xit</source>
-        <translation>退出(&amp;X)</translation>
+        <translation>В&amp;ыйти</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1839"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Minimize the dialog. If you have the system tray Icon shown this dialog may be restored by right clicking on the tray icon. If the tray icon is hidden minimize will not be active.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;最小化对话框。如果系统托盘图标被启用，右键图标可恢复这个对话框。如果托盘图标被隐藏，最小化将不可用。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Свернуть этот диалог. Если у вас отоброжается значок в системном лотке, этот диалог может быть восстановлен нажатием правой кнопки мыши на этом значке. Если значок в системном лотке спрятан, то сворачивание не будет доступно.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1842"/>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="387"/>
         <source>Mi&amp;nimize</source>
-        <translation>最小化(&amp;N)</translation>
+        <translation>С&amp;вернуть</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1874"/>
@@ -1362,21 +1335,138 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="388"/>
         <source>Ma&amp;ximize</source>
-        <translation>最大化(&amp;X)</translation>
+        <translation>Ра&amp;звернуть</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="391"/>
         <source>&amp;Exit</source>
-        <translation>退出(&amp;E)</translation>
+        <translation>В&amp;ыйти</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="490"/>
         <source>About %1</source>
-        <translation>关于 %1</translation>
+        <translation>О %1</translation>
     </message>
     <message>
-        <source>&lt;center&gt;%1 is a program to interface with the Connman daemon and to provide a system tray control.&lt;br&gt;&lt;center&gt;Version &lt;b&gt;%2&lt;/b&gt;&lt;center&gt;Release date: %3&lt;center&gt;Copyright c %4&lt;center&gt;by&lt;center&gt;Andrew J. Bibb&lt;center&gt;Vermont, USA&lt;br&gt;&lt;center&gt;&lt;b&gt;Contributors:&lt;/b&gt;&lt;center&gt;Brett Dutro&lt;center&gt;Adam Fontenot&lt;center&gt;Lester Bico&lt;br&gt;&lt;center&gt;&lt;b&gt;Translations:&lt;/b&gt;&lt;center&gt;Ilya Shestopalov (Russian)</source>
-        <translation type="vanished">&lt;center&gt;%1 是connman守护进程的一个交互程序，并提供系统托盘控制。&lt;br&gt;&lt;center&gt;版本 &lt;b&gt;%2&lt;/b&gt;&lt;center&gt;发布日期: %3&lt;center&gt;版权所有 c %4&lt;center&gt;by&lt;center&gt;Andrew J. Bibb&lt;center&gt;Vermont, USA&lt;br&gt;&lt;center&gt;&lt;b&gt;贡献者:&lt;/b&gt;&lt;center&gt;Brett Dutro&lt;center&gt;Adam Fontenot&lt;center&gt;Lester Bico&lt;br&gt;&lt;center&gt;&lt;b&gt;翻译者:&lt;/b&gt;&lt;center&gt;Ilya Shestopalov (Russian)</translation>
+        <source>&lt;center&gt;%1 is a program to interface with the Connman daemon and to provide a system tray control.&lt;br&gt;&lt;center&gt;Version &lt;b&gt;%2&lt;/b&gt;&lt;center&gt;Release date: %3&lt;center&gt;Copyright c %4&lt;center&gt;by&lt;center&gt;Andrew J. Bibb&lt;center&gt;Vermont, USA&lt;br&gt;&lt;center&gt;&lt;b&gt;Contributors:&lt;/b&gt;&lt;center&gt;Brett Dutro&lt;center&gt;Adam Fontenot&lt;center&gt;Lester Bico&lt;center&gt;Yaohan Chen&lt;br&gt;&lt;center&gt;&lt;b&gt;Translations:&lt;/b&gt;&lt;center&gt;Jianfeng Zhang (Chinese)&lt;center&gt;sqozz (German)&lt;center&gt;Ilya Shestopalov (Russian)</source>
+        <translation type="vanished">&lt;center&gt;%1 — это программа для взаимодействия с демоном Connman и предоставления контроля через системный лоток.&lt;br&gt;&lt;center&gt;Версия &lt;b&gt;%2&lt;/b&gt;&lt;center&gt;Дата выпуска: %3&lt;center&gt;Копирайт c %4&lt;center&gt;разработана&lt;center&gt;Andrew J. Bibb&lt;center&gt;Вермонт, США&lt;br&gt;&lt;center&gt;&lt;b&gt;Помощники:&lt;/b&gt;&lt;center&gt;Brett Dutro&lt;center&gt;Adam Fontenot&lt;center&gt;Lester Bico&lt;br&gt;&lt;center&gt;&lt;b&gt;Переводчики:&lt;/b&gt;&lt;center&gt;Jianfeng Zhang (китайский язык)&lt;center&gt;sqozz (немецкий язык)&lt;center&gt;Ilya Shestopalov (русский язык)</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="516"/>
+        <source>About AwOken</source>
+        <translation>О AwOken</translation>
+    </message>
+    <message>
+        <source>&lt;center&gt;This program uses the &lt;b&gt;AwOken&lt;/b&gt; icon set version 2.5&lt;br&gt;&lt;br&gt;Released under the&lt;br&gt;Creative Commons&lt;br&gt;Attribution-Share Alike 3.0&lt;br&gt;Unported License&lt;br&gt;&lt;a href=&quot;url&quot;&gt;http://creativecommons.org/licenses/by-sa/3.0/legalcode&lt;/a&gt;&lt;br&gt;&lt;center&gt;The CMST icon is a derivative work from the AwOken icon set.</source>
+        <translation type="vanished">&lt;center&gt;Эта программа использует набор значков &lt;b&gt;AwOken&lt;/b&gt; версии 2.5&lt;br&gt;&lt;br&gt;Выпущен под лицензией&lt;br&gt;Creative Commons&lt;br&gt;Attribution-Share Alike 3.0&lt;br&gt;Международная лицензия&lt;br&gt;&lt;a href=&quot;url&quot;&gt;http://creativecommons.org/licenses/by-sa/3.0/legalcode&lt;/a&gt;&lt;br&gt;&lt;center&gt;Значок CMST — это производная работа от набора значков AwOken.</translation>
+    </message>
+    <message>
+        <source>%1 license is the MIT license.</source>
+        <translation type="vanished">Лицензия %1 — это лицензия MIT.</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="547"/>
+        <source>License</source>
+        <translation>Лицензия</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="555"/>
+        <source>%1 change log is not available.</source>
+        <translation>%1 журнал изменений не доступен.</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="557"/>
+        <source>ChangeLog</source>
+        <translation>Журнал изменений</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="674"/>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2584"/>
+        <source>Cancel</source>
+        <translation>Отмена</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="699"/>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="704"/>
+        <source>&lt;b&gt;Service:&lt;/b&gt; %1</source>
+        <translation>&lt;b&gt;Служба:&lt;/b&gt; %1</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="704"/>
+        <source>Unable to determine service</source>
+        <translation>Не удалось определить службу</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="736"/>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="810"/>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="838"/>
+        <source>No Services Selected</source>
+        <translation>Нет выбранных служб</translation>
+    </message>
+    <message>
+        <source>You need to select a Wifi service before pressing the connect button.</source>
+        <translation type="vanished">Выберите службу Wi-Fi перед нажатием кнопки подключения.</translation>
+    </message>
+    <message>
+        <source>You need to select a Wifi service before pressing the disconnect button.</source>
+        <translation type="vanished">Выберите службу Wi-Fi перед нажатием кнопки отсоединения.</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="839"/>
+        <source>You need to select a Wifi service before pressing the remove button.</source>
+        <translation>Выберите службу Wi-Fi перед нажатием кнопки удаления.</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="868"/>
+        <source>Offline Mode Engaged</source>
+        <translation>Автономный режим активирован</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="873"/>
+        <source>Offline Mode Disabled</source>
+        <translation>Автономный режим отключён</translation>
+    </message>
+    <message>
+        <source>%1 (%2) Network</source>
+        <translation type="vanished">%1 (%2) сеть</translation>
+    </message>
+    <message>
+        <source>Connection: %1</source>
+        <translation type="vanished">Соединение: %1</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="887"/>
+        <source>Network Services:</source>
+        <translation>Сетевые службы:</translation>
+    </message>
+    <message>
+        <source>No network services available</source>
+        <translation type="vanished">Не доступны никакие сетевые службы</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1129"/>
+        <source>Service Error: %1</source>
+        <translation>Ошибка службы: %1</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1130"/>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1157"/>
+        <source>Object Path: %1</source>
+        <translation>Путь к объекту: %1</translation>
+    </message>
+    <message>
+        <source>&lt;center&gt;&lt;b&gt;We received a DBUS reply message indicating an error while trying to scan technologies.&lt;/b&gt;&lt;/center&gt;&lt;br&gt;&lt;br&gt;Error Name: %1&lt;br&gt;&lt;br&gt;Error Message: %2</source>
+        <translation type="vanished">&lt;center&gt;&lt;b&gt;Мы получили ответ DBUS, сообщающий об ошибке при попытке сканирования технологий.&lt;/b&gt;&lt;/center&gt;&lt;br&gt;&lt;br&gt;Название ошибки: %1&lt;br&gt;&lt;br&gt;Сообщение ошибки: %2</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1479"/>
+        <source>&lt;br&gt;&lt;b&gt;Service Details:&lt;/b&gt;&lt;br&gt;</source>
+        <translation>&lt;br&gt;&lt;b&gt;Подробности о службе:&lt;/b&gt;&lt;br&gt;</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1476"/>
+        <source>&lt;b&gt;Connection:&lt;/b&gt; %1</source>
+        <translation>&lt;b&gt;Соединение:&lt;/b&gt; %1</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="150"/>
@@ -1399,66 +1489,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="516"/>
-        <source>About AwOken</source>
-        <translation>关于 AwOken</translation>
-    </message>
-    <message>
-        <source>&lt;center&gt;This program uses the &lt;b&gt;AwOken&lt;/b&gt; icon set version 2.5&lt;br&gt;&lt;br&gt;Released under the&lt;br&gt;Creative Commons&lt;br&gt;Attribution-Share Alike 3.0&lt;br&gt;Unported License&lt;br&gt;&lt;a href=&quot;url&quot;&gt;http://creativecommons.org/licenses/by-sa/3.0/legalcode&lt;/a&gt;&lt;br&gt;&lt;center&gt;The CMST icon is a derivative work from the AwOken icon set.</source>
-        <translation type="vanished">&lt;center&gt;此程序使用 &lt;b&gt;AwOken&lt;/b&gt; 图标集 版本 2.5&lt;br&gt;&lt;br&gt;在以下许可下发布：&lt;br&gt;Creative Commons&lt;br&gt;Attribution-Share Alike 3.0&lt;br&gt;Unported License&lt;br&gt;&lt;a href=&quot;url&quot;&gt;http://creativecommons.org/licenses/by-sa/3.0/legalcode&lt;/a&gt;&lt;br&gt;&lt;center&gt;CMST 图标是 AwOken 图标集的衍生作品。</translation>
-    </message>
-    <message>
-        <source>%1 license is the MIT license.</source>
-        <translation type="vanished">%1 的许可是 MIT license.</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="547"/>
-        <source>License</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="555"/>
-        <source>%1 change log is not available.</source>
-        <translation>%1 更新日志不可用。</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="557"/>
-        <source>ChangeLog</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="674"/>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2584"/>
-        <source>Cancel</source>
-        <translation>取消</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="699"/>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="704"/>
-        <source>&lt;b&gt;Service:&lt;/b&gt; %1</source>
-        <translation>&lt;b&gt;服务:&lt;/b&gt; %1</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="704"/>
-        <source>Unable to determine service</source>
-        <translation>无法确定服务</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="736"/>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="810"/>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="838"/>
-        <source>No Services Selected</source>
-        <translation>未选择服务</translation>
-    </message>
-    <message>
-        <source>You need to select a Wifi service before pressing the connect button.</source>
-        <translation type="vanished">在按下连接按钮之前，你需要选择一个Wifi服务。</translation>
-    </message>
-    <message>
-        <source>You need to select a Wifi service before pressing the disconnect button.</source>
-        <translation type="vanished">在按下断开按钮之前，你需要选择一个Wifi服务。</translation>
-    </message>
-    <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="545"/>
         <source>%1 license is the MIT (Expat) license.</source>
         <translation type="unfinished"></translation>
@@ -1474,54 +1504,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="839"/>
-        <source>You need to select a Wifi service before pressing the remove button.</source>
-        <translation>在按下忘记按钮之前，你需要选择一个Wifi服务。</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="868"/>
-        <source>Offline Mode Engaged</source>
-        <translation>飞行模式已开启</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="870"/>
-        <source>All network devices are powered off, now in Airplane mode.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="873"/>
-        <source>Offline Mode Disabled</source>
-        <translation>飞行模式已禁用</translation>
-    </message>
-    <message>
-        <source>%1 (%2) Network</source>
-        <translation type="vanished">%1 (%2) 网络</translation>
-    </message>
-    <message>
-        <source>Connection: %1</source>
-        <translation type="vanished">连接: %1</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="887"/>
-        <source>Network Services:</source>
-        <translation>网络服务:</translation>
-    </message>
-    <message>
-        <source>No network services available</source>
-        <translation type="vanished">无可用网络服务</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1129"/>
-        <source>Service Error: %1</source>
-        <translation>服务错误: %1</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1130"/>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1157"/>
-        <source>Object Path: %1</source>
-        <translation>对象路径: %1</translation>
-    </message>
-    <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1150"/>
         <source>VPN Engaged</source>
         <translation type="unfinished"></translation>
@@ -1535,25 +1517,25 @@
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1772"/>
         <source>On</source>
         <comment>powered</comment>
-        <translation type="unfinished">是</translation>
+        <translation type="unfinished">включено</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1777"/>
         <source>Off</source>
         <comment>powered</comment>
-        <translation type="unfinished">关</translation>
+        <translation type="unfinished">Выключено</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1792"/>
         <source>On</source>
         <comment>tethering</comment>
-        <translation type="unfinished">是</translation>
+        <translation type="unfinished">включено</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1797"/>
         <source>Off</source>
         <comment>tethering</comment>
-        <translation type="unfinished">关</translation>
+        <translation type="unfinished">Выключено</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2343"/>
@@ -1563,156 +1545,187 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2631"/>
         <source> Warning</source>
-        <translation> 警告</translation>
-    </message>
-    <message>
-        <source>&lt;center&gt;&lt;b&gt;We received a DBUS reply message indicating an error while trying to scan technologies.&lt;/b&gt;&lt;/center&gt;&lt;br&gt;&lt;br&gt;Error Name: %1&lt;br&gt;&lt;br&gt;Error Message: %2</source>
-        <translation type="vanished">&lt;center&gt;&lt;b&gt;扫描设备时收到了一个来自DBUS的错误消息。&lt;/b&gt;&lt;/center&gt;&lt;br&gt;&lt;br&gt;错误名称: %1&lt;br&gt;&lt;br&gt;错误消息: %2</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1476"/>
-        <source>&lt;b&gt;Connection:&lt;/b&gt; %1</source>
-        <translation>&lt;b&gt;连接:&lt;/b&gt; %1</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1479"/>
-        <source>&lt;br&gt;&lt;b&gt;Service Details:&lt;/b&gt;&lt;br&gt;</source>
-        <translation>&lt;br&gt;&lt;b&gt;服务详情:&lt;/b&gt;&lt;br&gt;</translation>
+        <translation> внимание</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1481"/>
         <source>Service Type: %1&lt;br&gt;</source>
-        <translation>服务类型: %1&lt;br&gt;</translation>
+        <translation>Тип службы: %1&lt;br&gt;</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="517"/>
+        <source>&lt;center&gt;This program uses the &lt;b&gt;AwOken&lt;/b&gt; icon set version 2.5&lt;br&gt;&lt;br&gt;Released under the&lt;br&gt;Creative Commons&lt;br&gt;Attribution-Share Alike 3.0&lt;br&gt;Unported License&lt;br&gt;&lt;a href=&quot;url&quot;&gt;http://creativecommons.org/licenses/by-sa/3.0/legalcode&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="530"/>
+        <source>About Other Artwork</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="531"/>
+        <source>&lt;center&gt;This program uses artwork from &lt;b&gt;Freepik&lt;/b&gt; obtained from www.flaticon.com:&lt;br&gt;&lt;br&gt;Released under the Flaticon Basic License&lt;br&gt;&lt;a href=&quot;url&quot;&gt;https://file000.flaticon.com/downloads/license/license.pdf&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Artwork files:&lt;/b&gt;&lt;li&gt;radio.png&lt;/li&gt;&lt;li&gt;basic-plane.png&lt;/li&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="870"/>
+        <source>All network devices are powered off, now in Airplane mode.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="875"/>
+        <source>Power has been restored to all previously powered network devices.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="890"/>
+        <source>The system is online.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="896"/>
+        <source>The system is offline.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1237"/>
+        <source>&lt;b&gt;Technology: %1&lt;/b&gt;&lt;p&gt;Please enter the WiFi AP SSID that clients will&lt;br&gt;have to join in order to gain internet connectivity.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1249"/>
+        <source>&lt;b&gt;Technology: %1&lt;/b&gt;&lt;p&gt;Please enter the WPA pre-shared key clients will&lt;br&gt;have to use in order to establish a connection.&lt;p&gt;PSK length: minimum of 8 characters.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1482"/>
         <source>Service State: %1&lt;br&gt;</source>
-        <translation>服务状态: %1&lt;br&gt;</translation>
+        <translation>Состояние службы: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1483"/>
         <source>Favorite: %1&lt;br&gt;</source>
-        <translation>已保存: %1&lt;br&gt;</translation>
+        <translation>Избранное: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1483"/>
         <source>Yes</source>
         <comment>favorite</comment>
-        <translation>是</translation>
+        <translation>Да</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1483"/>
         <source>No</source>
         <comment>favorite</comment>
-        <translation>否</translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1484"/>
         <source>External Configuration File: %1&lt;br&gt;</source>
-        <translation>外部配置文件: %1&lt;br&gt;</translation>
+        <translation>Внешний файл настроек: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1484"/>
         <source>Yes</source>
         <comment>immutable</comment>
-        <translation>是</translation>
+        <translation>Да</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1484"/>
         <source>No</source>
         <comment>immutable</comment>
-        <translation>否</translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1486"/>
         <source>Auto Connect: %1&lt;br&gt;</source>
-        <translation>自动连接: %1&lt;br&gt;</translation>
+        <translation>Автоподсоединение: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1486"/>
         <source>On</source>
         <comment>autoconnect</comment>
-        <translation>是</translation>
+        <translation>включено</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1486"/>
         <source>No</source>
         <comment>autoconnect</comment>
-        <translation>否</translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1488"/>
         <source>&lt;br&gt;&lt;b&gt;IPv4&lt;/b&gt;&lt;br&gt;</source>
-        <translation></translation>
+        <translation>&lt;br&gt;&lt;b&gt;IPv4&lt;/b&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1490"/>
         <source>IP Address Acquisition: %1&lt;br&gt;</source>
-        <translation>IP 地址获取: %1&lt;br&gt;</translation>
+        <translation>Получение адреса IP: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1491"/>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1498"/>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1533"/>
         <source>IP Address: %1&lt;br&gt;</source>
-        <translation>IP 地址: %1&lt;br&gt;</translation>
+        <translation>Адрес IP: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1492"/>
         <source>IP Netmask: %1&lt;br&gt;</source>
-        <translation>IP 子网掩码: %1&lt;br&gt;</translation>
+        <translation>Сетевая маска IP: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1493"/>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1504"/>
         <source>IP Gateway: %1&lt;br&gt;</source>
-        <translation>IP 网关: %1&lt;br&gt;</translation>
+        <translation>Шлюз IP: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1495"/>
         <source>&lt;br&gt;&lt;b&gt;IPv6&lt;/b&gt;&lt;br&gt;</source>
-        <translation></translation>
+        <translation>&lt;br&gt;&lt;b&gt;IPv6&lt;/b&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1497"/>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1510"/>
         <source>Address Acquisition: %1&lt;br&gt;</source>
-        <translation>地址获取: %1&lt;br&gt;</translation>
+        <translation>Получение адреса: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1501"/>
         <source>Prefix Length: &lt;br&gt;</source>
-        <translation>前缀长度: &lt;br&gt;</translation>
+        <translation>Длина префикса: &lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1503"/>
         <source>Prefix Length: %1&lt;br&gt;</source>
-        <translation>前缀长度: %1&lt;br&gt;</translation>
+        <translation>Длина префикса: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1505"/>
         <source>Privacy: %1&lt;br&gt;</source>
-        <translation>隐私: %1&lt;br&gt;</translation>
+        <translation>Конфиденциальность: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1507"/>
         <source>&lt;br&gt;&lt;b&gt;Proxy&lt;/b&gt;&lt;br&gt;</source>
-        <translation>&lt;br&gt;&lt;b&gt;代理&lt;/b&gt;&lt;br&gt;</translation>
+        <translation>&lt;br&gt;&lt;b&gt;Прокси&lt;/b&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1512"/>
         <source>URL: %1&lt;br&gt;</source>
-        <translation></translation>
+        <translation>URL: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1515"/>
         <source>Servers:&lt;br&gt;&amp;nbsp;&amp;nbsp;%1&lt;br&gt;</source>
-        <translation>服务器:&lt;br&gt;&amp;nbsp;&amp;nbsp;%1&lt;br&gt;</translation>
+        <translation>Серверы:&lt;br&gt;&amp;nbsp;&amp;nbsp;%1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1516"/>
         <source>Excludes:&lt;br&gt;&amp;nbsp;&amp;nbsp;%1&lt;br&gt;</source>
-        <translation>排除:&lt;br&gt;&amp;nbsp;&amp;nbsp;%1&lt;br&gt;</translation>
+        <translation>Исключая:&lt;br&gt;&amp;nbsp;&amp;nbsp;%1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1521"/>
@@ -1728,13 +1741,13 @@
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1522"/>
         <source>Yes</source>
         <comment>mdns</comment>
-        <translation type="unfinished">是</translation>
+        <translation type="unfinished">Да</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1522"/>
         <source>No</source>
         <comment>mdns</comment>
-        <translation type="unfinished">否</translation>
+        <translation type="unfinished">Нет</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1531"/>
@@ -1760,86 +1773,86 @@
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1537"/>
         <source>Yes</source>
         <comment>last_address_conflict</comment>
-        <translation type="unfinished">是</translation>
+        <translation type="unfinished">Да</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1537"/>
         <source>No</source>
         <comment>last_address_conflict</comment>
-        <translation type="unfinished">否</translation>
+        <translation type="unfinished">Нет</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1546"/>
         <source>&lt;br&gt;&lt;b&gt;Name Servers&lt;/b&gt;&lt;br&gt;</source>
-        <translation>&lt;br&gt;&lt;b&gt;DNS&lt;/b&gt;&lt;br&gt;</translation>
+        <translation>&lt;br&gt;&lt;b&gt;Серверы имён&lt;/b&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1549"/>
         <source>&lt;br&gt;&lt;br&gt;&lt;b&gt;Time Servers&lt;/b&gt;&lt;br&gt;  </source>
-        <translation>&lt;br&gt;&lt;br&gt;&lt;b&gt;时间服务器&lt;/b&gt;&lt;br&gt;  </translation>
+        <translation>&lt;br&gt;&lt;br&gt;&lt;b&gt;Серверы времени&lt;/b&gt;&lt;br&gt;  </translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1552"/>
         <source>&lt;br&gt;&lt;br&gt;&lt;b&gt;Search Domains&lt;/b&gt;&lt;br&gt;  </source>
-        <translation>&lt;br&gt;&lt;br&gt;&lt;b&gt;搜索域&lt;/b&gt;&lt;br&gt;  </translation>
+        <translation>&lt;br&gt;&lt;br&gt;&lt;b&gt;Домены поиска&lt;/b&gt;&lt;br&gt;  </translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1555"/>
         <source>&lt;br&gt;&lt;br&gt;&lt;b&gt;Ethernet&lt;/b&gt;&lt;br&gt;</source>
-        <translation>&lt;br&gt;&lt;br&gt;&lt;b&gt;以太网&lt;/b&gt;&lt;br&gt;</translation>
+        <translation>&lt;br&gt;&lt;br&gt;&lt;b&gt;Ethernet&lt;/b&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1557"/>
         <source>Connection Method: %1&lt;br&gt;</source>
-        <translation>连接方式: %1&lt;br&gt;</translation>
+        <translation>Способ подключения: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1558"/>
         <source>Interface: %1&lt;br&gt;</source>
-        <translation>接口: %1&lt;br&gt;</translation>
+        <translation>Интерфейс: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1559"/>
         <source>Device Address: %1&lt;br&gt;</source>
-        <translation>设备地址: %1&lt;br&gt;</translation>
+        <translation>Адрес устройства: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1560"/>
         <source>MTU: %1&lt;br&gt;</source>
-        <translation></translation>
+        <translation>MTU: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1562"/>
         <source>&lt;br&gt;&lt;b&gt;Wireless&lt;/b&gt;&lt;br&gt;</source>
-        <translation>&lt;br&gt;&lt;b&gt;无线&lt;/b&gt;&lt;br&gt;</translation>
+        <translation>&lt;br&gt;&lt;b&gt;Беспроводные сети&lt;/b&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1567"/>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2171"/>
         <source>Security: %1&lt;br&gt;</source>
-        <translation>安全性: %1&lt;br&gt;</translation>
+        <translation>Безопасность: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1568"/>
         <source>Strength: %1&lt;br&gt;</source>
-        <translation>强度: %1&lt;br&gt;</translation>
+        <translation>Сила: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1569"/>
         <source>Roaming: %1&lt;br&gt;</source>
-        <translation>漫游: %1&lt;br&gt;</translation>
+        <translation>Роуминг: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1569"/>
         <source>Yes</source>
         <comment>roaming</comment>
-        <translation>是</translation>
+        <translation>Да</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1569"/>
         <source>No</source>
         <comment>roaming</comment>
-        <translation>否</translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1571"/>
@@ -1871,100 +1884,95 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1717"/>
         <source>State: </source>
-        <translation>状态: </translation>
+        <translation>Состояние: </translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1723"/>
         <source>Engaged</source>
-        <translation>启用</translation>
+        <translation>активирован</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1728"/>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2275"/>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2346"/>
         <source>Disabled</source>
-        <translation>禁用</translation>
+        <translation>не активирован</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1731"/>
         <source>Offline Mode </source>
-        <translation>飞行模式</translation>
+        <translation>Автономный режим </translation>
     </message>
     <message>
         <source>%1On%1%1</source>
         <comment>powered</comment>
-        <translation type="vanished">%1开%1%1</translation>
+        <translation type="vanished">%1Да%1%1</translation>
     </message>
     <message>
         <source>%1Off%1%1</source>
         <comment>powered</comment>
-        <translation type="vanished">%1关%1%1</translation>
+        <translation type="vanished">%1Нет%1%1</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1785"/>
         <source>Yes</source>
         <comment>connected</comment>
-        <translation>是</translation>
+        <translation>Да</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1785"/>
         <source>No</source>
         <comment>connected</comment>
-        <translation>否</translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <source>Yes</source>
         <comment>tethered</comment>
-        <translation type="vanished">是</translation>
+        <translation type="vanished">Да</translation>
     </message>
     <message>
         <source>No</source>
         <comment>tethered</comment>
-        <translation type="vanished">否</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1932"/>
-        <source>  WiFi Technologies:&lt;br&gt;  %1 Found, %2 Powered</source>
-        <translation>  WiFi 设备:&lt;br&gt;  %1 已找到, %2 已启用</translation>
+        <translation type="vanished">Нет</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2130"/>
         <source>Update resolution of the counters is based on a threshold of %L1 KB of data and %L2 seconds of time.</source>
-        <translation>统计更新的阈值是 %L1 KB 的数据和 %L2 秒的时间。</translation>
+        <translation>Частота обновления счётчиков основана на пороговом значении %L1 КБ данных и %L2 секундах времени.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2157"/>
         <source>Ethernet Connection&lt;br&gt;</source>
         <comment>icon_tool_tip</comment>
-        <translation>以太网连接&lt;br&gt;</translation>
+        <translation>Соединение Ethernet&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2158"/>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2186"/>
         <source>Service: %1&lt;br&gt;</source>
-        <translation>服务: %1&lt;br&gt;</translation>
+        <translation>Служба:%1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2159"/>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2173"/>
         <source>Interface: %1</source>
-        <translation>接口: %1&lt;br&gt;</translation>
+        <translation>Интерфейс: %1</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2164"/>
         <source>WiFi Connection&lt;br&gt;</source>
         <comment>icon_tool_tip</comment>
-        <translation>WiFi 连接&lt;br&gt;</translation>
+        <translation>Соединение Wi-Fi&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2166"/>
         <source>SSID: %1&lt;br&gt;</source>
-        <translation></translation>
+        <translation>SSID: %1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2172"/>
         <source>Strength: %1%&lt;br&gt;</source>
-        <translation>强度: %1%&lt;br&gt;</translation>
+        <translation>Сила: %1%&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2184"/>
@@ -1976,40 +1984,35 @@
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2196"/>
         <source>Connection is in the Ready State.</source>
         <comment>icon_tool_tip</comment>
-        <translation>连接处于就绪状态。</translation>
+        <translation>Соединение в состоянии готовности.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2207"/>
         <source>Connection is in the Failure State, attempting to reestablish the connection</source>
         <comment>icon_tool_tip</comment>
-        <translation>连接处于失败状态，尝试重新建立连接</translation>
+        <translation>Соединение в неработоспособном состоянии, попытка переподключения</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2211"/>
         <source>Connection is in the Failure State.</source>
         <comment>icon_tool_tip</comment>
-        <translation>连接处于失败状态。</translation>
+        <translation>Соединение в неработоспособном состоянии.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2217"/>
         <source>Not Connected</source>
         <comment>icon_tool_tip</comment>
-        <translation>未连接</translation>
+        <translation>Не подключено</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2224"/>
         <source>Error retrieving properties via Dbus</source>
-        <translation>从DBUS取回属性失败</translation>
+        <translation>Ошибка при получении свойств через Dbus</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2225"/>
         <source>Connection status is unknown</source>
-        <translation>连接状态未知</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2268"/>
-        <source>&lt;p style=&apos;white-space:pre&apos;&gt;&lt;center&gt;&lt;b&gt;%1 Properties&lt;/b&gt;&lt;/center&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Состояние соединения неизвестно</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2269"/>
@@ -2024,17 +2027,17 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2271"/>
         <source>On</source>
-        <translation type="unfinished">是</translation>
+        <translation type="unfinished">включено</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2271"/>
         <source>Off</source>
-        <translation type="unfinished">关</translation>
+        <translation type="unfinished">Выключено</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2273"/>
         <source>Not Connected</source>
-        <translation type="unfinished">未连接</translation>
+        <translation type="unfinished">Не подключено</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2274"/>
@@ -2045,7 +2048,7 @@
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2275"/>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2346"/>
         <source>Enabled</source>
-        <translation type="unfinished">启用</translation>
+        <translation type="unfinished">Включена</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2333"/>
@@ -2085,122 +2088,82 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="517"/>
-        <source>&lt;center&gt;This program uses the &lt;b&gt;AwOken&lt;/b&gt; icon set version 2.5&lt;br&gt;&lt;br&gt;Released under the&lt;br&gt;Creative Commons&lt;br&gt;Attribution-Share Alike 3.0&lt;br&gt;Unported License&lt;br&gt;&lt;a href=&quot;url&quot;&gt;http://creativecommons.org/licenses/by-sa/3.0/legalcode&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="530"/>
-        <source>About Other Artwork</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="531"/>
-        <source>&lt;center&gt;This program uses artwork from &lt;b&gt;Freepik&lt;/b&gt; obtained from www.flaticon.com:&lt;br&gt;&lt;br&gt;Released under the Flaticon Basic License&lt;br&gt;&lt;a href=&quot;url&quot;&gt;https://file000.flaticon.com/downloads/license/license.pdf&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Artwork files:&lt;/b&gt;&lt;li&gt;radio.png&lt;/li&gt;&lt;li&gt;basic-plane.png&lt;/li&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="875"/>
-        <source>Power has been restored to all previously powered network devices.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="890"/>
-        <source>The system is online.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="896"/>
-        <source>The system is offline.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1237"/>
-        <source>&lt;b&gt;Technology: %1&lt;/b&gt;&lt;p&gt;Please enter the WiFi AP SSID that clients will&lt;br&gt;have to join in order to gain internet connectivity.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1249"/>
-        <source>&lt;b&gt;Technology: %1&lt;/b&gt;&lt;p&gt;Please enter the WPA pre-shared key clients will&lt;br&gt;have to use in order to establish a connection.&lt;p&gt;PSK length: minimum of 8 characters.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>%1On%1%1</source>
         <comment>tethering</comment>
-        <translation type="obsolete">%1开%1%1</translation>
+        <translation type="obsolete">%1Да%1%1</translation>
     </message>
     <message>
         <source>%1Off%1%1</source>
         <comment>tethering</comment>
-        <translation type="obsolete">%1关%1%1</translation>
+        <translation type="obsolete">%1Нет%1%1</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2632"/>
         <source>&lt;center&gt;&lt;b&gt;Unable to find a systemtray on this machine.&lt;/b&gt;&lt;center&gt;&lt;br&gt;The program may still be used to manage your connections, but the tray icon will be disabled.&lt;center&gt;&lt;br&gt;&lt;br&gt;If you are seeing this message at system start up and you know a system tray exists once the system is up, try starting with the &lt;b&gt;-w&lt;/b&gt; switch and set a delay as necessary.  The exact wait time will vary from system to system.</source>
-        <translation>&lt;center&gt;&lt;b&gt;未能在此机上找到系统托盘。&lt;/b&gt;&lt;center&gt;&lt;br&gt;此程序仍可用于管理你的连接，但是托盘图标会被禁用。&lt;center&gt;&lt;br&gt;&lt;br&gt;如果你在系统启动时看到这个信息，并且你知道当系统启动时系统托盘存在，尝试用 &lt;b&gt;-w&lt;/b&gt; 参数启动本程序，并在有必要的情况下设置一个延迟时间。  实际的等待时间因不同系统而异。</translation>
+        <translation>&lt;center&gt;&lt;b&gt;Не удалось найти системный лоток в этой системе.&lt;/b&gt;&lt;center&gt;&lt;br&gt;Эта программа всё-ещё может быть использована для управения вашими соединениями, но значок в системном лотке отражаться не будет.&lt;center&gt;&lt;br&gt;&lt;br&gt;Если вы видите это сообщение при загрузке системы и вы знаете, что системный лоток будет после загрузки системы, попытайтесь запустить с опцией &lt;b&gt;-w&lt;/b&gt; и установить нужную задержку. Точное время ожидания будет зависеть от конкретной системы.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2814"/>
         <source>Could not find a connection to the system bus</source>
-        <translation>无法连接到system bus</translation>
+        <translation>Не удалось найти подключение к системной шине</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2815"/>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2820"/>
         <source>%1 - Critical Error</source>
-        <translation>%1 - 严重错误</translation>
+        <translation>%1 - критическая ошибка</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2816"/>
         <source>Unable to find a connection to the system bus.&lt;br&gt;&lt;br&gt;%1 will not be able to communicate with connman.</source>
-        <translation>无法连接到system bus。&lt;br&gt;&lt;br&gt;%1 将无法与connman通信。</translation>
+        <translation>Не удалось найти подключение к системной шине.&lt;br&gt;&lt;br&gt;%1 не сможет обмениваться данными с connman.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2819"/>
         <source>Could not create an interface to connman on the system bus</source>
-        <translation>无法在 system bus 上创建与connman通信的接口</translation>
+        <translation>Не удалось создать интерфейс для connman на системной шине</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2821"/>
         <source>Unable to create an interface to connman on the system bus.&lt;br&gt;&lt;br&gt;%1 will not be able to communicate with connman.</source>
-        <translation>无法在 system bus 上创建与connman通信的接口。&lt;br&gt;&lt;br&gt;%1 将无法与connman通信。</translation>
+        <translation>Не удалось создать интерфейс для connman на системной шине.&lt;br&gt;&lt;br&gt;%1 не сможет обмениваться данными с connman.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2824"/>
         <source>Error reading or parsing connman.Manager.GetProperties</source>
-        <translation>在读取或解析connman.Manager.GetProperties时发生错误</translation>
+        <translation>Ошибка чтения или анализа connman.Manager.GetProperties</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2825"/>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2830"/>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2835"/>
         <source>%1 - Warning</source>
-        <translation>%1 - 警告</translation>
+        <translation>%1 - внимание</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2826"/>
         <source>There was an error reading or parsing the reply from method connman.Manager.GetProperties.&lt;br&gt;&lt;br&gt;It is unlikely any portion of %1 will be functional.</source>
-        <translation>在读取或解析connman.Manager.GetProperties的回应时发生了一个错误。&lt;br&gt;&lt;br&gt;%1 可能不工作。</translation>
+        <translation>Произошла ошибка при чтении или анализе ответа от метода connman.Manager.GetProperties.&lt;br&gt;&lt;br&gt;Вряд ли какая-нибудь часть %1 будет функционировать.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2829"/>
         <source>Error reading or parsing connman.Manager.GetTechnologies</source>
-        <translation>在读取或解析connman.Manager.GetProperties时发生错误</translation>
+        <translation>Ошибка чтения или анализа connman.Manager.GetTechnologies</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2831"/>
         <source>There was an error reading or parsing the reply from method connman.Manager.GetTechnologies.&lt;br&gt;&lt;br&gt;Some portion of %1 may still be functional.</source>
-        <translation>在读取或解析connman.Manager.GetProperties的回应时发生了一个错误。&lt;br&gt;&lt;br&gt;%1 部分功能可能仍可以工作。</translation>
+        <translation>Произошла ошибка при чтении или анализе ответа от метода connman.Manager.GetTechnologies.&lt;br&gt;&lt;br&gt;Какая-то часть %1 всё ещё может функционировать.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2834"/>
         <source>Error reading or parsing connman.Manager.GetServices</source>
-        <translation>在读取或解析connman.Manager.GetProperties时发生错误</translation>
+        <translation>Ошибка чтения или анализа connman.Manager.GetServices</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2836"/>
         <source>There was an error reading or parsing the reply from method connman.Manager.GetServices.&lt;br&gt;&lt;br&gt;Some portion of %1 may still be functional.</source>
-        <translation>在读取或解析connman.Manager.GetProperties的回应时发生了一个错误。&lt;br&gt;&lt;br&gt;%1 部分功能可能仍可以工作。</translation>
+        <translation>Произошла ошибка при чтении или анализе ответа от метода connman.Manager.GetServices.&lt;br&gt;&lt;br&gt;Какая-то часть %1 всё ещё может функционировать.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2843"/>
@@ -2213,28 +2176,38 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2956"/>
-        <source>%1 version %2 by %3 has been detected on this system.&lt;p&gt;This server supports desktop Notification Specification version %4</source>
-        <translation>检测到 %1 版本 %2 by %3 。&lt;p&gt;这个服务支持桌面通知规范 版本 %4</translation>
-    </message>
-    <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="3086"/>
         <source>Colorize Icons</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1932"/>
+        <source>  WiFi Technologies:&lt;br&gt;  %1 Found, %2 Powered</source>
+        <translation>Технологии Wi-Fi:&lt;br&gt;найдено %1, включено %2</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2268"/>
+        <source>&lt;p style=&apos;white-space:pre&apos;&gt;&lt;center&gt;&lt;b&gt;%1 Properties&lt;/b&gt;&lt;/center&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2956"/>
+        <source>%1 version %2 by %3 has been detected on this system.&lt;p&gt;This server supports desktop Notification Specification version %4</source>
+        <translation>%1 версия %2 by %3 была обнаружена в этой системе.&lt;p&gt;Этот сервер поддерживает спецификацию уведомлений рабочего стола версии %4</translation>
+    </message>
+    <message>
         <source>%1 detected</source>
-        <translation type="vanished">检测到 %1</translation>
+        <translation type="vanished">%1 обнаружена</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2968"/>
         <source>Attempt %1 of 4 looking for notification server.</source>
-        <translation>尝试 %1 of 4 查找通知服务。</translation>
+        <translation>Попытка %1 из 4-х поиска сервера уведомлений.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2971"/>
         <source>Unable to find or connect to a Notification server.</source>
-        <translation>无法找到或连接通知服务。</translation>
+        <translation>Не удалось найти или подключиться к серверу уведомлений.</translation>
     </message>
 </context>
 <context>
@@ -2250,151 +2223,155 @@
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="14"/>
         <source>Property Editor</source>
-        <translation>设置编辑器</translation>
+        <translation>Редактор свойств</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="35"/>
         <source>&amp;General</source>
-        <translation>通用(&amp;G)</translation>
+        <translation>&amp;Общие</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="41"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked this service will auto-connect when no other connection is available. This is only available for services marked &amp;quot;Favorite&amp;quot;. &lt;/p&gt;&lt;p&gt;The service will not auto-connect while roaming.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;若勾选，这个服务将在没有其它可用连接时自动连接。这个只能被标记为 &amp;quot;已保存&amp;quot;的服务使用。 &lt;/p&gt;&lt;p&gt;漫游时，服务将不会自动连接。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Если активировано, то, когда другие соединения недоступны, эта служба будет подключать компьютер автоматически. Это доступно только для служб, помеченных как &amp;quot;Избранное&amp;quot;. &lt;/p&gt;&lt;p&gt;Эта служба не будет подключаться автоматически во время роуминга.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="44"/>
         <source>AutoConnect</source>
-        <translation>自动连接</translation>
+        <translation>Автоподсоединение</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="73"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The list of manually configured domain name servers. Some cellular networks don&apos;t provide correct name servers and this allows for an override.&lt;/p&gt;&lt;p&gt;This array is sorted by priority and the first entry in the list represents the nameserver with the highest priority.&lt;/p&gt;&lt;p&gt;When using manual configuration and no global nameservers are configured, then it is useful to configure this setting.&lt;/p&gt;&lt;p&gt;Enter one or more IP addresses.  Separate each address you enter by a comma, semi-colon, or by white space.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;手动配置的DNS服务器列表。部分蜂窝网络不提供正确的域名解析服务器，这个列表能覆盖设置。&lt;/p&gt;&lt;p&gt;这个列表按照优先级排序，列表中的第一项表示最优先的DNS服务器。&lt;/p&gt;&lt;p&gt;当处于手动模式且没有设置全局域名服务器时，这项设置十分有用。&lt;/p&gt;&lt;p&gt;输入一个或多个IP地址。  用英文逗号、分号或空格分隔不同地址。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Список настроенных вручную серверов доменных имён. Некоторые сотовые сети не предоставляют правильные сервера имён, и эта опция позволяет переопределение.&lt;/p&gt;&lt;p&gt;Этот массив отсортирован по приоритету, и первый пункт в списке означает сервер имён с наивысшим приоритетом.&lt;/p&gt;&lt;p&gt;Эта настройка полезна, когда используется ручная конфигурация и не настроен глобальный сервер доменных имён.&lt;/p&gt;&lt;p&gt;Введите один или больше адресов IP. Отделите каждый введённый адрес запятой, точкой с запятой или пробелом.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="76"/>
         <source>&amp;Nameservers</source>
-        <translation>DNS服务器(&amp;N)</translation>
+        <translation>&amp;Серверы имён</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="107"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The list of manually configured time servers.&lt;/p&gt;&lt;p&gt;The first entry in the list represents the timeserver with the highest priority.&lt;/p&gt;&lt;p&gt;When using manual configuration this setting is useful to override all the other timeserver settings. This is service specific, hence only the values for the default service are used.&lt;/p&gt;&lt;p&gt;Changes to this property will result in restart of NTP query.&lt;/p&gt;&lt;p&gt;Enter one or more IP addresses.  Separate each address you enter by a comma, semi-colon, or by white space.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;手动配置的时间服务器列表。&lt;/p&gt;&lt;p&gt;列表中的第一项表示最优先的服务器。&lt;/p&gt;&lt;p&gt;使用手动配置时，这个设置可以覆盖其它所有时间服务器设置。这因服务而异，因此只针对默认的在使用的服务的值。&lt;/p&gt;&lt;p&gt;改变这项设置会重启NTP查询。&lt;/p&gt;&lt;p&gt;输入一个或多个IP地址。  用英文逗号、分号或空格分隔不同地址。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Список заданных вручную серверов времени.&lt;/p&gt;&lt;p&gt;Первый пункт списка означает сервер времени в наивысшим приоритетом.&lt;/p&gt;&lt;p&gt;При использовании ручной конфигурации эта настройка полезна для перезаписи настроек всех остальных настроек серверов времени. Это зависит от конкретной службы, следовательно, используются только значения для службы по умолчанию.&lt;/p&gt;&lt;p&gt;Изменения этого свойства приведут к перезапуску запросов NTP.&lt;/p&gt;&lt;p&gt;Введите один или более адресов IP. Отделите каждый введённый адрес запятой, точкой с запятой или пробелом.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;TImeservers</source>
-        <translation type="vanished">时间服务器(&amp;T)</translation>
+        <translation type="vanished">&amp;Серверы времени</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="141"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;List of manually configures search domains.&lt;/p&gt;&lt;p&gt;Enter one or more IP addresses.  Separate each address you enter by a comma, semi-colon, or by white space.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;手动配置的搜索域列表。&lt;/p&gt;&lt;p&gt;输入一个或多个IP地址。  用英文逗号、分号或空格分隔不同地址。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Список заданных вручную доменов поиска.&lt;/p&gt;&lt;p&gt;Введите один или больше адресов IP. Отделите каждый введённый адрес запятой, точкой с запятой или пробелом.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="144"/>
         <source>&amp;Domains</source>
-        <translation>域(&amp;D)</translation>
+        <translation>&amp;Домены</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;User configuration of IPv4 settings.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;IPv4的用户设置&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Пользовательская конфигурация настроек IPv4.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="175"/>
         <source>IPv&amp;4</source>
-        <translation></translation>
+        <translation>IPv&amp;4</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="193"/>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="387"/>
         <source>Address</source>
-        <translation>地址</translation>
+        <translation>Адрес</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="210"/>
         <source>Netmask</source>
-        <translation>子网掩码</translation>
+        <translation>Сетевая маска</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="220"/>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="334"/>
         <source>Gateway</source>
-        <translation>网关</translation>
+        <translation>Шлюз</translation>
+    </message>
+    <message>
+        <source>DHCP</source>
+        <translation type="vanished">DHCP</translation>
     </message>
     <message>
         <source>Manual</source>
-        <translation type="vanished">手动</translation>
+        <translation type="vanished">Вручную</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation type="vanished">关</translation>
+        <translation type="vanished">Выключено</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="241"/>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="415"/>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="451"/>
         <source>Method</source>
-        <translation>方法</translation>
+        <translation>Способ</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;User configuration of IPv6 settings&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;IPv6的用户配置&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Пользовательская конфигурация настроек IPv6&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="272"/>
         <source>IPv&amp;6</source>
-        <translation></translation>
+        <translation>IPv&amp;6</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="vanished">自动</translation>
+        <translation type="vanished">Автоматически</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="364"/>
         <source>Prefix Length</source>
-        <translation>前缀长度</translation>
+        <translation>Длина префикса</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="320"/>
         <source>Privacy</source>
-        <translation>隐私</translation>
+        <translation>Конфиденциальность</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="vanished">禁用</translation>
+        <translation type="vanished">Выключена</translation>
     </message>
     <message>
         <source>Preferred</source>
-        <translation type="vanished">可选</translation>
+        <translation type="vanished">Предпочитаема</translation>
     </message>
     <message>
         <source>Enabled</source>
-        <translation type="vanished">启用</translation>
+        <translation type="vanished">Включена</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="433"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;User configuration of Proxy settings.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;代理的用户配置&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Пользовательская конфигурация настроек прокси.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="436"/>
         <source>&amp;Proxy</source>
-        <translation>代理(&amp;P)</translation>
+        <translation>&amp;Прокси</translation>
     </message>
     <message>
         <source>Direct</source>
-        <translation type="vanished">直接连接</translation>
+        <translation type="vanished">Непосредственно</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="480"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Automatic proxy configuration URL.  Used by the &amp;quot;auto&amp;quot; method.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;自动代理配置的URL。  在&amp;quot;自动&amp;quot;方法中使用。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;URL-адрес для автоматической настройки прокси. Используется &amp;quot;автоматическим&amp;quot; способом.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="473"/>
         <source>URL</source>
-        <translation></translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="110"/>
@@ -2446,22 +2423,22 @@
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="504"/>
         <source>Servers</source>
-        <translation>服务器</translation>
+        <translation>Серверы</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="511"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Used when &amp;quot;manual&amp;quot; is set.List of proxy URIs.  The URI without a protocol will be interpreted as the generic proxy URI.&lt;/p&gt;&lt;p&gt;Enter one or more IP addresses. Separate each address you enter by a comma, semi-colon, or by white space.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;当启用&amp;quot;手动&amp;quot;方法时使用。代理URI的列表。  不带协议的URI会被当作通用代理URI。&lt;/p&gt;&lt;p&gt;输入一个或多个IP地址。  用英文逗号、分号或空格分隔不同地址。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Используется при выбранном &amp;quot;ручном&amp;quot; способе. Список URI прокси. URI без протокола будет использован как обычный URI прокси.&lt;/p&gt;&lt;p&gt;Введите один или больше адресов IP. Отделите каждый введённый адрес запятой, точкой с запятой или пробелом.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="518"/>
         <source>Excludes</source>
-        <translation>排除</translation>
+        <translation>Исключить</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="525"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Used when &amp;quot;manual&amp;quot; is set.  A list of hosts which can be accessed directly.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Enter one or more IP addresses.  Separate each address you enter by a comma, semi-colon, or by white space.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;当启用&amp;quot;手动&amp;quot;方法时使用。  可以直接访问的主机列表。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;输入一个或多个IP地址。  用英文逗号、分号或空格分隔不同地址。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Используется при выбранном &amp;quot;ручном&amp;quot; способе. Список узлов, к которым можно подключаться напрямую.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Введите один или больше адресов IP. Отделите каждый введённый адрес запятой, точкой с запятой или пробелом.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="551"/>
@@ -2481,47 +2458,47 @@
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="584"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;What&apos;s This&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;这是什么？&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Что это&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="607"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Clear all entries on the current page.&lt;/p&gt;&lt;p&gt;This button will reset every field on the current page to the default value, which generally means nothing in the field.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;清楚当前页面的全部设置。&lt;/p&gt;&lt;p&gt;这个按钮会把页面上所有设置重置为默认值，默认值通常为空。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Очистить все элементы на текущей странице.&lt;/p&gt;&lt;p&gt;Это вернёт значение по умолчанию в каждое поле на текущей странице, что, в общем случае означает пустое поле.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="610"/>
         <source>Reset Pa&amp;ge</source>
-        <translation>重置页面(&amp;G)</translation>
+        <translation>Сбросить &amp;страницу</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="617"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Clear all fields on every page of the dialog.&lt;/p&gt;&lt;p&gt;This will reset every field on every page to the default value for the field. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;清除这个对话框上所有页面中的设置。&lt;/p&gt;&lt;p&gt;这将会把所有页面的所有设置重置为默认值。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Очистить все поля каждой страницы диалога.&lt;/p&gt;&lt;p&gt;Это вернёт значения по умолчанию в каждое поле на каждой странице.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="620"/>
         <source>Reset &amp;All</source>
-        <translation>重置全部(&amp;A)</translation>
+        <translation>Сбросить &amp;всё</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="647"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Accept the entries, send them to Connman, and close the dialog.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;确认设置项目，把它们发送给connman，并关闭对话框。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Подтвердить все элементы, отправить их Connman, и закрыть диалог.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="650"/>
         <source>OK</source>
-        <translation>确定</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="657"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Close the dialog without sending any entries to Connman.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;关闭对话框，不发送任何设置给connman。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Закрыть диалог без отправки данных Connman.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="660"/>
         <source>Cancel</source>
-        <translation>取消</translation>
+        <translation>Отмена</translation>
     </message>
 </context>
 <context>
@@ -2529,193 +2506,193 @@
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="14"/>
         <source>Provisioning Editor</source>
-        <translation>配置编辑器</translation>
+        <translation>Редактор конфигурации</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="23"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Text edit window.&lt;/p&gt;&lt;p&gt;You may type or cut and paste into this window. You may also use menus above to insert text fields.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;文本编辑窗口。&lt;/p&gt;&lt;p&gt;你可以在窗口里输入、复制或粘贴。你也可以使用上方的菜单插入文本。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Окно текстового редактора.&lt;/p&gt;&lt;p&gt;Вы можете ввести или вырезать и вставить в в окно. Вы также можете использовать меню выше для вставки текстовых полей.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="32"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Open an existing config file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;打开已经存在的配置文件。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Открыть существующий файл настроек.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="35"/>
         <source>&amp;Open</source>
-        <translation>打开(&amp;O)</translation>
+        <translation>&amp;Открыть</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="48"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Write the displayed data to a config file.&lt;/p&gt;&lt;p&gt;The combo box is seeded with a list of CMST created config files to provide an easy way to overwrite one. You may also type a name in the ComboBox.&lt;/p&gt;&lt;p&gt;It is not necessary to provide a path nor a file extension as both will be stripped out and replaced allowed values. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;把文本框内的数据写入配置文件。&lt;/p&gt;&lt;p&gt;选择框内会有一系列cmst创建的配置文件以便覆盖。你也可以在框内输入一个名字。&lt;/p&gt;&lt;p&gt;你不需要写路径或后缀名，因为它们会被去掉并用合法的路径和后缀名取代。 &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Записать отображаемые данные в файл настроек.&lt;/p&gt;&lt;p&gt;Поле со списком содержит список файлов настроек, созданных CMST, чтобы обеспечить простой способ их перезаписи. Вы также можете ввести имя в поле со списком.&lt;/p&gt;&lt;p&gt;Не надо указывать путь, ни расширение файла, так как оба будут вырезаны и заменены допустимыми значениями.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="51"/>
         <source>&amp;Save</source>
-        <translation>保存(&amp;S)</translation>
+        <translation>&amp;Сохранить</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="68"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Delete a config file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;删除一个配置文件&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Удалить файл настроек.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="71"/>
         <source>&amp;Delete</source>
-        <translation>删除(&amp;D)</translation>
+        <translation>&amp;Удалить</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="94"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Clear all text from the editor window.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;清除编辑器窗口内的所有文字。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Очистить окно от всего текста.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="97"/>
         <source>&amp;Clear Page</source>
-        <translation>清除页面(&amp;C)</translation>
+        <translation>&amp;Очистить страницу</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="111"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;What&apos;s This&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;这是什么？&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Что это&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="114"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enter &amp;quot;Whats This&amp;quot; mode.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;进入 &amp;quot;这是什么？&amp;quot; 模式。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Войти в режим &amp;quot;Что это&amp;quot;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="137"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Exit the dialog.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;退出对话框。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Выйти из диалога.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="140"/>
         <source>E&amp;xit</source>
-        <translation>退出(&amp;X)</translation>
+        <translation>В&amp;ыйти</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="152"/>
         <source>[global]</source>
-        <translation></translation>
+        <translation>[общие]</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="157"/>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="220"/>
         <source>Name</source>
-        <translation></translation>
+        <translation>Имя</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="162"/>
         <source>Description</source>
-        <translation></translation>
+        <translation>Описание</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="167"/>
         <source>[service_*]</source>
-        <translation></translation>
+        <translation>[служба_*]</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="175"/>
         <source>Type</source>
-        <translation></translation>
+        <translation>Тип</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="183"/>
         <source>MAC</source>
-        <translation></translation>
+        <translation>MAC</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="191"/>
         <source>Nameservers</source>
-        <translation></translation>
+        <translation>Серверы имён</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="199"/>
         <source>Timeservers</source>
-        <translation></translation>
+        <translation>Серверы времени</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="207"/>
         <source>SearchDomains</source>
-        <translation></translation>
+        <translation>Домены поиска</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="215"/>
         <source>Domain</source>
-        <translation></translation>
+        <translation>Домен</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="228"/>
         <source>SSID</source>
-        <translation></translation>
+        <translation>SSID</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="236"/>
         <source>EAP</source>
-        <translation></translation>
+        <translation>EAP</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="244"/>
         <source>CACertFile</source>
-        <translation></translation>
+        <translation>Файл сертификата CA</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="252"/>
         <source>ClientCertFile</source>
-        <translation></translation>
+        <translation>Файл сертификата клиента</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="260"/>
         <source>PrivateKeyFile</source>
-        <translation></translation>
+        <translation>Файл личного ключа</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="265"/>
         <source>PrivateKeyPassphrase</source>
-        <translation></translation>
+        <translation>Пароль личного ключа</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="273"/>
         <source>PrivateKeyPassphraseType</source>
-        <translation></translation>
+        <translation>Тип пароля личного ключа</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="278"/>
         <source>Identity</source>
-        <translation></translation>
+        <translation>Идентификация</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="286"/>
         <source>Phase2</source>
-        <translation></translation>
+        <translation>Фаза2</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="291"/>
         <source>Passphrase</source>
-        <translation></translation>
+        <translation>Пароль</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="299"/>
         <source>Security</source>
-        <translation></translation>
+        <translation>Безопасность</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="307"/>
         <source>Hidden</source>
-        <translation></translation>
+        <translation>Скрытые</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="312"/>
         <source>Eduroam (long)</source>
-        <translation></translation>
+        <translation>Eduroam (длинный)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="317"/>
         <source>Eduroam (short)</source>
-        <translation></translation>
+        <translation>Eduroam (короткий)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="322"/>
@@ -2777,28 +2754,32 @@
     </message>
     <message>
         <source>IPv4 Address</source>
-        <translation type="vanished">IPv4 地址</translation>
+        <translation type="vanished">IPv4-адрес</translation>
     </message>
     <message>
         <source>IPv4 Off</source>
-        <translation type="vanished">IPv4 关</translation>
+        <translation type="vanished">Отключить IPv4</translation>
+    </message>
+    <message>
+        <source>IPV4 DHCP</source>
+        <translation type="vanished">IPv4 DHCP</translation>
     </message>
     <message>
         <source>IPv6 Address</source>
-        <translation type="vanished">IPv6 地址</translation>
+        <translation type="vanished">IPv6-адрес</translation>
     </message>
     <message>
         <source>IPv6 Off</source>
-        <translation type="vanished">IPv6 关</translation>
+        <translation type="vanished">Отключить IPv6</translation>
     </message>
     <message>
         <source>IPv6 Auto</source>
-        <translation type="vanished">IPv6 自动</translation>
+        <translation type="vanished">Автоматически IPv6</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="338"/>
         <source>IPv6.Privacy</source>
-        <translation>IPv6 隐私</translation>
+        <translation>Конфиденциальность IPv6</translation>
     </message>
 </context>
 <context>
@@ -2806,107 +2787,107 @@
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="113"/>
         <source>Global</source>
-        <translation>全局</translation>
+        <translation>Общие</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="119"/>
         <source>Service</source>
-        <translation>服务</translation>
+        <translation>Служба</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="139"/>
         <source>WiFi</source>
-        <translation></translation>
+        <translation>Wi-Fi</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="159"/>
         <source>Templates</source>
-        <translation>模板</translation>
+        <translation>Шаблоны</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="193"/>
         <source>File Path to the CA Certificate File</source>
-        <translation>CA证书文件路径</translation>
+        <translation>Путь к файлу сертификата CA</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="194"/>
         <source>File Path to the Client Certificate File</source>
-        <translation>客户端证书文件路径</translation>
+        <translation>Путь к файлу сертификата клиента</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="195"/>
         <source>File path to the Client Private Key File</source>
-        <translation>私钥文件路径</translation>
+        <translation>Путь к личному файлу ключей клиента</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="200"/>
         <source>Key Files (*.pem);;All Files (*.*)</source>
-        <translation>密钥文件 (*.pem);;全部文件 (*.*)</translation>
+        <translation>Файлы ключей (*.pem);;Все файлы (*.*)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="224"/>
         <source>MAC address.</source>
-        <translation>MAC 地址。</translation>
+        <translation>MAC-адрес.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="225"/>
         <source>SSID: hexadecimal representation of an 802.11 SSID</source>
-        <translation>SSID: 802.11 SSID 的十六进制表示</translation>
+        <translation>SSID: шестнадцатиричное представление 802.11 SSID</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="226"/>
         <source>List of Nameservers</source>
-        <translation>DNS服务器列表</translation>
+        <translation>Список серверов имён</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="227"/>
         <source>List of Timeservers</source>
-        <translation>时间服务器列表</translation>
+        <translation>Список серверов времени</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="228"/>
         <source>List of DNS Search Domains</source>
-        <translation>DNS搜索域列表</translation>
+        <translation>Список доменов поиска DNS</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="229"/>
         <source>Domain name to be used</source>
-        <translation>所使用的域名</translation>
+        <translation>Доменное имя, которое будет использоваться</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="230"/>
         <source>Enter the string representation of an 802.11 SSID.</source>
-        <translation>输入 802.11 SSID 的字符串表示。</translation>
+        <translation>Введите строковое представление 802.11 SSID.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="264"/>
         <source>Service type.</source>
-        <translation>服务类型。</translation>
+        <translation>Тип службы.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="265"/>
         <source>EAP type.</source>
-        <translation>EAP 类型。</translation>
+        <translation>Тип EAP.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="266"/>
         <source>Private key passphrase type.</source>
-        <translation>私钥密码类型。</translation>
+        <translation>Тип пароля личного ключа.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="267"/>
         <source>Network security type.</source>
-        <translation>网络安全类型。</translation>
+        <translation>Тип безопасности сети.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="268"/>
         <source>Hidden network</source>
-        <translation>隐藏网络</translation>
+        <translation>Скрытая сеть</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="269"/>
         <source>IPv6 Privacy</source>
-        <translation>IPv6 隐私</translation>
+        <translation>Конфиденциальность IPv6</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="270"/>
@@ -2926,42 +2907,42 @@
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="276"/>
         <source>%1 - Item Input</source>
-        <translation>%1 - 项目输入</translation>
+        <translation>%1 - Ввод элемента</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="307"/>
         <source>Tag which will replace the * with&lt;br&gt;an identifier unique to the config file.</source>
-        <translation>替换 * 的标签名&lt;br&gt;配置文件的唯一标识。</translation>
+        <translation>Метка, которая заменит * &lt;br&gt;уникальным идентификатором в файле настроек.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="308"/>
         <source>Enter the network name.</source>
-        <translation>输入网络名称。</translation>
+        <translation>Ввести имя сети.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="309"/>
         <source>Enter a description of the network.</source>
-        <translation>输入网络的描述。</translation>
+        <translation>Введите описание сети.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="310"/>
         <source>Password/Passphrase for the private key file.</source>
-        <translation>私钥文件的密码。</translation>
+        <translation>Пароль для файла закрытого ключа.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="311"/>
         <source>Identity string for EAP.</source>
-        <translation>EAP的身份字符串。</translation>
+        <translation>Строка идентификации для EAP.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="312"/>
         <source>RSN/WPA/WPA2 Passphrase</source>
-        <translation>RSN/WPA/WPA2 密码</translation>
+        <translation>Пароль RSN/WPA/WPA2</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="313"/>
         <source>Phase 2 (inner authentication with TLS tunnel)&lt;br&gt;authentication method.</source>
-        <translation>阶段 2 （通过TLS隧道进行内部身份验证）&lt;br&gt;验证方式。</translation>
+        <translation>Вторая фаза (внутренняя аутентификация через TLS-туннель)&lt;br&gt;способа аутентификации.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="314"/>
@@ -2971,7 +2952,7 @@
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="326"/>
         <source>%1 - Text Input</source>
-        <translation>%1 - 文本输入</translation>
+        <translation>%1 - Текстовый ввод</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="349"/>
@@ -2992,19 +2973,7 @@
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="492"/>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="531"/>
         <source> Information</source>
-        <translation>信息</translation>
-    </message>
-    <message>
-        <source>The IPv4 &lt;b&gt;Address&lt;/b&gt;, &lt;b&gt;Netmask&lt;/b&gt;, and optionally &lt;b&gt;Gateway&lt;/b&gt; need to be provided.&lt;p&gt;Press OK when you are ready to proceed.</source>
-        <translation type="vanished">输入IPv4 的&lt;b&gt;地址&lt;/b&gt;、&lt;b&gt;子网掩码&lt;/b&gt;，和可选的&lt;b&gt;网关&lt;/b&gt;。&lt;p&gt;准备就绪时，按确定。</translation>
-    </message>
-    <message>
-        <source>IPv4 Address</source>
-        <translation type="vanished">IPv4 地址</translation>
-    </message>
-    <message>
-        <source>IPv4 Netmask</source>
-        <translation type="vanished">IPv4 子网掩码</translation>
+        <translation> информация</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="359"/>
@@ -3012,113 +2981,125 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="640"/>
+        <source> Critical</source>
+        <translation> критическая</translation>
+    </message>
+    <message>
+        <source>The IPv4 &lt;b&gt;Address&lt;/b&gt;, &lt;b&gt;Netmask&lt;/b&gt;, and optionally &lt;b&gt;Gateway&lt;/b&gt; need to be provided.&lt;p&gt;Press OK when you are ready to proceed.</source>
+        <translation type="vanished">Должны быть предусмотрены &lt;b&gt;IPv4-адрес&lt;/b&gt;, &lt;b&gt;маска сети&lt;/b&gt;, и необязательно &lt;b&gt;шлюз&lt;/b&gt;.&lt;p&gt;Нажмите ОК, когда будете готовы продолжить.</translation>
+    </message>
+    <message>
+        <source>IPv4 Address</source>
+        <translation type="vanished">IPv4-адрес</translation>
+    </message>
+    <message>
+        <source>IPv4 Netmask</source>
+        <translation type="vanished">Сетевая маска IPv4</translation>
+    </message>
+    <message>
         <source>IPv4 Gateway (This is an optional entry)</source>
-        <translation type="vanished">IPv4 网关 （可选）</translation>
+        <translation type="vanished">Шлюз IPv4 (это необязательный элемент)</translation>
     </message>
     <message>
         <source>The IPv6 &lt;b&gt;Address&lt;/b&gt;, &lt;b&gt;Prefix Length&lt;/b&gt;, and optionally &lt;b&gt;Gateway&lt;/b&gt; need to be provided.&lt;p&gt;Press OK when you are ready to proceed.</source>
-        <translation type="vanished">输入IPv6 的&lt;b&gt;地址&lt;/b&gt;、&lt;b&gt;前缀长度&lt;/b&gt;，和可选的&lt;b&gt;网关&lt;/b&gt;。&lt;p&gt;准备就绪时，按确定。</translation>
+        <translation type="vanished">Должны быть предусмотрены &lt;b&gt;IPv6-адрес&lt;/b&gt;, &lt;b&gt;длина префикса&lt;/b&gt;, и необязательно &lt;b&gt;шлюз&lt;/b&gt;.&lt;p&gt;Нажмите ОК, когда будете готовы продолжить.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="383"/>
         <source>IPv6 Address</source>
-        <translation>IPv6 地址</translation>
+        <translation>IPv6-адрес</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="388"/>
         <source>%1 - Integer Input</source>
-        <translation>%1 - 数字输入</translation>
+        <translation>%1 - Целочисленный ввод</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="389"/>
         <source>Enter the IPv6 prefix length</source>
-        <translation>输入IPv6前缀长度</translation>
+        <translation>Введите длину префикса IPv6</translation>
     </message>
     <message>
         <source>IPv6 Gateway (This is an optional entry)</source>
-        <translation type="vanished">IPv6 网关 （可选）</translation>
+        <translation type="vanished">Шлюз IPv6 (это необязательный элемент)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="493"/>
         <source>&lt;center&gt;No configuration files were found.&lt;br&gt;You may use this dialog to create one.</source>
-        <translation>&lt;center&gt;没有找到配置文件。&lt;br&gt;你可以用这个对话框创建一个。</translation>
+        <translation>&lt;center&gt;Файлы настроек не найдены.&lt;br&gt;Вы можете использовать этот диалог для их создания.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="499"/>
         <source>%1 - Information</source>
-        <translation>%1 - 信息</translation>
+        <translation>%1 - Информация</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="500"/>
         <source>&lt;center&gt;Reading configuration file: %1</source>
-        <translation>&lt;center&gt;读取配置文件： %1</translation>
+        <translation>&lt;center&gt;Чтение файла настроек: %1</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="507"/>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="538"/>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="559"/>
         <source>%1 - Select File</source>
-        <translation>%1 - 选择文件</translation>
+        <translation>%1 - Выбрать файл</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="508"/>
         <source>Select a file to load.</source>
-        <translation>选择要加载的文件。</translation>
+        <translation>Выберите файл для загрузки.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="532"/>
         <source>&lt;center&gt;No configuration files were found.&lt;br&gt;Nothing will be deleted.</source>
-        <translation>&lt;center&gt;没有找到配置文件。&lt;br&gt;不会删除任何东西。</translation>
+        <translation>&lt;center&gt;Файлы настроек не найдены.&lt;br&gt;Ничего не будет удалено.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="539"/>
         <source>Select a file to be deleted.</source>
-        <translation>选择要删除的文件。</translation>
+        <translation>Выберите файл для удаления.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="560"/>
         <source>Enter a new file name or select&lt;br&gt;an existing file to overwrite.</source>
-        <translation>输入新的文件名或选择并&lt;br&gt;替换一个已经存在的文件。</translation>
+        <translation>Введите новое имя файла или выберите&lt;br&gt;существующий файл для перезаписи.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="595"/>
         <source>File read completed</source>
-        <translation>文件读取完成</translation>
+        <translation>Чтение файла завершено</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="607"/>
         <source>File deleted</source>
-        <translation>文件已删除</translation>
+        <translation>Файл удалён</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="609"/>
         <source>Error encountered deleting.</source>
-        <translation>删除时发生了错误。</translation>
+        <translation>Ошибка удаления.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="623"/>
         <source>File save failed.</source>
-        <translation>文件保存失败。</translation>
+        <translation>Не удалось сохранить файл.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="626"/>
         <source>%L1 KB written</source>
-        <translation>%L1 KB 已写入</translation>
+        <translation>%L1 КБ записано</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="628"/>
         <source>%L1 Bytes written</source>
-        <translation>%L1 Bytes 已写入</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="640"/>
-        <source> Critical</source>
-        <translation>严重错误</translation>
+        <translation>%L1 Байтов записано</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="641"/>
         <source>&lt;b&gt;DBus Error Name:&lt;/b&gt; %1&lt;br&gt;&lt;br&gt;&lt;b&gt;String:&lt;/b&gt; %2&lt;br&gt;&lt;br&gt;&lt;b&gt;Message:&lt;/b&gt; %3</source>
-        <translation>&lt;b&gt;DBus 错误 名称:&lt;/b&gt; %1&lt;br&gt;&lt;br&gt;&lt;b&gt;字符串:&lt;/b&gt; %2&lt;br&gt;&lt;br&gt;&lt;b&gt;消息:&lt;/b&gt; %3</translation>
+        <translation>&lt;b&gt;Ошибка имени DBus:&lt;/b&gt; %1&lt;br&gt;&lt;br&gt;&lt;b&gt;Строка:&lt;/b&gt; %2&lt;br&gt;&lt;br&gt;&lt;b&gt;Сообщение:&lt;/b&gt; %3</translation>
     </message>
 </context>
 <context>
@@ -3126,12 +3107,12 @@
     <message>
         <location filename="../apps/rootapp/code/roothelper/roothelper.cpp" line="64"/>
         <source>Failed to register service org.cmst.roothelper - there may be another instance running.</source>
-        <translation>无法注册服务 org.cmst.roothelper —— 可能已经在运行。</translation>
+        <translation>Не удалось зарегистрировать сервис org.cmst.roothelper — возможно запущен другой экземпляр.</translation>
     </message>
     <message>
         <location filename="../apps/rootapp/code/roothelper/roothelper.cpp" line="70"/>
         <source>Failed to register roothelper object on the system bus.</source>
-        <translation>无法在system bus上注册roothelper对象。</translation>
+        <translation>Не удалось зарегистрировать объект roothelper на системной шине.</translation>
     </message>
 </context>
 <context>
@@ -3139,12 +3120,12 @@
     <message>
         <location filename="../apps/cmstapp/code/scrollbox/ui/scrollbox.ui" line="14"/>
         <source>Scrollbox</source>
-        <translation>滚动框</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/scrollbox/ui/scrollbox.ui" line="38"/>
         <source>TextLabel</source>
-        <translation>文本标签</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3153,7 +3134,7 @@
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="43"/>
         <source>connman system tray</source>
         <comment>Main Window Title</comment>
-        <translation></translation>
+        <translation>Системный лоток connman</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="44"/>
@@ -3165,157 +3146,157 @@
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="47"/>
         <source>idle</source>
         <comment>connman state string</comment>
-        <translation>空闲</translation>
+        <translation>простаивает</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="48"/>
         <source>association</source>
         <comment>connman state string</comment>
-        <translation>连接中</translation>
+        <translation>Соединение</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="49"/>
         <source>configuration</source>
         <comment>connman state string</comment>
-        <translation>配置中</translation>
+        <translation>Настройка</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="50"/>
         <source>ready</source>
         <comment>connman state string</comment>
-        <translation>就绪</translation>
+        <translation>Готова</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="51"/>
         <source>online</source>
         <comment>connman state string</comment>
-        <translation>在线</translation>
+        <translation>Онлайн</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="52"/>
         <source>disconnect</source>
         <comment>connman state string</comment>
-        <translation>断开</translation>
+        <translation>Отсоединение</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="53"/>
         <source>failure</source>
         <comment>connman state string</comment>
-        <translation>错误</translation>
+        <translation>Сбой</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="54"/>
         <source>offline</source>
         <comment>connman state string</comment>
-        <translation>离线</translation>
+        <translation>офлайн</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="56"/>
         <source>system</source>
         <comment>connman type string</comment>
-        <translation>系统</translation>
+        <translation>Системная</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="57"/>
         <source>ethernet</source>
         <comment>connman type string</comment>
-        <translation>以太网</translation>
+        <translation>Ethernet</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="58"/>
         <source>wifi</source>
         <comment>connman type string</comment>
-        <translation></translation>
+        <translation>Wi-Fi</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="59"/>
         <source>bluetooth</source>
         <comment>connman type string</comment>
-        <translation>蓝牙</translation>
+        <translation>Bluetooth</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="60"/>
         <source>cellular</source>
         <comment>connman type string</comment>
-        <translation>蜂窝数据</translation>
+        <translation>Сотовая</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="61"/>
         <source>gps</source>
         <comment>connman type string</comment>
-        <translation></translation>
+        <translation>GPS</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="62"/>
         <source>vpn</source>
         <comment>connman type string</comment>
-        <translation></translation>
+        <translation>VPN</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="63"/>
         <source>gadget</source>
         <comment>connman type string</comment>
-        <translation></translation>
+        <translation>Гаджет</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="64"/>
         <source>p2p</source>
         <comment>connman type string</comment>
-        <translation></translation>
+        <translation>P2P</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="65"/>
         <source>wired</source>
         <comment>connman type string</comment>
-        <translation>有线网络</translation>
+        <translation>Проводная</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="67"/>
         <source>direct</source>
         <comment>connman proxy string</comment>
-        <translation>直接连接</translation>
+        <translation>непосредственно</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="68"/>
         <source>manual</source>
         <comment>connman proxy string</comment>
-        <translation>手动</translation>
+        <translation>вручную</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="69"/>
         <source>auto</source>
         <comment>connman proxy string</comment>
-        <translation>自动</translation>
+        <translation>автоматически</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="71"/>
         <source>psk</source>
         <comment>connman security string</comment>
-        <translation></translation>
+        <translation>PSK</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="72"/>
         <source>ieee8021x</source>
         <comment>connman security string</comment>
-        <translation></translation>
+        <translation>IEEE 802.1X</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="73"/>
         <source>none</source>
         <comment>connman security string</comment>
-        <translation>无</translation>
+        <translation>отсутствует</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="74"/>
         <source>wep</source>
         <comment>connman security string</comment>
-        <translation></translation>
+        <translation>WEP</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="75"/>
         <source>wps</source>
         <comment>connman security string</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="76"/>
@@ -3327,115 +3308,115 @@
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="78"/>
         <source>Invalid arguments</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">非法参数</translation>
+        <translation type="unfinished">Неправильные аргументы</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="79"/>
         <source>Permission denied</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">拒绝访问</translation>
+        <translation type="unfinished">Доступ запрещён</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="80"/>
         <source>Passphrase required</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">需要密码</translation>
+        <translation type="unfinished">Требуется пароль</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="81"/>
         <source>Not registered</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">未注册</translation>
+        <translation type="unfinished">Не зарегистрирована</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="82"/>
         <source>Not unique</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">不唯一</translation>
+        <translation type="unfinished">Не уникальна</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="83"/>
         <source>Not supported</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">不支持</translation>
+        <translation type="unfinished">Не поддерживается</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="84"/>
         <source>Not implemented</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">未实现</translation>
+        <translation type="unfinished">Не внедрено</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="85"/>
         <source>Not found</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">未找到</translation>
+        <translation type="unfinished">Не найдена</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="86"/>
         <source>No carrier</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">无法承载网络</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="87"/>
         <source>In progress</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">进行中</translation>
+        <translation type="unfinished">В процессе</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="88"/>
         <source>Already exists</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">已经存在</translation>
+        <translation type="unfinished">Уже существует</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="89"/>
         <source>Already enabled</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">已启用</translation>
+        <translation type="unfinished">Уже включена</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="90"/>
         <source>Already disabled</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">已禁用</translation>
+        <translation type="unfinished">Уже выключена</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="91"/>
         <source>Already connected</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">已连接</translation>
+        <translation type="unfinished">Уже подключена</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="92"/>
         <source>Not connected</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">未连接</translation>
+        <translation type="unfinished">Не подключена</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="93"/>
         <source>Operation aborted</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">操作退出</translation>
+        <translation type="unfinished">Операция отменена</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="94"/>
         <source>Operation timeout</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">操作超时</translation>
+        <translation type="unfinished">Время ожидания операции вышло</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="95"/>
         <source>Invalid service</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">非法服务</translation>
+        <translation type="unfinished">Неправильная служба</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="96"/>
         <source>Invalid property</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">非法属性</translation>
+        <translation type="unfinished">Неправильное свойство</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="98"/>
@@ -3465,13 +3446,13 @@
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="103"/>
         <source>auto</source>
         <comment>connman ethernet connection method</comment>
-        <translation type="unfinished">自动</translation>
+        <translation type="unfinished">автоматически</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="104"/>
         <source>manual</source>
         <comment>connman ethernet connection method</comment>
-        <translation type="unfinished">手动</translation>
+        <translation type="unfinished">вручную</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="106"/>
@@ -3483,7 +3464,7 @@
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="107"/>
         <source>manual</source>
         <comment>connman ipv4 method string</comment>
-        <translation type="unfinished">手动</translation>
+        <translation type="unfinished">вручную</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="108"/>
@@ -3507,13 +3488,13 @@
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="112"/>
         <source>auto</source>
         <comment>connman ipv6 method string</comment>
-        <translation type="unfinished">自动</translation>
+        <translation type="unfinished">автоматически</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="113"/>
         <source>manual</source>
         <comment>connman ipv6 method string</comment>
-        <translation type="unfinished">手动</translation>
+        <translation type="unfinished">вручную</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="114"/>
@@ -3578,107 +3559,102 @@
     <message>
         <source>auto</source>
         <comment>connamn ipv6 method string</comment>
-        <translation type="unfinished">自动</translation>
+        <translation type="unfinished">автоматически</translation>
     </message>
     <message>
         <source>manual</source>
         <comment>connamn ipv6 method string</comment>
-        <translation type="unfinished">手动</translation>
+        <translation type="unfinished">вручную</translation>
     </message>
     <message>
         <source>Invalid arguments</source>
         <comment>connman error sring</comment>
-        <translation type="vanished">非法参数</translation>
+        <translation type="vanished">Неправильные аргументы</translation>
     </message>
     <message>
         <source>Permission denied</source>
         <comment>connman error sring</comment>
-        <translation type="vanished">拒绝访问</translation>
+        <translation type="vanished">Доступ запрещён</translation>
     </message>
     <message>
         <source>Passphrase required</source>
         <comment>connman error sring</comment>
-        <translation type="vanished">需要密码</translation>
+        <translation type="vanished">Требуется пароль</translation>
     </message>
     <message>
         <source>Not registered</source>
         <comment>connman error sring</comment>
-        <translation type="vanished">未注册</translation>
+        <translation type="vanished">Не зарегистрирована</translation>
     </message>
     <message>
         <source>Not unique</source>
         <comment>connman error sring</comment>
-        <translation type="vanished">不唯一</translation>
+        <translation type="vanished">Не уникальна</translation>
     </message>
     <message>
         <source>Not supported</source>
         <comment>connman error sring</comment>
-        <translation type="vanished">不支持</translation>
+        <translation type="vanished">Не поддерживается</translation>
     </message>
     <message>
         <source>Not implemented</source>
         <comment>connman error sring</comment>
-        <translation type="vanished">未实现</translation>
+        <translation type="vanished">Не внедрено</translation>
     </message>
     <message>
         <source>Not found</source>
         <comment>connman error sring</comment>
-        <translation type="vanished">未找到</translation>
-    </message>
-    <message>
-        <source>No carrier</source>
-        <comment>connman error sring</comment>
-        <translation type="vanished">无法承载网络</translation>
+        <translation type="vanished">Не найдена</translation>
     </message>
     <message>
         <source>In progress</source>
         <comment>connman error sring</comment>
-        <translation type="vanished">进行中</translation>
+        <translation type="vanished">В процессе</translation>
     </message>
     <message>
         <source>Already exists</source>
         <comment>connman error sring</comment>
-        <translation type="vanished">已经存在</translation>
+        <translation type="vanished">Уже существует</translation>
     </message>
     <message>
         <source>Already enabled</source>
         <comment>connman error sring</comment>
-        <translation type="vanished">已启用</translation>
+        <translation type="vanished">Уже включена</translation>
     </message>
     <message>
         <source>Already disabled</source>
         <comment>connman error sring</comment>
-        <translation type="vanished">已禁用</translation>
+        <translation type="vanished">Уже выключена</translation>
     </message>
     <message>
         <source>Already connected</source>
         <comment>connman error sring</comment>
-        <translation type="vanished">已连接</translation>
+        <translation type="vanished">Уже подключена</translation>
     </message>
     <message>
         <source>Not connected</source>
         <comment>connman error sring</comment>
-        <translation type="vanished">未连接</translation>
+        <translation type="vanished">Не подключена</translation>
     </message>
     <message>
         <source>Operation aborted</source>
         <comment>connman error sring</comment>
-        <translation type="vanished">操作退出</translation>
+        <translation type="vanished">Операция отменена</translation>
     </message>
     <message>
         <source>Operation timeout</source>
         <comment>connman error sring</comment>
-        <translation type="vanished">操作超时</translation>
+        <translation type="vanished">Время ожидания операции вышло</translation>
     </message>
     <message>
         <source>Invalid service</source>
         <comment>connman error sring</comment>
-        <translation type="vanished">非法服务</translation>
+        <translation type="vanished">Неправильная служба</translation>
     </message>
     <message>
         <source>Invalid property</source>
         <comment>connman error sring</comment>
-        <translation type="vanished">非法属性</translation>
+        <translation type="vanished">Неправильное свойство</translation>
     </message>
     <message>
         <source>off</source>
@@ -3701,7 +3677,7 @@
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/ui/vpnagent.ui" line="30"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;WISPr username.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;WISPr 用户名.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Имя пользователя WISPr.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/ui/vpnagent.ui" line="40"/>
@@ -3711,7 +3687,7 @@
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/ui/vpnagent.ui" line="50"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;WISPr password.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;WISPr 密码.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Пароль WISPr.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/ui/vpnagent.ui" line="60"/>
@@ -3721,7 +3697,7 @@
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/ui/vpnagent.ui" line="74"/>
         <source>Name</source>
-        <translation type="unfinished">名称</translation>
+        <translation type="unfinished">Имя</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/ui/vpnagent.ui" line="88"/>
@@ -3756,42 +3732,42 @@
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/ui/vpnagent.ui" line="157"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;What&apos;s This&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;这是什么？&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Что это&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/ui/vpnagent.ui" line="160"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">...</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/ui/vpnagent.ui" line="184"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Continue the connection process.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;继续连接。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Продолжить процесс подключения.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/ui/vpnagent.ui" line="187"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Accept and use the answers you have provided in this dialog. &lt;/p&gt;&lt;p&gt;This will send your input to the connman daemon to continue the connection process.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;接受并使用你在此会话中提供的信息。&lt;/p&gt;&lt;p&gt;这将把你的输入发送给connman守护进程以继续连接。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Принять и использовать ответы, предоставленные вами в этом диалоге. &lt;/p&gt;&lt;p&gt;Это отправит введённый данные демону connman для продолжения процесса подключения.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/ui/vpnagent.ui" line="190"/>
         <source>O&amp;K</source>
-        <translation type="unfinished">确定(&amp;K)</translation>
+        <translation type="unfinished">O&amp;K</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/ui/vpnagent.ui" line="197"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cancel the connection process.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;取消连接。&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Отменить процесс подключения.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/ui/vpnagent.ui" line="200"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cancel the dialog. &lt;/p&gt;&lt;p&gt;This will send a message to the connman daemon that you have cancelled the connection request.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;取消会话。&lt;/p&gt;&lt;p&gt;这将会给connman守护进程发送取消连接请求。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Отменить диалог. &lt;/p&gt;&lt;p&gt;Это отправит сообщение демону connman о том, что вы отменили зпрос на подключение.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/ui/vpnagent.ui" line="203"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">取消(&amp;C)</translation>
+        <translation type="unfinished">&amp;Отмена</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/ui/vpnagent.ui" line="225"/>
@@ -3804,7 +3780,7 @@
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/vpn_ed.cpp" line="206"/>
         <source>Global</source>
-        <translation type="unfinished">全局</translation>
+        <translation type="unfinished">Общие</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/vpn_ed.cpp" line="212"/>
@@ -3882,7 +3858,7 @@
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/vpn_ed.cpp" line="529"/>
         <source>%1 - Item Input</source>
-        <translation type="unfinished">%1 - 项目输入</translation>
+        <translation type="unfinished">%1 - Ввод элемента</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/vpn_ed.cpp" line="547"/>
@@ -3918,95 +3894,95 @@ Ex: 10.2.0.2/24</source>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/vpn_ed.cpp" line="588"/>
         <source>%1 - Text Input</source>
-        <translation type="unfinished">%1 - 文本输入</translation>
+        <translation type="unfinished">%1 - Текстовый ввод</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/vpn_ed.cpp" line="656"/>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/vpn_ed.cpp" line="695"/>
         <source> Information</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> информация</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/vpn_ed.cpp" line="657"/>
         <source>&lt;center&gt;No configuration files were found.&lt;br&gt;You may use this dialog to create one.</source>
-        <translation type="unfinished">&lt;center&gt;没有找到配置文件。&lt;br&gt;你可以用这个对话框创建一个。</translation>
+        <translation type="unfinished">&lt;center&gt;Файлы настроек не найдены.&lt;br&gt;Вы можете использовать этот диалог для их создания.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/vpn_ed.cpp" line="663"/>
         <source>%1 - Information</source>
-        <translation type="unfinished">%1 - 信息</translation>
+        <translation type="unfinished">%1 - Информация</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/vpn_ed.cpp" line="664"/>
         <source>&lt;center&gt;Reading configuration file: %1</source>
-        <translation type="unfinished">&lt;center&gt;读取配置文件： %1</translation>
+        <translation type="unfinished">&lt;center&gt;Чтение файла настроек: %1</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/vpn_ed.cpp" line="671"/>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/vpn_ed.cpp" line="702"/>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/vpn_ed.cpp" line="723"/>
         <source>%1 - Select File</source>
-        <translation type="unfinished">%1 - 选择文件</translation>
+        <translation type="unfinished">%1 - Выбрать файл</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/vpn_ed.cpp" line="672"/>
         <source>Select a file to load.</source>
-        <translation type="unfinished">选择要加载的文件。</translation>
+        <translation type="unfinished">Выберите файл для загрузки.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/vpn_ed.cpp" line="696"/>
         <source>&lt;center&gt;No configuration files were found.&lt;br&gt;Nothing will be deleted.</source>
-        <translation type="unfinished">&lt;center&gt;没有找到配置文件。&lt;br&gt;不会删除任何东西。</translation>
+        <translation type="unfinished">&lt;center&gt;Файлы настроек не найдены.&lt;br&gt;Ничего не будет удалено.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/vpn_ed.cpp" line="703"/>
         <source>Select a file to be deleted.</source>
-        <translation type="unfinished">选择要删除的文件。</translation>
+        <translation type="unfinished">Выберите файл для удаления.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/vpn_ed.cpp" line="724"/>
         <source>Enter a new file name or select&lt;br&gt;an existing file to overwrite.</source>
-        <translation type="unfinished">输入新的文件名或选择并&lt;br&gt;替换一个已经存在的文件。</translation>
+        <translation type="unfinished">Введите новое имя файла или выберите&lt;br&gt;существующий файл для перезаписи.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/vpn_ed.cpp" line="759"/>
         <source>File read completed</source>
-        <translation type="unfinished">文件读取完成</translation>
+        <translation type="unfinished">Чтение файла завершено</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/vpn_ed.cpp" line="771"/>
         <source>File deleted</source>
-        <translation type="unfinished">文件已删除</translation>
+        <translation type="unfinished">Файл удалён</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/vpn_ed.cpp" line="773"/>
         <source>Error encountered deleting.</source>
-        <translation type="unfinished">删除时发生了错误。</translation>
+        <translation type="unfinished">Ошибка удаления.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/vpn_ed.cpp" line="787"/>
         <source>File save failed.</source>
-        <translation type="unfinished">文件保存失败。</translation>
+        <translation type="unfinished">Не удалось сохранить файл.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/vpn_ed.cpp" line="790"/>
         <source>%L1 KB written</source>
-        <translation type="unfinished">%L1 KB 已写入</translation>
+        <translation type="unfinished">%L1 КБ записано</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/vpn_ed.cpp" line="792"/>
         <source>%L1 Bytes written</source>
-        <translation type="unfinished">%L1 Bytes 已写入</translation>
+        <translation type="unfinished">%L1 Байтов записано</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/vpn_ed.cpp" line="804"/>
         <source> Critical</source>
-        <translation type="unfinished">严重错误</translation>
+        <translation type="unfinished"> критическая</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/vpn_ed.cpp" line="805"/>
         <source>&lt;b&gt;DBus Error Name:&lt;/b&gt; %1&lt;br&gt;&lt;br&gt;&lt;b&gt;String:&lt;/b&gt; %2&lt;br&gt;&lt;br&gt;&lt;b&gt;Message:&lt;/b&gt; %3</source>
-        <translation type="unfinished">&lt;b&gt;DBus 错误 名称:&lt;/b&gt; %1&lt;br&gt;&lt;br&gt;&lt;b&gt;字符串:&lt;/b&gt; %2&lt;br&gt;&lt;br&gt;&lt;b&gt;消息:&lt;/b&gt; %3</translation>
+        <translation type="unfinished">&lt;b&gt;Ошибка имени DBus:&lt;/b&gt; %1&lt;br&gt;&lt;br&gt;&lt;b&gt;Строка:&lt;/b&gt; %2&lt;br&gt;&lt;br&gt;&lt;b&gt;Сообщение:&lt;/b&gt; %3</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/vpn_ed.cpp" line="843"/>
@@ -4094,76 +4070,84 @@ Ex: 10.2.0.2/24</source>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/ui/vpn_prov_editor.ui" line="23"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Text edit window.&lt;/p&gt;&lt;p&gt;You may type or cut and paste into this window. You may also use menus above to insert text fields.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;文本编辑窗口。&lt;/p&gt;&lt;p&gt;你可以在窗口里输入、复制或粘贴。你也可以使用上方的菜单插入文本。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Окно текстового редактора.&lt;/p&gt;&lt;p&gt;Вы можете ввести или вырезать и вставить в в окно. Вы также можете использовать меню выше для вставки текстовых полей.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/ui/vpn_prov_editor.ui" line="32"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Open an existing config file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;打开已经存在的配置文件。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Открыть существующий файл настроек.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/ui/vpn_prov_editor.ui" line="35"/>
         <source>&amp;Open</source>
-        <translation type="unfinished">打开(&amp;O)</translation>
+        <translation type="unfinished">&amp;Открыть</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/ui/vpn_prov_editor.ui" line="48"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Write the displayed data to a config file.&lt;/p&gt;&lt;p&gt;The combo box is seeded with a list of CMST created config files to provide an easy way to overwrite one. You may also type a name in the ComboBox.&lt;/p&gt;&lt;p&gt;It is not necessary to provide a path nor a file extension as both will be stripped out and replaced allowed values. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;把文本框内的数据写入配置文件。&lt;/p&gt;&lt;p&gt;选择框内会有一系列cmst创建的配置文件以便覆盖。你也可以在框内输入一个名字。&lt;/p&gt;&lt;p&gt;你不需要写路径或后缀名，因为它们会被去掉并用合法的路径和后缀名取代。 &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Записать отображаемые данные в файл настроек.&lt;/p&gt;&lt;p&gt;Поле со списком содержит список файлов настроек, созданных CMST, чтобы обеспечить простой способ их перезаписи. Вы также можете ввести имя в поле со списком.&lt;/p&gt;&lt;p&gt;Не надо указывать путь, ни расширение файла, так как оба будут вырезаны и заменены допустимыми значениями.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/ui/vpn_prov_editor.ui" line="51"/>
         <source>&amp;Save</source>
-        <translation type="unfinished">保存(&amp;S)</translation>
+        <translation type="unfinished">&amp;Сохранить</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/ui/vpn_prov_editor.ui" line="68"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Delete a config file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;删除一个配置文件&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Удалить файл настроек.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/ui/vpn_prov_editor.ui" line="71"/>
         <source>&amp;Delete</source>
-        <translation type="unfinished">删除(&amp;D)</translation>
+        <translation type="unfinished">&amp;Удалить</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/ui/vpn_prov_editor.ui" line="94"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Clear all text from the editor window.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;清除编辑器窗口内的所有文字。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Очистить окно от всего текста.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/ui/vpn_prov_editor.ui" line="97"/>
         <source>&amp;Clear Page</source>
-        <translation type="unfinished">清除页面(&amp;C)</translation>
+        <translation type="unfinished">&amp;Очистить страницу</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/ui/vpn_prov_editor.ui" line="111"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;What&apos;s This&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;这是什么？&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Что это&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/ui/vpn_prov_editor.ui" line="114"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enter &amp;quot;Whats This&amp;quot; mode.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;进入 &amp;quot;这是什么？&amp;quot; 模式。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Войти в режим &amp;quot;Что это&amp;quot;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/ui/vpn_prov_editor.ui" line="137"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Exit the dialog.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;退出对话框。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Выйти из диалога.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/ui/vpn_prov_editor.ui" line="140"/>
         <source>E&amp;xit</source>
-        <translation type="unfinished">退出(&amp;X)</translation>
+        <translation type="unfinished">В&amp;ыйти</translation>
+    </message>
+    <message>
+        <source>[global]</source>
+        <translation type="obsolete">[общие]</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="obsolete">名称</translation>
+        <translation type="obsolete">Имя</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/ui/vpn_prov_editor.ui" line="160"/>
         <source>Name of the network.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="obsolete">Описание</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/ui/vpn_prov_editor.ui" line="168"/>
@@ -4773,12 +4757,21 @@ that the peer is no longer connected.</source>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="70"/>
         <source>Another running instance of CMST has been detected.  This instance is aborting</source>
-        <translation>另一个cmst实例正在运行。该实例将退出</translation>
+        <translation>Была обнаружена запущенная копия CMST. Запуск этой копии отменён</translation>
+    </message>
+    <message>
+        <source>[Experimental] Disable data counters.  May be used to minimize load on your system.</source>
+        <translation type="vanished">[Экспериментально] Отключить счётчики данных. Может быть использовано для уменьшения нагрузки на систему.</translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/main.cpp" line="91"/>
+        <source>Disable the system tray icon.  May be needed for system trays not compliant with the Freedesktop.org system tray specification.</source>
+        <translation>Отключить значок в системном лотке. Может понадобиться системным лоткам, не соответствующим спецификации Freedesktop.org.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="76"/>
         <source>Connman System Tray.</source>
-        <translation></translation>
+        <translation>Connman в cистемном лотке.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="79"/>
@@ -4791,19 +4784,6 @@ that the peer is no longer connected.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>[Experimental] Disable data counters.  May be used to minimize load on your system.</source>
-        <translation type="vanished">[实验性] 禁用数据统计。  可能减轻系统负载。</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/main.cpp" line="91"/>
-        <source>Disable the system tray icon.  May be needed for system trays not compliant with the Freedesktop.org system tray specification.</source>
-        <translation>禁用系统托盘图标。  可能在系统托盘不符合 Freedesktop.org system tray 规范时需要。</translation>
-    </message>
-    <message>
-        <source>Use the icon theme from your system if one is defined.</source>
-        <translation type="vanished">若存在，使用系统图标主题。</translation>
-    </message>
-    <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="87"/>
         <source>[Experimental] Enable data counters.</source>
         <translation type="unfinished"></translation>
@@ -4811,22 +4791,22 @@ that the peer is no longer connected.</source>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="97"/>
         <source>Use an icon theme from your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Использовать системную тему значков.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="98"/>
         <source>Icon Theme Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Название темы значков</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="103"/>
         <source>Log the connman inputRequest for debugging purposes.</source>
-        <translation>记录connman的inputRequest日志以供调试。</translation>
+        <translation>Журналировать запрос connman inputRequest для целей отладки.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="107"/>
         <source>Start the GUI minimized in the system tray.</source>
-        <translation>启动GUI时最小化到系统托盘。</translation>
+        <translation>Запустить графический пользовательский интерфейс, свёрнутым в системный лоток.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="111"/>
@@ -4841,48 +4821,48 @@ that the peer is no longer connected.</source>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="121"/>
         <source>Specify the wait time in seconds before starting the system tray icon.</source>
-        <translation>指定系统托盘启动钱的等待时间，以秒为单位。</translation>
+        <translation>Укажите время ожидания в секундах перед запуском значка в системном лотке.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="122"/>
         <location filename="../apps/cmstapp/code/main.cpp" line="134"/>
         <source>seconds</source>
-        <translation>秒</translation>
+        <translation>секунд</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="127"/>
         <source>[Experimental] The number of kb that have to be transmitted before the counter updates.</source>
-        <translation>[实验性] 统计更新前传输的数据量，以kb为单位。</translation>
+        <translation>[Экспериментально] Количество кб которые должны быть переданы перед обновлением счётчиков.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="128"/>
         <source>KB</source>
-        <translation></translation>
+        <translation>КБ</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="133"/>
         <source>[Experimental] The interval in seconds between counter updates.</source>
-        <translation>[实验性] 统计更新的间隔时间，以秒为单位。</translation>
+        <translation>[Экспериментально] Промежуток в секундах между обновлением счётчиков.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="140"/>
         <source>If tray icon fake transparency is required, specify the background color to use (format: 0xRRGGBB)</source>
-        <translation>如果托盘图标需要伪装背景透明，指定要使用的背景颜色 （格式：0xRRGGBB）</translation>
+        <translation>Если значку в системном лотке требуется псевдопрозрачность, укажите цвет фона (формат: 0xRRGGBB)</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="141"/>
         <source>RRGGBB</source>
-        <translation>RRGGBB</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="148"/>
         <source>Use XFCE specific code.</source>
-        <translation>使用为XFCE准备的代码。</translation>
+        <translation>Использовать специальный код для XFCE.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="153"/>
         <source>Use MATE DE specific code.</source>
-        <translation>使用为MATE准备的代码。</translation>
+        <translation>Использовать специальный код для окружения рабочего стола MATE.</translation>
     </message>
 </context>
 <context>
@@ -4890,7 +4870,7 @@ that the peer is no longer connected.</source>
     <message>
         <location filename="../apps/cmstapp/code/shared/shared.cpp" line="44"/>
         <source> Warning</source>
-        <translation type="unfinished"> 警告</translation>
+        <translation type="unfinished"> внимание</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/shared/shared.cpp" line="45"/>

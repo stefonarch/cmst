@@ -1,41 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="de_DE">
+<TS version="2.1" language="fr">
 <context>
     <name>Agent</name>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="14"/>
         <source>Agent Input</source>
-        <translation>Agent-Eingabe</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="27"/>
         <source>Passphrase</source>
-        <translation>Passwort</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="46"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If an old passphrase is available it will be shown here for reference.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Wenn ein altes Passwort vorhanden ist, wird es hier als Referenz angezeigt.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="56"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Type the passphrase here.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gebe hier dein Passwort ein.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="69"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Check this box to obscure the password characters.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktiviere diese Box um die Passwortbuchsteben zu verstecken.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="72"/>
         <source>&amp;Hide Passphrase</source>
-        <translation>&amp;Verstecke Passwort</translation>
-    </message>
-    <message>
-        <source>&amp;Old Passphrase</source>
-        <translation type="vanished">&amp;Altes Passwort</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="79"/>
@@ -45,102 +41,102 @@
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="89"/>
         <source>&amp;Passphrase</source>
-        <translation type="unfinished">&amp;Passwort</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="102"/>
         <source>Hidden Network</source>
-        <translation>Verstecktes Netzwerk</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="108"/>
         <source>&amp;Name</source>
-        <translation>&amp;Name</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="118"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Type the name of the hidden network you wish to connect to.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Type the name of the hidden network you wish to connect to.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="131"/>
         <source>Service Set Identifier</source>
-        <translation>Service Set identifier</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="137"/>
         <source>&amp;SSID</source>
-        <translation>&amp;SSID</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="157"/>
         <source>Wireless Internet Service Provider roaming (WISPr)</source>
-        <translation>Wireless Internet Service Provider roaming (WISPr)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="163"/>
         <source>&amp;Username</source>
-        <translation>&amp;Benutzername</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="173"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;WISPr username.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;WISPr Benutzername.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="183"/>
         <source>Passwor&amp;d</source>
-        <translation>Passwor&amp;t</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="193"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;WISPr password.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;WISPr Passwort.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="206"/>
         <source>Extensible Authentication Protocol (EAP)</source>
-        <translation>Extensible Authentication Protocol (EAP)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="212"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Type your Identity for the Extensible Authentication Protocol&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gebe hier deine Identität für das Extensible Authentication Protocol an&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="222"/>
         <source>&amp;Identity</source>
-        <translation>&amp;Identität</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="235"/>
         <source>WiFi Protected Setup (WPS)</source>
-        <translation>WiFi Protected Setup (WPS)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="243"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;When checked use WPS push button authentication.  &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Wenn aktiviert, wird die WPS-Push-Button Authentifizierung genutzt.  &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="246"/>
         <source>Use Push &amp;Button Authentication</source>
-        <translation>Benutze Push-&amp;Button Authentifizierung</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="276"/>
         <source>&amp;WPS Pin</source>
-        <translation>&amp;WPS Pin</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="292"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enter a WPS pin.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gebe einen WPS-Pin ein.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="311"/>
         <source>Browser Login Requested</source>
-        <translation>Browser-Anmeldung gewünscht</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="320"/>
@@ -155,81 +151,37 @@
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="342"/>
         <source>Login URL:</source>
-        <translation>Login URL:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="349"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Connman is requesting you continue login with a web browser. This box shows the URL that contains the login page.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Connman fordert einen Login über einen Webbrowser an. Diese Box zeigt die URL, welche die Loginseite enthält, an.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use  the Firefox browser.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Benutze den Firefox Browser.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>&amp;Firefox</source>
-        <translation type="vanished">&amp;Firefox</translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the Opera browser.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Benutze den Opera browser.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>&amp;Opera</source>
-        <translation type="vanished">&amp;Opera</translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the Luakit browser.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Benutze den Luakit browser.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>&amp;Luakit</source>
-        <translation type="vanished">&amp;Luakit</translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the Lynx (console mode) browser.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Benutze den Lynx (Konsolen-Modus) browser.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>Lyn&amp;x</source>
-        <translation type="vanished">Lyn&amp;x</translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Login using a browser that is not listed.  Type the browser start command in the box below.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Login mit einem Browser welcher nicht gelistet ist.  TGebe das Kommando zum starten des Browsers in der Textbox unterhalb ein.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>Othe&amp;r</source>
-        <translation type="vanished">Andere&amp;r</translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Type the browser start command here.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gebe hier das Kommando zum starten des Browsers an.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="361"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use this button to launch the selected browser. The browser will open at the page shown in the Login URL box.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Benutze diesen Knopf um den ausgewählten Browser zu starten. Der Browser wird die URL aus der Login-URL-Box anzeigen.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="364"/>
         <source>Launch &amp;Browser</source>
-        <translation>Starte &amp;Browser</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="396"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;What&apos;s This&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Was ist das&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="399"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="423"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Continue the connection process.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Fahre mit dem Verbindungsprozess fort.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="426"/>
@@ -239,7 +191,7 @@
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="429"/>
         <source>O&amp;K</source>
-        <translation>O&amp;K</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="436"/>
@@ -254,7 +206,11 @@
     <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="442"/>
         <source>&amp;Cancel</source>
-        <translation>&amp;Abbrechen</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use  the Firefox browser.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -262,16 +218,12 @@
     <message>
         <location filename="../apps/cmstapp/code/agent/agent_dialog.cpp" line="298"/>
         <source> Information</source>
-        <translation>Information</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/agent_dialog.cpp" line="299"/>
         <source>You have requested the %1 browser, but we cannot find a terminal program to open it with.  Currenty we can start %1 using these terminals: &lt;b&gt;roxterm&lt;/b&gt; and &lt;b&gt;xterm&lt;/b&gt;.&lt;br&gt;&lt;br&gt;To continue you need to manually open a terminal and then enter: &quot;%1 %2&quot;</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You have requested the %1 browser, but we cannot find a terminal program to open it with.  Currenty we can start %1 using these terminals: &lt;b&gt;roxterm&lt;/b&gt; and &lt;b&gt;xterm&lt;/b&gt;.&lt;br&gt;&lt;br&gt;To continue you need to manually open a terminal and then enter: &quot;lynx %2&quot;</source>
-        <translation type="vanished">Du hast den Browser %1 gewählt, aber es konnte kein Terminal-Programm gefunden werden um ihn zu öffnen.  Aktuell kann %1 über folgende Terminals geöffnet werden: &lt;b&gt;roxterm&lt;/b&gt; und &lt;b&gt;xterm&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Um fortfahren zu können, musst du manuell ein Terminal öffnen und &quot;lynx %2&quot; eingeben</translation>
     </message>
 </context>
 <context>
@@ -279,22 +231,22 @@
     <message>
         <location filename="../apps/cmstapp/code/agent/agent.cpp" line="82"/>
         <source>Connman Error</source>
-        <translation>Connman Fehler</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/agent.cpp" line="83"/>
         <source>Connman returned the following error:&lt;b&gt;&lt;center&gt;%1&lt;/b&gt;&lt;br&gt;Would you like to retry?</source>
-        <translation>Connman gab folgenden Fehler zurück: &lt;b&gt;&lt;center&gt;%1&lt;/b&gt;&lt;br&gt;Möchtest du es erneut versuchen?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/agent.cpp" line="131"/>
         <source>Agent Request Failed</source>
-        <translation>Agent-Anfrage fehlgeschlagen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/agent/agent.cpp" line="132"/>
         <source>The agent request failed before a reply was returned.</source>
-        <translation>Die Agent-Anfrage ist fehlgeschlagen bevor eine Antwort zurück kam.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -303,31 +255,30 @@
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="67"/>
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="84"/>
         <source>%L1 Bytes</source>
-        <translation>%L1 Bytes</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="69"/>
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="86"/>
         <source>%L1 KB</source>
-        <translation>%L1 KB</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="71"/>
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="88"/>
         <source>%L1 MB</source>
-        <translation>%L1 MB</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="73"/>
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="90"/>
         <source>%L1 GB</source>
-        <translation>%L1 GB</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="76"/>
         <source>&lt;b&gt;Transmit:&lt;/b&gt;&lt;br&gt;TX Total: %1 (%2),  TX Errors: %3,  TX Dropped: %4</source>
-        <translatorcomment>&quot;Dropped&quot; zur Verständlichkeit gelassen</translatorcomment>
-        <translation>&lt;b&gt;Übertragen:&lt;/b&gt;&lt;br&gt;TX Total: %1 (%2),  TX Fehler: %3,  TX Dropped: %4</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="77"/>
@@ -337,52 +288,51 @@
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="96"/>
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="97"/>
         <source>%Ln Packet(s)</source>
-        <translation>
-            <numerusform>%Ln Paket</numerusform>
-            <numerusform>%Ln Pakete</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="93"/>
         <source>&lt;br&gt;&lt;br&gt;&lt;b&gt;Received:&lt;/b&gt;&lt;br&gt;RX Total: %1 (%2),  RX Errors: %3,  RX Dropped: %4</source>
-        <translatorcomment>&quot;Dropped&quot; zur Verständlichkeit gelassen</translatorcomment>
-        <translation>&lt;br&gt;&lt;br&gt;&lt;b&gt;Empfangen:&lt;/b&gt;&lt;br&gt;RX Total: %1 (%2),  RX Fehler: %3,  RX Dropped: %4</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="100"/>
         <source>&lt;br&gt;&lt;br&gt;&lt;b&gt;Connect Time:&lt;/b&gt;&lt;br&gt;</source>
-        <translation>&lt;br&gt;&lt;br&gt;&lt;b&gt;Verbindungszeit:&lt;/b&gt;&lt;br&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="111"/>
         <source>%n Day(s)</source>
-        <translation>
-            <numerusform>%n Tag</numerusform>
-            <numerusform>%n Tage</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="118"/>
         <source>%n Hour(s)</source>
-        <translation>
-            <numerusform>%n Stunde</numerusform>
-            <numerusform>%n Stunden</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="125"/>
         <source>%n Minute(s)</source>
-        <translation>
-            <numerusform>%n Minute</numerusform>
-            <numerusform>%n Minuten</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="131"/>
         <source>%n Second(s)</source>
-        <translation>
-            <numerusform>%n Sekunde</numerusform>
-            <numerusform>%n Sekunden</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
 </context>
@@ -391,22 +341,22 @@
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/vpnagent.cpp" line="82"/>
         <source>Connman Error</source>
-        <translation type="unfinished">Connman Fehler</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/vpnagent.cpp" line="83"/>
         <source>Connman returned the following error:&lt;b&gt;&lt;center&gt;%1&lt;/b&gt;&lt;br&gt;Would you like to retry?</source>
-        <translation type="unfinished">Connman gab folgenden Fehler zurück: &lt;b&gt;&lt;center&gt;%1&lt;/b&gt;&lt;br&gt;Möchtest du es erneut versuchen?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/vpnagent.cpp" line="119"/>
         <source>Agent Request Failed</source>
-        <translation type="unfinished">Agent-Anfrage fehlgeschlagen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/vpnagent.cpp" line="120"/>
         <source>The agent request failed before a reply was returned.</source>
-        <translation type="unfinished">Die Agent-Anfrage ist fehlgeschlagen bevor eine Antwort zurück kam.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -484,14 +434,14 @@
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="626"/>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="833"/>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="220"/>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="362"/>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="838"/>
         <source>Type</source>
-        <translation type="unfinished">Typ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="225"/>
@@ -602,6 +552,16 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1672"/>
+        <source>Aw&amp;Oken</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1679"/>
+        <source>A&amp;rtwork</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="631"/>
         <source>Favorite</source>
         <translation type="unfinished"></translation>
@@ -609,7 +569,7 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="641"/>
         <source>Security</source>
-        <translation type="unfinished">Sicherheit</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="646"/>
@@ -644,6 +604,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="680"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Select a wifi service in the table below and press this button to remove the service. &lt;/p&gt;&lt;p&gt;If a service has previously been successfully connected (Favorite is true) this button will remove the Favorite property. The service will also be disconnected if it is currently connected. If the service required a passphrase then the passphrase it will be cleared and forgotten.&lt;/p&gt;&lt;p&gt;If a connection attempt failed this can slso be used to reset the service.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="683"/>
         <source>Remove</source>
         <translation type="unfinished"></translation>
@@ -656,6 +621,31 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="709"/>
         <source>Wifi State</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="736"/>
+        <source>&amp;VPN</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="742"/>
+        <source>VPN Services</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="751"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Select a vpn service in the table below and press this button to connect the service. &lt;/p&gt;&lt;p&gt;If there is only one vpn service listed in the table pressing this button will automatically select that service and attempt to connect. &lt;/p&gt;&lt;p&gt;If information about the service is needed, a passphrase for instance, you will be prompted for it. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="764"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Select a vpn service in the table below and press this button to disconnect it. &lt;/p&gt;&lt;p&gt;If there is only one vpn service in the &amp;quot;ready&amp;quot; or &amp;quot;online&amp;quot; state pressing this button will automatically select that service and disconnect it. &lt;/p&gt;&lt;p&gt;This may also be used to abort a previous connection attempt.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="848"/>
+        <source>Host</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -730,157 +720,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1289"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;monospace&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;monospace&apos;; font-weight:600;&quot;&gt;-c&lt;/span&gt;&lt;span style=&quot; font-family:&apos;monospace&apos;;&quot;&gt; or &lt;/span&gt;&lt;span style=&quot; font-family:&apos;monospace&apos;; font-weight:600;&quot;&gt;--enable-counters&lt;/span&gt;&lt;/pre&gt;&lt;p&gt;Enable Connman RX and TX counters.  Counters are experimental in Connman and enabling them will write a large amount of data to the system logs.&lt;/p&gt;&lt;p&gt;Counters are turned off by default, and is a change from the way it was originally.  Up to and including version 2017.09.19 counters were enabled by default.  All versions subsequent to that counters are disabled by default.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1292"/>
-        <source>Enable Counters</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1362"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Programs or processes to execute after various events occur.&lt;/p&gt;&lt;p&gt;If the program or process requires command line arguments provide them here just as if you were typing at a command line.&lt;/p&gt;&lt;p&gt;Example:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;/path/to/program arg1 arg2 arg3&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1365"/>
-        <source>External Programs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1371"/>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1381"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enter the program or process to be executed after Connman enters the &amp;quot;Ready&amp;quot; or &amp;quot;Online&amp;quot; state.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1374"/>
-        <source>After Connect</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1461"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;-n&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt; or &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--disable-vpn&lt;/span&gt;&lt;/pre&gt;&lt;p&gt;Disable VPN. This will hide the VPN tab and will also skip trying to make a connection to connman-vpn. The later is useful if your Connman was built with the --disable-vpn feature.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1464"/>
-        <source>Disable VPN</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1471"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;-M&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt; or &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--disable-minimized&lt;/span&gt;&lt;/pre&gt;&lt;p&gt;Disable the minimize button. Use when you want to have the window manager have sole control of minimizing the interface.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1474"/>
-        <source>Disable Minimized</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1525"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Preferences for the interface are in this box.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1528"/>
-        <source>Interface</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1563"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked the Start Options set here will be read and used next time the program starts.  &lt;/p&gt;&lt;p&gt;Settings are stored in&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;: ~&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;/.config/cmst/cmst.conf  &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;&lt;br/&gt;This is a standard ini type text file.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1566"/>
-        <source>Use Start Options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1576"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked the state of the GUI will be restored from settings saved on disk. Settings include the geometry and position of the dialog and the current tab. &lt;/p&gt;&lt;p&gt;These settings will be used at next boot to restore the user interface to the way it was at shutdown.&lt;/p&gt;&lt;p&gt;The settings file is: ~&lt;span style=&quot; font-weight:600;&quot;&gt;/.config/cmst/cmst.conf &lt;/span&gt;&lt;br/&gt;This is a standard ini type text file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1579"/>
-        <source>Retain State</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1672"/>
-        <source>Aw&amp;Oken</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1679"/>
-        <source>A&amp;rtwork</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1861"/>
-        <source>Rescan</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1869"/>
-        <source>Offline Mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1874"/>
-        <source>IDPass</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1877"/>
-        <source>Set ID and Password for tethered wifi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1268"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;-i&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt; or &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--icon-theme&lt;/span&gt;&lt;/pre&gt;&lt;p&gt;Use an icon theme from your system. You may specify the theme in the box at the right, or if the box is left blank CMST will try and use the system wide icon theme (if one is defined).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1271"/>
-        <source>Use Icon Theme</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1586"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked the display of tooltips will be enabled for the interface widgets.&lt;/p&gt;&lt;p&gt;Tooltips are the small popups that appear when you hover the mouse pointer over an area of the interface. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1589"/>
-        <source>Enable ToolTips (Interface)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1537"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Normally counters are cumulative and will retain the connect time and the TX and RX counts between boots. &lt;/p&gt;&lt;p&gt;When this box is checked the counters will reset to zero every time CMST is started, and if CMST is running everytime a Connman service is started. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1540"/>
-        <source>Reset Counters</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1547"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;When checked additional controls for advanced users are displayed.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1550"/>
-        <source>Advanced Controls</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1146"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;These entries control various options for CMST at program start. &lt;/p&gt;&lt;p&gt;All of these options are available from the command line, and if a command line option is provided it will take precedence over these settings.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
@@ -888,6 +727,11 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1149"/>
         <source>Start Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1158"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Specify the frequency in seconds between counter updates (default is 10 seconds). &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -938,6 +782,16 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1268"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;-i&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt; or &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--icon-theme&lt;/span&gt;&lt;/pre&gt;&lt;p&gt;Use an icon theme from your system. You may specify the theme in the box at the right, or if the box is left blank CMST will try and use the system wide icon theme (if one is defined).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1271"/>
+        <source>Use Icon Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1278"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;-w&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt; or &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--wait-time&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;
 &lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Specify the wait time in seconds before starting the system tray icon (default is 0 seconds).&lt;/p&gt;&lt;p&gt;If CMST is started and tries to create a tray icon before the system tray itself is created a dialog will be displayed explaining that. This sometimes happens when the program is started automatically. If you know the tray will exist once the system is up you may specify a wait time and CMST will wait that number of seconds before trying to create the tray icon. This is to give the window manager or panel time to create the tray before we try to place the icon there.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -960,8 +814,45 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1158"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Specify the frequency in seconds between counter updates (default is 10 seconds). &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1316"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--fake-transparency&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;
+&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Used to work around a QT bug where system tray icons display with white or black backgrounds instead of being transparent.&lt;/p&gt;&lt;p&gt;You can specify the icon background color here. Format is a hex number in the form RRGGBB.  If the spedified color matches the tray background we&apos;ve effectively created fake transparency. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1320"/>
+        <source>Fake Transparency</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1330"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Specify the background color as a hex number in the format: RRGGBB.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1352"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Icon theme to use. For this theme to be used it must be installed on your system. If the theme is not installed, or if you spell the name wrong CMST will fall back to using its internal icon set.&lt;/p&gt;&lt;p&gt;If this box is blank CMST will try and use the system wide icon theme (if one is defined).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1362"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Programs or processes to execute after various events occur.&lt;/p&gt;&lt;p&gt;If the program or process requires command line arguments provide them here just as if you were typing at a command line.&lt;/p&gt;&lt;p&gt;Example:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;/path/to/program arg1 arg2 arg3&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1365"/>
+        <source>External Programs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1371"/>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1381"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enter the program or process to be executed after Connman enters the &amp;quot;Ready&amp;quot; or &amp;quot;Online&amp;quot; state.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1374"/>
+        <source>After Connect</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1002,61 +893,6 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1451"/>
         <source>MATE</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1316"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--fake-transparency&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;
-&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Used to work around a QT bug where system tray icons display with white or black backgrounds instead of being transparent.&lt;/p&gt;&lt;p&gt;You can specify the icon background color here. Format is a hex number in the form RRGGBB.  If the spedified color matches the tray background we&apos;ve effectively created fake transparency. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="680"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Select a wifi service in the table below and press this button to remove the service. &lt;/p&gt;&lt;p&gt;If a service has previously been successfully connected (Favorite is true) this button will remove the Favorite property. The service will also be disconnected if it is currently connected. If the service required a passphrase then the passphrase it will be cleared and forgotten.&lt;/p&gt;&lt;p&gt;If a connection attempt failed this can slso be used to reset the service.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="736"/>
-        <source>&amp;VPN</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="742"/>
-        <source>VPN Services</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="751"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Select a vpn service in the table below and press this button to connect the service. &lt;/p&gt;&lt;p&gt;If there is only one vpn service listed in the table pressing this button will automatically select that service and attempt to connect. &lt;/p&gt;&lt;p&gt;If information about the service is needed, a passphrase for instance, you will be prompted for it. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="764"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Select a vpn service in the table below and press this button to disconnect it. &lt;/p&gt;&lt;p&gt;If there is only one vpn service in the &amp;quot;ready&amp;quot; or &amp;quot;online&amp;quot; state pressing this button will automatically select that service and disconnect it. &lt;/p&gt;&lt;p&gt;This may also be used to abort a previous connection attempt.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="848"/>
-        <source>Host</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Domain</source>
-        <translation type="obsolete">Domäne</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1320"/>
-        <source>Fake Transparency</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1330"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Specify the background color as a hex number in the format: RRGGBB.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1352"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Icon theme to use. For this theme to be used it must be installed on your system. If the theme is not installed, or if you spell the name wrong CMST will fall back to using its internal icon set.&lt;/p&gt;&lt;p&gt;If this box is blank CMST will try and use the system wide icon theme (if one is defined).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1185,6 +1021,96 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1289"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;monospace&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;monospace&apos;; font-weight:600;&quot;&gt;-c&lt;/span&gt;&lt;span style=&quot; font-family:&apos;monospace&apos;;&quot;&gt; or &lt;/span&gt;&lt;span style=&quot; font-family:&apos;monospace&apos;; font-weight:600;&quot;&gt;--enable-counters&lt;/span&gt;&lt;/pre&gt;&lt;p&gt;Enable Connman RX and TX counters.  Counters are experimental in Connman and enabling them will write a large amount of data to the system logs.&lt;/p&gt;&lt;p&gt;Counters are turned off by default, and is a change from the way it was originally.  Up to and including version 2017.09.19 counters were enabled by default.  All versions subsequent to that counters are disabled by default.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1292"/>
+        <source>Enable Counters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1461"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;-n&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt; or &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--disable-vpn&lt;/span&gt;&lt;/pre&gt;&lt;p&gt;Disable VPN. This will hide the VPN tab and will also skip trying to make a connection to connman-vpn. The later is useful if your Connman was built with the --disable-vpn feature.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1464"/>
+        <source>Disable VPN</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1471"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;-M&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt; or &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--disable-minimized&lt;/span&gt;&lt;/pre&gt;&lt;p&gt;Disable the minimize button. Use when you want to have the window manager have sole control of minimizing the interface.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1474"/>
+        <source>Disable Minimized</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1525"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Preferences for the interface are in this box.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1528"/>
+        <source>Interface</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1537"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Normally counters are cumulative and will retain the connect time and the TX and RX counts between boots. &lt;/p&gt;&lt;p&gt;When this box is checked the counters will reset to zero every time CMST is started, and if CMST is running everytime a Connman service is started. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1540"/>
+        <source>Reset Counters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1547"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;When checked additional controls for advanced users are displayed.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1550"/>
+        <source>Advanced Controls</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1563"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked the Start Options set here will be read and used next time the program starts.  &lt;/p&gt;&lt;p&gt;Settings are stored in&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;: ~&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;/.config/cmst/cmst.conf  &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;&lt;br/&gt;This is a standard ini type text file.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1566"/>
+        <source>Use Start Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1576"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked the state of the GUI will be restored from settings saved on disk. Settings include the geometry and position of the dialog and the current tab. &lt;/p&gt;&lt;p&gt;These settings will be used at next boot to restore the user interface to the way it was at shutdown.&lt;/p&gt;&lt;p&gt;The settings file is: ~&lt;span style=&quot; font-weight:600;&quot;&gt;/.config/cmst/cmst.conf &lt;/span&gt;&lt;br/&gt;This is a standard ini type text file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1579"/>
+        <source>Retain State</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1586"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked the display of tooltips will be enabled for the interface widgets.&lt;/p&gt;&lt;p&gt;Tooltips are the small popups that appear when you hover the mouse pointer over an area of the interface. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1589"/>
+        <source>Enable ToolTips (Interface)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1604"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Color in #RGB format to colorize the internal icons with.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
@@ -1198,7 +1124,7 @@
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="135"/>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1617"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1627"/>
@@ -1273,7 +1199,7 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1783"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;What&apos;s This&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Was ist das&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1786"/>
@@ -1288,7 +1214,7 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1799"/>
         <source>Provisioning Editor</source>
-        <translation type="unfinished">Provisionierungs-Editor</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1806"/>
@@ -1308,7 +1234,7 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1819"/>
         <source>E&amp;xit</source>
-        <translation type="unfinished">&amp;Beenden</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1839"/>
@@ -1322,18 +1248,23 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="388"/>
-        <source>Ma&amp;ximize</source>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1861"/>
+        <source>Rescan</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="391"/>
-        <source>&amp;Exit</source>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1869"/>
+        <source>Offline Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="490"/>
-        <source>About %1</source>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1874"/>
+        <source>IDPass</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1877"/>
+        <source>Set ID and Password for tethered wifi</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1349,6 +1280,21 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="152"/>
         <source>VPN Connections</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="388"/>
+        <source>Ma&amp;ximize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="391"/>
+        <source>&amp;Exit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="490"/>
+        <source>About %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1375,7 +1321,7 @@
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="674"/>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2584"/>
         <source>Cancel</source>
-        <translation type="unfinished">Abbrechen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="699"/>
@@ -1393,6 +1339,21 @@
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="810"/>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="838"/>
         <source>No Services Selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="545"/>
+        <source>%1 license is the MIT (Expat) license.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="737"/>
+        <source>You need to select a service before pressing the connect button.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="811"/>
+        <source>You need to select a service before pressing the disconnect button.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1437,13 +1398,20 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1237"/>
-        <source>&lt;b&gt;Technology: %1&lt;/b&gt;&lt;p&gt;Please enter the WiFi AP SSID that clients will&lt;br&gt;have to join in order to gain internet connectivity.</source>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1772"/>
+        <source>On</source>
+        <comment>powered</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1249"/>
-        <source>&lt;b&gt;Technology: %1&lt;/b&gt;&lt;p&gt;Please enter the WPA pre-shared key clients will&lt;br&gt;have to use in order to establish a connection.&lt;p&gt;PSK length: minimum of 8 characters.</source>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1777"/>
+        <source>Off</source>
+        <comment>powered</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2343"/>
+        <source>Security: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1800,7 +1768,7 @@
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2275"/>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2346"/>
         <source>Disabled</source>
-        <translation type="unfinished">Deaktiviert</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1731"/>
@@ -1829,7 +1797,7 @@
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1797"/>
         <source>Off</source>
         <comment>tethering</comment>
-        <translation type="unfinished">Aus</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1932"/>
@@ -1916,6 +1884,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2268"/>
+        <source>&lt;p style=&apos;white-space:pre&apos;&gt;&lt;center&gt;&lt;b&gt;%1 Properties&lt;/b&gt;&lt;/center&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2269"/>
         <source>Type: %1</source>
         <translation type="unfinished"></translation>
@@ -1933,7 +1906,7 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2271"/>
         <source>Off</source>
-        <translation type="unfinished">Aus</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2273"/>
@@ -1949,7 +1922,7 @@
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2275"/>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2346"/>
         <source>Enabled</source>
-        <translation type="unfinished">Aktiviert</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2333"/>
@@ -1994,20 +1967,13 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1772"/>
-        <source>On</source>
-        <comment>powered</comment>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1237"/>
+        <source>&lt;b&gt;Technology: %1&lt;/b&gt;&lt;p&gt;Please enter the WiFi AP SSID that clients will&lt;br&gt;have to join in order to gain internet connectivity.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1777"/>
-        <source>Off</source>
-        <comment>powered</comment>
-        <translation type="unfinished">Aus</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2343"/>
-        <source>Security: %1</source>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1249"/>
+        <source>&lt;b&gt;Technology: %1&lt;/b&gt;&lt;p&gt;Please enter the WPA pre-shared key clients will&lt;br&gt;have to use in order to establish a connection.&lt;p&gt;PSK length: minimum of 8 characters.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2094,38 +2060,18 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="3086"/>
-        <source>Colorize Icons</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2968"/>
         <source>Attempt %1 of 4 looking for notification server.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="545"/>
-        <source>%1 license is the MIT (Expat) license.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="737"/>
-        <source>You need to select a service before pressing the connect button.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="811"/>
-        <source>You need to select a service before pressing the disconnect button.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2268"/>
-        <source>&lt;p style=&apos;white-space:pre&apos;&gt;&lt;center&gt;&lt;b&gt;%1 Properties&lt;/b&gt;&lt;/center&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2971"/>
         <source>Unable to find or connect to a Notification server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="3086"/>
+        <source>Colorize Icons</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2142,12 +2088,12 @@
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="14"/>
         <source>Property Editor</source>
-        <translation>Eigenschaften-Editor</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="35"/>
         <source>&amp;General</source>
-        <translation>&amp;Allgemein</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="41"/>
@@ -2157,7 +2103,7 @@
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="44"/>
         <source>AutoConnect</source>
-        <translation>Automatisch verbinden</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="73"/>
@@ -2167,16 +2113,12 @@
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="76"/>
         <source>&amp;Nameservers</source>
-        <translation>&amp;Namensserver</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="107"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The list of manually configured time servers.&lt;/p&gt;&lt;p&gt;The first entry in the list represents the timeserver with the highest priority.&lt;/p&gt;&lt;p&gt;When using manual configuration this setting is useful to override all the other timeserver settings. This is service specific, hence only the values for the default service are used.&lt;/p&gt;&lt;p&gt;Changes to this property will result in restart of NTP query.&lt;/p&gt;&lt;p&gt;Enter one or more IP addresses.  Separate each address you enter by a comma, semi-colon, or by white space.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;TImeservers</source>
-        <translation type="vanished">&amp;Zeitserver</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="141"/>
@@ -2186,79 +2128,51 @@
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="144"/>
         <source>&amp;Domains</source>
-        <translation>&amp;Domänen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="175"/>
         <source>IPv&amp;4</source>
-        <translation>IPv&amp;4</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="193"/>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="387"/>
         <source>Address</source>
-        <translation>Adresse</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="210"/>
         <source>Netmask</source>
-        <translation>Netzmaske</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="220"/>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="334"/>
         <source>Gateway</source>
-        <translation>Gateway</translation>
-    </message>
-    <message>
-        <source>DHCP</source>
-        <translation type="vanished">DHCP</translation>
-    </message>
-    <message>
-        <source>Manual</source>
-        <translation type="vanished">Manuell</translation>
-    </message>
-    <message>
-        <source>Off</source>
-        <translation type="vanished">Aus</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="241"/>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="415"/>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="451"/>
         <source>Method</source>
-        <translation>Methode</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="272"/>
         <source>IPv&amp;6</source>
-        <translation>IPv&amp;6</translation>
-    </message>
-    <message>
-        <source>Auto</source>
-        <translation type="vanished">Auto</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="364"/>
         <source>Prefix Length</source>
-        <translation>Prefix-Länge</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="320"/>
         <source>Privacy</source>
-        <translation>Privatsphäre</translation>
-    </message>
-    <message>
-        <source>Disabled</source>
-        <translation type="vanished">Deaktiviert</translation>
-    </message>
-    <message>
-        <source>Preferred</source>
-        <translation type="vanished">Bevorzugt</translation>
-    </message>
-    <message>
-        <source>Enabled</source>
-        <translation type="vanished">Aktiviert</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="433"/>
@@ -2268,11 +2182,7 @@
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="436"/>
         <source>&amp;Proxy</source>
-        <translation>&amp;Proxy</translation>
-    </message>
-    <message>
-        <source>Direct</source>
-        <translation type="vanished">Direkt</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="480"/>
@@ -2282,7 +2192,7 @@
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="473"/>
         <source>URL</source>
-        <translation>URL</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="110"/>
@@ -2334,7 +2244,7 @@
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="504"/>
         <source>Servers</source>
-        <translation>Server</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="511"/>
@@ -2344,7 +2254,7 @@
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="518"/>
         <source>Excludes</source>
-        <translation>Ausgeschlossen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="525"/>
@@ -2369,7 +2279,7 @@
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="584"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;What&apos;s This&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Was ist das&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="607"/>
@@ -2379,7 +2289,7 @@
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="610"/>
         <source>Reset Pa&amp;ge</source>
-        <translation>Sei&amp;te zurücksetzen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="617"/>
@@ -2389,7 +2299,7 @@
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="620"/>
         <source>Reset &amp;All</source>
-        <translation>&amp;Alles zurücksetzen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="647"/>
@@ -2399,7 +2309,7 @@
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="650"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="657"/>
@@ -2409,7 +2319,7 @@
     <message>
         <location filename="../apps/cmstapp/code/peditor/ui/peditor.ui" line="660"/>
         <source>Cancel</source>
-        <translation>Abbrechen</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2417,7 +2327,7 @@
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="14"/>
         <source>Provisioning Editor</source>
-        <translation>Provisionierungs-Editor</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="23"/>
@@ -2432,7 +2342,7 @@
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="35"/>
         <source>&amp;Open</source>
-        <translation>&amp;Öffnen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="48"/>
@@ -2442,7 +2352,7 @@
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="51"/>
         <source>&amp;Save</source>
-        <translation>&amp;Speichern</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="68"/>
@@ -2452,7 +2362,7 @@
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="71"/>
         <source>&amp;Delete</source>
-        <translation>&amp;Löschen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="94"/>
@@ -2462,12 +2372,12 @@
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="97"/>
         <source>&amp;Clear Page</source>
-        <translation>&amp;Seite aufräumen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="111"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;What&apos;s This&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Was ist das&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="114"/>
@@ -2482,7 +2392,7 @@
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="140"/>
         <source>E&amp;xit</source>
-        <translation>&amp;Beenden</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="152"/>
@@ -2493,12 +2403,12 @@
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="157"/>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="220"/>
         <source>Name</source>
-        <translation>Name</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="162"/>
         <source>Description</source>
-        <translation>Beschreibung</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="167"/>
@@ -2508,102 +2418,102 @@
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="175"/>
         <source>Type</source>
-        <translation>Typ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="183"/>
         <source>MAC</source>
-        <translation>MAC</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="191"/>
         <source>Nameservers</source>
-        <translation>Namensserver</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="199"/>
         <source>Timeservers</source>
-        <translation>Zeitserver</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="207"/>
         <source>SearchDomains</source>
-        <translation>Suchdomänen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="215"/>
         <source>Domain</source>
-        <translation>Domäne</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="228"/>
         <source>SSID</source>
-        <translation>SSID</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="236"/>
         <source>EAP</source>
-        <translation>EAP</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="244"/>
         <source>CACertFile</source>
-        <translation>CACertDatei</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="252"/>
         <source>ClientCertFile</source>
-        <translation>ClientCertDatei</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="260"/>
         <source>PrivateKeyFile</source>
-        <translation>PrivateKeyDatei</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="265"/>
         <source>PrivateKeyPassphrase</source>
-        <translation>PrivateKeyPasswort</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="273"/>
         <source>PrivateKeyPassphraseType</source>
-        <translation>PrivateKeyPasswortTyp</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="278"/>
         <source>Identity</source>
-        <translation>Identität</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="286"/>
         <source>Phase2</source>
-        <translation>Phase2</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="291"/>
         <source>Passphrase</source>
-        <translation>Passwort</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="299"/>
         <source>Security</source>
-        <translation>Sicherheit</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="307"/>
         <source>Hidden</source>
-        <translation>Versteckt</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="312"/>
         <source>Eduroam (long)</source>
-        <translation>Eduroam (lang)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="317"/>
         <source>Eduroam (short)</source>
-        <translation>Eduroam (kurz)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="322"/>
@@ -2664,33 +2574,9 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>IPv4 Address</source>
-        <translation type="vanished">IPv4 Adresse</translation>
-    </message>
-    <message>
-        <source>IPv4 Off</source>
-        <translation type="vanished">IPv4 Aus</translation>
-    </message>
-    <message>
-        <source>IPV4 DHCP</source>
-        <translation type="vanished">IPV4 DHCP</translation>
-    </message>
-    <message>
-        <source>IPv6 Address</source>
-        <translation type="vanished">IPv6 Adresse</translation>
-    </message>
-    <message>
-        <source>IPv6 Off</source>
-        <translation type="vanished">IPv6 Aus</translation>
-    </message>
-    <message>
-        <source>IPv6 Auto</source>
-        <translation type="vanished">IPv6 Auto</translation>
-    </message>
-    <message>
         <location filename="../apps/cmstapp/code/provisioning/ui/provisioning_editor.ui" line="338"/>
         <source>IPv6.Privacy</source>
-        <translation>IPv6.Privacy</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2798,7 +2684,7 @@
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="269"/>
         <source>IPv6 Privacy</source>
-        <translation type="unfinished">IPv6.Privacy {6 ?}</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="270"/>
@@ -2884,11 +2770,7 @@
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="492"/>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="531"/>
         <source> Information</source>
-        <translation type="unfinished">Information</translation>
-    </message>
-    <message>
-        <source>IPv4 Address</source>
-        <translation type="obsolete">IPv4 Adresse</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="359"/>
@@ -2898,7 +2780,7 @@
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="383"/>
         <source>IPv6 Address</source>
-        <translation type="unfinished">IPv6 Adresse</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="388"/>
@@ -2998,12 +2880,12 @@
     <message>
         <location filename="../apps/rootapp/code/roothelper/roothelper.cpp" line="64"/>
         <source>Failed to register service org.cmst.roothelper - there may be another instance running.</source>
-        <translation>Registrieren des Dienstes org.cmst.roothelper fehlgeschlagen - Eventuell läuft bereits eine andere Instanz.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/rootapp/code/roothelper/roothelper.cpp" line="70"/>
         <source>Failed to register roothelper object on the system bus.</source>
-        <translation>Registrierung des roothelper Objektes auf dem System-Bus fehlgeschlagen.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3011,12 +2893,12 @@
     <message>
         <location filename="../apps/cmstapp/code/scrollbox/ui/scrollbox.ui" line="14"/>
         <source>Scrollbox</source>
-        <translation>Scrollbox</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/scrollbox/ui/scrollbox.ui" line="38"/>
         <source>TextLabel</source>
-        <translation>TextLabel</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3025,164 +2907,163 @@
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="43"/>
         <source>connman system tray</source>
         <comment>Main Window Title</comment>
-        <translation>connman system tray</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="44"/>
         <source>cmst</source>
         <comment>Abbreviated Program Name - used for QMessageBox titles</comment>
-        <translation>cmst</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="47"/>
         <source>idle</source>
         <comment>connman state string</comment>
-        <translation>Inaktiv</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="48"/>
         <source>association</source>
         <comment>connman state string</comment>
-        <translation>Verbindung</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="49"/>
         <source>configuration</source>
         <comment>connman state string</comment>
-        <translation>Konfiguration</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="50"/>
         <source>ready</source>
         <comment>connman state string</comment>
-        <translation>Bereit</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="51"/>
         <source>online</source>
         <comment>connman state string</comment>
-        <translation>Online</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="52"/>
         <source>disconnect</source>
         <comment>connman state string</comment>
-        <translation>Trennen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="53"/>
         <source>failure</source>
         <comment>connman state string</comment>
-        <translation>Fehlschlag</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="54"/>
         <source>offline</source>
         <comment>connman state string</comment>
-        <translation>Offline</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="56"/>
         <source>system</source>
         <comment>connman type string</comment>
-        <translation>System</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="57"/>
         <source>ethernet</source>
         <comment>connman type string</comment>
-        <translation>Ethernet</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="58"/>
         <source>wifi</source>
         <comment>connman type string</comment>
-        <translation>Wifi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="59"/>
         <source>bluetooth</source>
         <comment>connman type string</comment>
-        <translation>Bluetooth</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="60"/>
         <source>cellular</source>
         <comment>connman type string</comment>
-        <translatorcomment>Brauche Kontext um das richtig übersetzen zu können / Need the context to translate this right</translatorcomment>
-        <translation type="unfinished">Cellular</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="61"/>
         <source>gps</source>
         <comment>connman type string</comment>
-        <translation>GPS</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="62"/>
         <source>vpn</source>
         <comment>connman type string</comment>
-        <translation>VPN</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="63"/>
         <source>gadget</source>
         <comment>connman type string</comment>
-        <translation>Gadget</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="64"/>
         <source>p2p</source>
         <comment>connman type string</comment>
-        <translation>P2P</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="65"/>
         <source>wired</source>
         <comment>connman type string</comment>
-        <translation>Kabelgebunden</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="67"/>
         <source>direct</source>
         <comment>connman proxy string</comment>
-        <translation>Direkt</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="68"/>
         <source>manual</source>
         <comment>connman proxy string</comment>
-        <translation>Manuell</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="69"/>
         <source>auto</source>
         <comment>connman proxy string</comment>
-        <translation>Auto</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="71"/>
         <source>psk</source>
         <comment>connman security string</comment>
-        <translation>PSK</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="72"/>
         <source>ieee8021x</source>
         <comment>connman security string</comment>
-        <translation>ieee8021x</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="73"/>
         <source>none</source>
         <comment>connman security string</comment>
-        <translation>Nichts</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="74"/>
         <source>wep</source>
         <comment>connman security string</comment>
-        <translation>WEP</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="75"/>
@@ -3200,115 +3081,115 @@
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="78"/>
         <source>Invalid arguments</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">Ungültige Argumente</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="79"/>
         <source>Permission denied</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">Zugriff verweigert</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="80"/>
         <source>Passphrase required</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">Passwort benötigt</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="81"/>
         <source>Not registered</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">Nicht registriert</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="82"/>
         <source>Not unique</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">Nicht eindeutig</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="83"/>
         <source>Not supported</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">Nicht unterstützt</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="84"/>
         <source>Not implemented</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">Nicht implementiert</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="85"/>
         <source>Not found</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">Nicht gefunden</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="86"/>
         <source>No carrier</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">Kein Carrier</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="87"/>
         <source>In progress</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">In Bearbeitung</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="88"/>
         <source>Already exists</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">Existiert bereits</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="89"/>
         <source>Already enabled</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">Bereits aktiviert</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="90"/>
         <source>Already disabled</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">Bereits deaktiviert</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="91"/>
         <source>Already connected</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">Bereits verbunden</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="92"/>
         <source>Not connected</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">Nicht verbunden</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="93"/>
         <source>Operation aborted</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">Aktion abgebrochen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="94"/>
         <source>Operation timeout</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">Aktion Zeitüberschreitung</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="95"/>
         <source>Invalid service</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">Ungültiger Dienst</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="96"/>
         <source>Invalid property</source>
         <comment>connman error string</comment>
-        <translation type="unfinished">Ungültige Eigenschaft</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="98"/>
@@ -3338,13 +3219,13 @@
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="103"/>
         <source>auto</source>
         <comment>connman ethernet connection method</comment>
-        <translation type="unfinished">Auto</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="104"/>
         <source>manual</source>
         <comment>connman ethernet connection method</comment>
-        <translation type="unfinished">Manuell</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="106"/>
@@ -3356,7 +3237,7 @@
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="107"/>
         <source>manual</source>
         <comment>connman ipv4 method string</comment>
-        <translation type="unfinished">Manuell</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="108"/>
@@ -3380,13 +3261,13 @@
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="112"/>
         <source>auto</source>
         <comment>connman ipv6 method string</comment>
-        <translation type="unfinished">Auto</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="113"/>
         <source>manual</source>
         <comment>connman ipv6 method string</comment>
-        <translation type="unfinished">Manuell</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="114"/>
@@ -3451,108 +3332,17 @@
     <message>
         <source>auto</source>
         <comment>connamn ipv6 method string</comment>
-        <translation type="obsolete">Auto</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>manual</source>
         <comment>connamn ipv6 method string</comment>
-        <translation type="obsolete">Manuell</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Invalid arguments</source>
-        <comment>connman error sring</comment>
-        <translation type="vanished">Ungültige Argumente</translation>
-    </message>
-    <message>
-        <source>Permission denied</source>
-        <comment>connman error sring</comment>
-        <translation type="vanished">Zugriff verweigert</translation>
-    </message>
-    <message>
-        <source>Passphrase required</source>
-        <comment>connman error sring</comment>
-        <translation type="vanished">Passwort benötigt</translation>
-    </message>
-    <message>
-        <source>Not registered</source>
-        <comment>connman error sring</comment>
-        <translation type="vanished">Nicht registriert</translation>
-    </message>
-    <message>
-        <source>Not unique</source>
-        <comment>connman error sring</comment>
-        <translation type="vanished">Nicht eindeutig</translation>
-    </message>
-    <message>
-        <source>Not supported</source>
-        <comment>connman error sring</comment>
-        <translation type="vanished">Nicht unterstützt</translation>
-    </message>
-    <message>
-        <source>Not implemented</source>
-        <comment>connman error sring</comment>
-        <translation type="vanished">Nicht implementiert</translation>
-    </message>
-    <message>
-        <source>Not found</source>
-        <comment>connman error sring</comment>
-        <translation type="vanished">Nicht gefunden</translation>
-    </message>
-    <message>
-        <source>No carrier</source>
-        <comment>connman error sring</comment>
-        <translatorcomment>Eigentlich mit &quot;Träger&quot; übersetzbar, aber aus Gründen der verständlichkeit gleich gelassen</translatorcomment>
-        <translation type="vanished">Kein Carrier</translation>
-    </message>
-    <message>
-        <source>In progress</source>
-        <comment>connman error sring</comment>
-        <translation type="vanished">In Bearbeitung</translation>
-    </message>
-    <message>
-        <source>Already exists</source>
-        <comment>connman error sring</comment>
-        <translation type="vanished">Existiert bereits</translation>
-    </message>
-    <message>
-        <source>Already enabled</source>
-        <comment>connman error sring</comment>
-        <translation type="vanished">Bereits aktiviert</translation>
-    </message>
-    <message>
-        <source>Already disabled</source>
-        <comment>connman error sring</comment>
-        <translation type="vanished">Bereits deaktiviert</translation>
-    </message>
-    <message>
-        <source>Already connected</source>
-        <comment>connman error sring</comment>
-        <translation type="vanished">Bereits verbunden</translation>
-    </message>
-    <message>
-        <source>Not connected</source>
-        <comment>connman error sring</comment>
-        <translation type="vanished">Nicht verbunden</translation>
-    </message>
-    <message>
-        <source>Operation aborted</source>
-        <comment>connman error sring</comment>
-        <translation type="vanished">Aktion abgebrochen</translation>
-    </message>
-    <message>
-        <source>Operation timeout</source>
-        <comment>connman error sring</comment>
-        <translation type="vanished">Aktion Zeitüberschreitung</translation>
-    </message>
-    <message>
-        <source>Invalid service</source>
-        <comment>connman error sring</comment>
-        <translation type="vanished">Ungültiger Dienst</translation>
-    </message>
-    <message>
-        <source>Invalid property</source>
-        <comment>connman error sring</comment>
-        <translation type="vanished">Ungültige Eigenschaft</translation>
+        <source>off</source>
+        <comment>connamn ipv6 method string</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3570,7 +3360,7 @@
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/ui/vpnagent.ui" line="30"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;WISPr username.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;WISPr Benutzername.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/ui/vpnagent.ui" line="40"/>
@@ -3580,7 +3370,7 @@
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/ui/vpnagent.ui" line="50"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;WISPr password.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;WISPr Passwort.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/ui/vpnagent.ui" line="60"/>
@@ -3590,7 +3380,7 @@
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/ui/vpnagent.ui" line="74"/>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/ui/vpnagent.ui" line="88"/>
@@ -3625,17 +3415,17 @@
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/ui/vpnagent.ui" line="157"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;What&apos;s This&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Was ist das&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/ui/vpnagent.ui" line="160"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/ui/vpnagent.ui" line="184"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Continue the connection process.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Fahre mit dem Verbindungsprozess fort.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/ui/vpnagent.ui" line="187"/>
@@ -3645,7 +3435,7 @@
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/ui/vpnagent.ui" line="190"/>
         <source>O&amp;K</source>
-        <translation type="unfinished">O&amp;K</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/ui/vpnagent.ui" line="197"/>
@@ -3660,7 +3450,7 @@
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/ui/vpnagent.ui" line="203"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Abbrechen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_agent/ui/vpnagent.ui" line="225"/>
@@ -3793,7 +3583,7 @@ Ex: 10.2.0.2/24</source>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/vpn_ed.cpp" line="656"/>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/vpn_ed.cpp" line="695"/>
         <source> Information</source>
-        <translation type="unfinished">Information</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/vpn_ed.cpp" line="657"/>
@@ -3973,7 +3763,7 @@ Ex: 10.2.0.2/24</source>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/ui/vpn_prov_editor.ui" line="35"/>
         <source>&amp;Open</source>
-        <translation type="unfinished">&amp;Öffnen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/ui/vpn_prov_editor.ui" line="48"/>
@@ -3983,7 +3773,7 @@ Ex: 10.2.0.2/24</source>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/ui/vpn_prov_editor.ui" line="51"/>
         <source>&amp;Save</source>
-        <translation type="unfinished">&amp;Speichern</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/ui/vpn_prov_editor.ui" line="68"/>
@@ -3993,7 +3783,7 @@ Ex: 10.2.0.2/24</source>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/ui/vpn_prov_editor.ui" line="71"/>
         <source>&amp;Delete</source>
-        <translation type="unfinished">&amp;Löschen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/ui/vpn_prov_editor.ui" line="94"/>
@@ -4003,12 +3793,12 @@ Ex: 10.2.0.2/24</source>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/ui/vpn_prov_editor.ui" line="97"/>
         <source>&amp;Clear Page</source>
-        <translation type="unfinished">&amp;Seite aufräumen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/ui/vpn_prov_editor.ui" line="111"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;What&apos;s This&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Was ist das&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/ui/vpn_prov_editor.ui" line="114"/>
@@ -4023,20 +3813,12 @@ Ex: 10.2.0.2/24</source>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/ui/vpn_prov_editor.ui" line="140"/>
         <source>E&amp;xit</source>
-        <translation type="unfinished">&amp;Beenden</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="obsolete">Name</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/ui/vpn_prov_editor.ui" line="160"/>
         <source>Name of the network.</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Description</source>
-        <translation type="obsolete">Beschreibung</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/vpn_prov_ed/ui/vpn_prov_editor.ui" line="168"/>
@@ -4646,12 +4428,12 @@ that the peer is no longer connected.</source>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="70"/>
         <source>Another running instance of CMST has been detected.  This instance is aborting</source>
-        <translation>Eine andere Instanz von CMST läuft gerade. Breche ab</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="76"/>
         <source>Connman System Tray.</source>
-        <translation>Connman System-Tray.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="79"/>
@@ -4664,21 +4446,13 @@ that the peer is no longer connected.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>[Experimental] Disable data counters.  May be used to minimize load on your system.</source>
-        <translation type="vanished">[Experimentell] Datenzähler ausschalten. Kann eventuell die Last auf dem System minimieren.</translation>
+        <location filename="../apps/cmstapp/code/main.cpp" line="87"/>
+        <source>[Experimental] Enable data counters.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="91"/>
         <source>Disable the system tray icon.  May be needed for system trays not compliant with the Freedesktop.org system tray specification.</source>
-        <translation>Deaktiviere das Tray-Icon. Wird eventuell benötigt, falls das System-Tray nicht kompatibel mit der Freedesktop.org-System-Tray Spezifikation ist.</translation>
-    </message>
-    <message>
-        <source>Use the icon theme from your system if one is defined.</source>
-        <translation type="vanished">Benutze das Icon Theme von deinem System, falls eines definiert ist.</translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/main.cpp" line="87"/>
-        <source>[Experimental] Enable data counters.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4694,12 +4468,12 @@ that the peer is no longer connected.</source>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="103"/>
         <source>Log the connman inputRequest for debugging purposes.</source>
-        <translation>Protokolliere den connman inputRequest für Debugging-Zwecke.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="107"/>
         <source>Start the GUI minimized in the system tray.</source>
-        <translation>Starte das GUI minimiert im System-Tray.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="111"/>
@@ -4714,48 +4488,48 @@ that the peer is no longer connected.</source>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="121"/>
         <source>Specify the wait time in seconds before starting the system tray icon.</source>
-        <translation>Gebe die Wartezeit in Sekunden an, bevor das System-Tray-Icon angezeigt wird.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="122"/>
         <location filename="../apps/cmstapp/code/main.cpp" line="134"/>
         <source>seconds</source>
-        <translation>Sekunden</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="127"/>
         <source>[Experimental] The number of kb that have to be transmitted before the counter updates.</source>
-        <translation>[Experimentell] Die Anzahl der kb die übertragen werden, bevor der Zähler aktualisiert wird.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="128"/>
         <source>KB</source>
-        <translation>KB</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="133"/>
         <source>[Experimental] The interval in seconds between counter updates.</source>
-        <translation>[Experimentell] Der Zeitraum in Sekunden zwischen den Zähler-Aktualisierungen.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="140"/>
         <source>If tray icon fake transparency is required, specify the background color to use (format: 0xRRGGBB)</source>
-        <translation>Falls Pseudotransparenz benötigt wird, kann hier die Hintergrundfarbe definiert werden (Format: 0xRRGGBB)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="141"/>
         <source>RRGGBB</source>
-        <translation>RRGGBB</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="148"/>
         <source>Use XFCE specific code.</source>
-        <translation>Benutze XFCE spezifischen Code.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="153"/>
         <source>Use MATE DE specific code.</source>
-        <translation>Benutze MATE DE spezifischen Code.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="it_IT">
+<TS version="2.1" language="">
 <context>
     <name>Agent</name>
     <message>
@@ -159,6 +159,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use  the Firefox browser.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translatorcomment>Removed double space</translatorcomment>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the Firefox browser.&lt;/p&gt;&lt;/body&gt;&lt;html&gt;</translation>
+    </message>
+    <message>
         <location filename="../apps/cmstapp/code/agent/ui/agent.ui" line="361"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use this button to launch the selected browser. The browser will open at the page shown in the Login URL box.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
@@ -284,9 +289,9 @@
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="96"/>
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="97"/>
         <source>%Ln Packet(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%Ln Packet</numerusform>
+            <numerusform>%Ln Packets</numerusform>
         </translation>
     </message>
     <message>
@@ -302,33 +307,33 @@
     <message numerus="yes">
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="111"/>
         <source>%n Day(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n Day</numerusform>
+            <numerusform>%n Days</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="118"/>
         <source>%n Hour(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n Hour</numerusform>
+            <numerusform>%n Hours</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="125"/>
         <source>%n Minute(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n Minute</numerusform>
+            <numerusform>%n Minutes</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../apps/cmstapp/code/counter/counter.cpp" line="131"/>
         <source>%n Second(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n Second</numerusform>
+            <numerusform>%n Seconds</numerusform>
         </translation>
     </message>
 </context>
@@ -457,12 +462,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="250"/>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="690"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Force a rescan of all WiFi technologies. This is similar to issuing the command &lt;span style=&quot; font-weight:600;&quot;&gt;connmanctl scan wifi&lt;/span&gt; from the command line.&lt;/p&gt;&lt;p&gt;The button will become inactive while the scan is occuring.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="253"/>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="693"/>
         <source>Resc&amp;an</source>
@@ -548,18 +547,8 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="631"/>
-        <source>Favorite</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="641"/>
-        <source>Security</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="646"/>
-        <source>Signal Strength</source>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="586"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This page shows the known WiFi services. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Name:&lt;/span&gt; The SSID of the network.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Favorite:&lt;/span&gt; A heart symbol in this column indicates that this computer has previously made a connection to the network using this service.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Connected:&lt;/span&gt; Shows the connection state of this service. Hover the mouse over the icon to popup a text description. Online signals that an Internet connectionis available and has been verified. Ready signals a successfully connected device. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Security: &lt;/span&gt;Describes the type of security used for this service. Possible values are &amp;quot;none&amp;quot;, &amp;quot;wep&amp;quot;, &amp;quot;psk&amp;quot;, &amp;quot;ieee8021x&amp;quot;, and &amp;quot;wps&amp;quot;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;SIgnal Strength:&lt;/span&gt; The strength of the WiFi signal, normalized to a scale of 0 to 100.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -605,6 +594,101 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="790"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This page shows the provisioned VPN services. Some cells in the table may only be available once a connection is estlablished. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Name:&lt;/span&gt; The name given in the provisioning file.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Type:&lt;/span&gt; The VPN type (OpenConnect, OpenVPN, PPTP, etc)&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;State:&lt;/span&gt; Shows the connection state of this service. Hover the mouse over the icon to popup a text description. . &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Host: &lt;/span&gt;VPN Host IP.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Domain:&lt;/span&gt; The VPN Domain.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1254"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;-m&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt; or &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--minimized&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;
+&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Start the GUI minimized in the system tray.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1278"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;-w&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt; or &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--wait-time&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;
+&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Specify the wait time in seconds before starting the system tray icon (default is 0 seconds).&lt;/p&gt;&lt;p&gt;If CMST is started and tries to create a tray icon before the system tray itself is created a dialog will be displayed explaining that. This sometimes happens when the program is started automatically. If you know the tray will exist once the system is up you may specify a wait time and CMST will wait that number of seconds before trying to create the tray icon. This is to give the window manager or panel time to create the tray before we try to place the icon there.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1302"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--counter-update-rate&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;
+&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Specify the frequency in seconds between counter updates (default is 10 seconds). &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1306"/>
+        <source>Counter Update Rate </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1362"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Programs or processes to execute after various events occur.&lt;/p&gt;&lt;p&gt;If the program or process requires command line arguments provide them here just as if you were typing at a command line.&lt;/p&gt;&lt;p&gt;Example:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;/path/to/program arg1 arg2 arg3&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1365"/>
+        <source>External Programs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1371"/>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1381"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enter the program or process to be executed after Connman enters the &amp;quot;Ready&amp;quot; or &amp;quot;Online&amp;quot; state.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1374"/>
+        <source>After Connect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1419"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Default is no desktop specific code.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1672"/>
+        <source>Aw&amp;Oken</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1679"/>
+        <source>A&amp;rtwork</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1861"/>
+        <source>Rescan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1869"/>
+        <source>Offline Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="250"/>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="690"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Force a rescan of all WiFi technologies. This is similar to issuing the command &lt;span style=&quot; font-weight:600;&quot;&gt;connmanctl scan wifi&lt;/span&gt; from the command line.&lt;/p&gt;&lt;p&gt;The button will become inactive while the scan is occuring.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="631"/>
+        <source>Favorite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="641"/>
+        <source>Security</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="646"/>
+        <source>Signal Strength</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="865"/>
         <source>&amp;Counters</source>
         <translation type="unfinished"></translation>
@@ -627,16 +711,6 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="905"/>
         <source>Home</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="586"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This page shows the known WiFi services. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Name:&lt;/span&gt; The SSID of the network.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Favorite:&lt;/span&gt; A heart symbol in this column indicates that this computer has previously made a connection to the network using this service.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Connected:&lt;/span&gt; Shows the connection state of this service. Hover the mouse over the icon to popup a text description. Online signals that an Internet connectionis available and has been verified. Ready signals a successfully connected device. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Security: &lt;/span&gt;Describes the type of security used for this service. Possible values are &amp;quot;none&amp;quot;, &amp;quot;wep&amp;quot;, &amp;quot;psk&amp;quot;, &amp;quot;ieee8021x&amp;quot;, and &amp;quot;wps&amp;quot;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;SIgnal Strength:&lt;/span&gt; The strength of the WiFi signal, normalized to a scale of 0 to 100.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="790"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This page shows the provisioned VPN services. Some cells in the table may only be available once a connection is estlablished. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Name:&lt;/span&gt; The name given in the provisioning file.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Type:&lt;/span&gt; The VPN type (OpenConnect, OpenVPN, PPTP, etc)&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;State:&lt;/span&gt; Shows the connection state of this service. Hover the mouse over the icon to popup a text description. . &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Host: &lt;/span&gt;VPN Host IP.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Domain:&lt;/span&gt; The VPN Domain.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -686,27 +760,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1362"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Programs or processes to execute after various events occur.&lt;/p&gt;&lt;p&gt;If the program or process requires command line arguments provide them here just as if you were typing at a command line.&lt;/p&gt;&lt;p&gt;Example:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;/path/to/program arg1 arg2 arg3&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1365"/>
-        <source>External Programs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1371"/>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1381"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enter the program or process to be executed after Connman enters the &amp;quot;Ready&amp;quot; or &amp;quot;Online&amp;quot; state.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1374"/>
-        <source>After Connect</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1461"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;-n&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt; or &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--disable-vpn&lt;/span&gt;&lt;/pre&gt;&lt;p&gt;Disable VPN. This will hide the VPN tab and will also skip trying to make a connection to connman-vpn. The later is useful if your Connman was built with the --disable-vpn feature.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
@@ -734,66 +787,6 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1528"/>
         <source>Interface</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1563"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked the Start Options set here will be read and used next time the program starts.  &lt;/p&gt;&lt;p&gt;Settings are stored in&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;: ~&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;/.config/cmst/cmst.conf  &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;&lt;br/&gt;This is a standard ini type text file.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1566"/>
-        <source>Use Start Options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1576"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked the state of the GUI will be restored from settings saved on disk. Settings include the geometry and position of the dialog and the current tab. &lt;/p&gt;&lt;p&gt;These settings will be used at next boot to restore the user interface to the way it was at shutdown.&lt;/p&gt;&lt;p&gt;The settings file is: ~&lt;span style=&quot; font-weight:600;&quot;&gt;/.config/cmst/cmst.conf &lt;/span&gt;&lt;br/&gt;This is a standard ini type text file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1579"/>
-        <source>Retain State</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1672"/>
-        <source>Aw&amp;Oken</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1679"/>
-        <source>A&amp;rtwork</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1861"/>
-        <source>Rescan</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1869"/>
-        <source>Offline Mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1874"/>
-        <source>IDPass</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1877"/>
-        <source>Set ID and Password for tethered wifi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1268"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;-i&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt; or &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--icon-theme&lt;/span&gt;&lt;/pre&gt;&lt;p&gt;Use an icon theme from your system. You may specify the theme in the box at the right, or if the box is left blank CMST will try and use the system wide icon theme (if one is defined).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1271"/>
-        <source>Use Icon Theme</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -843,11 +836,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1184"/>
-        <source>Disable Tray Icon</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1194"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Disabled because currently Connman will accept this option but will do nothing with it.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
@@ -873,20 +861,8 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1254"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;-m&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt; or &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--minimized&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;
-&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Start the GUI minimized in the system tray.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1258"/>
         <source>Start Minimized</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1278"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;-w&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt; or &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--wait-time&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;
-&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Specify the wait time in seconds before starting the system tray icon (default is 0 seconds).&lt;/p&gt;&lt;p&gt;If CMST is started and tries to create a tray icon before the system tray itself is created a dialog will be displayed explaining that. This sometimes happens when the program is started automatically. If you know the tray will exist once the system is up you may specify a wait time and CMST will wait that number of seconds before trying to create the tray icon. This is to give the window manager or panel time to create the tray before we try to place the icon there.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -895,14 +871,38 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1302"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--counter-update-rate&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;
-&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Specify the frequency in seconds between counter updates (default is 10 seconds). &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1184"/>
+        <source>Disable Tray Icon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1306"/>
-        <source>Counter Update Rate </source>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1563"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked the Start Options set here will be read and used next time the program starts.  &lt;/p&gt;&lt;p&gt;Settings are stored in&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;: ~&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;/.config/cmst/cmst.conf  &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;&lt;br/&gt;This is a standard ini type text file.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1566"/>
+        <source>Use Start Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1576"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked the state of the GUI will be restored from settings saved on disk. Settings include the geometry and position of the dialog and the current tab. &lt;/p&gt;&lt;p&gt;These settings will be used at next boot to restore the user interface to the way it was at shutdown.&lt;/p&gt;&lt;p&gt;The settings file is: ~&lt;span style=&quot; font-weight:600;&quot;&gt;/.config/cmst/cmst.conf &lt;/span&gt;&lt;br/&gt;This is a standard ini type text file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1579"/>
+        <source>Retain State</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1268"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt;Command Line Option: &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;-i&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;;&quot;&gt; or &lt;/span&gt;&lt;span style=&quot; font-family:&apos;Courier New,courier&apos;; font-weight:600;&quot;&gt;--icon-theme&lt;/span&gt;&lt;/pre&gt;&lt;p&gt;Use an icon theme from your system. You may specify the theme in the box at the right, or if the box is left blank CMST will try and use the system wide icon theme (if one is defined).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1271"/>
+        <source>Use Icon Theme</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -918,11 +918,6 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1410"/>
         <source>Desktop Specific</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1419"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Default is no desktop specific code.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1261,6 +1256,16 @@
         <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1842"/>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="387"/>
         <source>Mi&amp;nimize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1874"/>
+        <source>IDPass</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/ui/controlbox.ui" line="1877"/>
+        <source>Set ID and Password for tethered wifi</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1774,11 +1779,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1932"/>
-        <source>  WiFi Technologies:&lt;br&gt;  %1 Found, %2 Powered</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2130"/>
         <source>Update resolution of the counters is based on a threshold of %L1 KB of data and %L2 seconds of time.</source>
         <translation type="unfinished"></translation>
@@ -2068,6 +2068,11 @@
     <message>
         <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="2971"/>
         <source>Unable to find or connect to a Notification server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/control_box/controlbox.cpp" line="1932"/>
+        <source>  WiFi Technologies:&lt;br&gt;  %1 Found, %2 Powered</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2774,6 +2779,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="640"/>
+        <source> Critical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="383"/>
         <source>IPv6 Address</source>
         <translation type="unfinished"></translation>
@@ -2861,11 +2871,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="640"/>
-        <source> Critical</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../apps/cmstapp/code/provisioning/prov_ed.cpp" line="641"/>
         <source>&lt;b&gt;DBus Error Name:&lt;/b&gt; %1&lt;br&gt;&lt;br&gt;&lt;b&gt;String:&lt;/b&gt; %2&lt;br&gt;&lt;br&gt;&lt;b&gt;Message:&lt;/b&gt; %3</source>
         <translation type="unfinished"></translation>
@@ -2903,169 +2908,169 @@
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="43"/>
         <source>connman system tray</source>
         <comment>Main Window Title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Connman System Tray</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="44"/>
         <source>cmst</source>
         <comment>Abbreviated Program Name - used for QMessageBox titles</comment>
-        <translation type="unfinished"></translation>
+        <translation>CMST</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="47"/>
         <source>idle</source>
         <comment>connman state string</comment>
-        <translation type="unfinished"></translation>
+        <translation>Idle</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="48"/>
         <source>association</source>
         <comment>connman state string</comment>
-        <translation type="unfinished"></translation>
+        <translation>Association</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="49"/>
         <source>configuration</source>
         <comment>connman state string</comment>
-        <translation type="unfinished"></translation>
+        <translation>Configuration</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="50"/>
         <source>ready</source>
         <comment>connman state string</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ready</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="51"/>
         <source>online</source>
         <comment>connman state string</comment>
-        <translation type="unfinished"></translation>
+        <translation>Online</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="52"/>
         <source>disconnect</source>
         <comment>connman state string</comment>
-        <translation type="unfinished"></translation>
+        <translation>Disconnect</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="53"/>
         <source>failure</source>
         <comment>connman state string</comment>
-        <translation type="unfinished"></translation>
+        <translation>Failure</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="54"/>
         <source>offline</source>
         <comment>connman state string</comment>
-        <translation type="unfinished"></translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="56"/>
         <source>system</source>
         <comment>connman type string</comment>
-        <translation type="unfinished"></translation>
+        <translation>System</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="57"/>
         <source>ethernet</source>
         <comment>connman type string</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ethernet</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="58"/>
         <source>wifi</source>
         <comment>connman type string</comment>
-        <translation type="unfinished"></translation>
+        <translation>WiFi</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="59"/>
         <source>bluetooth</source>
         <comment>connman type string</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bluetooth</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="60"/>
         <source>cellular</source>
         <comment>connman type string</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cellular</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="61"/>
         <source>gps</source>
         <comment>connman type string</comment>
-        <translation type="unfinished"></translation>
+        <translation>GPS</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="62"/>
         <source>vpn</source>
         <comment>connman type string</comment>
-        <translation type="unfinished"></translation>
+        <translation>VPN</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="63"/>
         <source>gadget</source>
         <comment>connman type string</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gadget</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="64"/>
         <source>p2p</source>
         <comment>connman type string</comment>
-        <translation type="unfinished"></translation>
+        <translation>P2P</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="65"/>
         <source>wired</source>
         <comment>connman type string</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wired</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="67"/>
         <source>direct</source>
         <comment>connman proxy string</comment>
-        <translation type="unfinished"></translation>
+        <translation>Direct</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="68"/>
         <source>manual</source>
         <comment>connman proxy string</comment>
-        <translation type="unfinished"></translation>
+        <translation>Manual</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="69"/>
         <source>auto</source>
         <comment>connman proxy string</comment>
-        <translation type="unfinished"></translation>
+        <translation>Auto</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="71"/>
         <source>psk</source>
         <comment>connman security string</comment>
-        <translation type="unfinished"></translation>
+        <translation>PSK</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="72"/>
         <source>ieee8021x</source>
         <comment>connman security string</comment>
-        <translation type="unfinished"></translation>
+        <translation>IEEE8021x</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="73"/>
         <source>none</source>
         <comment>connman security string</comment>
-        <translation type="unfinished"></translation>
+        <translation>None</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="74"/>
         <source>wep</source>
         <comment>connman security string</comment>
-        <translation type="unfinished"></translation>
+        <translation>WEP</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="75"/>
         <source>wps</source>
         <comment>connman security string</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="76"/>
@@ -3191,79 +3196,79 @@
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="98"/>
         <source>disabled</source>
         <comment>connman privacy string</comment>
-        <translation type="unfinished"></translation>
+        <translation>Disabled</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="99"/>
         <source>enabled</source>
         <comment>connman privacy string</comment>
-        <translation type="unfinished"></translation>
+        <translation>Enabled</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="100"/>
         <source>prefered</source>
         <comment>connman privacy string - known misspelling but needed to avoid breaking code</comment>
-        <translation type="unfinished"></translation>
+        <translation>Preferred</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="101"/>
         <source>preferred</source>
         <comment>connman privacy string</comment>
-        <translation type="unfinished"></translation>
+        <translation>Preferred</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="103"/>
         <source>auto</source>
         <comment>connman ethernet connection method</comment>
-        <translation type="unfinished"></translation>
+        <translation>Auto</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="104"/>
         <source>manual</source>
         <comment>connman ethernet connection method</comment>
-        <translation type="unfinished"></translation>
+        <translation>Manual</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="106"/>
         <source>dhcp</source>
         <comment>connman ipv4 method string</comment>
-        <translation type="unfinished"></translation>
+        <translation>DHCP</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="107"/>
         <source>manual</source>
         <comment>connman ipv4 method string</comment>
-        <translation type="unfinished"></translation>
+        <translation>Manual</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="108"/>
         <source>off</source>
         <comment>connman ipv4 method string</comment>
-        <translation type="unfinished"></translation>
+        <translation>Off</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="109"/>
         <source>fixed</source>
         <comment>connman ipv4 method string</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fixed</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="110"/>
         <source>address</source>
         <comment>connamn ipv4 method string</comment>
-        <translation type="unfinished"></translation>
+        <translation>Address</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="112"/>
         <source>auto</source>
         <comment>connman ipv6 method string</comment>
-        <translation type="unfinished"></translation>
+        <translation>Auto</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="113"/>
         <source>manual</source>
         <comment>connman ipv6 method string</comment>
-        <translation type="unfinished"></translation>
+        <translation>Manual</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="114"/>
@@ -3275,55 +3280,70 @@
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="115"/>
         <source>off</source>
         <comment>connman ipv6 method string</comment>
-        <translation type="unfinished"></translation>
+        <translation>Off</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="117"/>
         <source>openconnect</source>
         <comment>connman vpn connection type</comment>
-        <translation type="unfinished"></translation>
+        <translation>OpenConnect</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="118"/>
         <source>openvpn</source>
         <comment>connman vpn connection type</comment>
-        <translation type="unfinished"></translation>
+        <translation>OpenVPN</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="119"/>
         <source>vpnc</source>
         <comment>connman vpn connection type</comment>
-        <translation type="unfinished"></translation>
+        <translation>VPNC</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="120"/>
         <source>l2tp</source>
         <comment>connman vpn connection type</comment>
-        <translation type="unfinished"></translation>
+        <translation>L2TP</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="121"/>
         <source>pptp</source>
         <comment>connman vpn connection type</comment>
-        <translation type="unfinished"></translation>
+        <translation>PPTP</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="122"/>
         <source>wireguard</source>
         <comment>connman vpn connection type</comment>
-        <translation type="unfinished"></translation>
+        <translation>WireGuard</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="124"/>
         <source>true</source>
         <comment>connman mdns setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>True</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/trstring/tr_strings.cpp" line="125"/>
         <source>false</source>
         <comment>connman mdns setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>False</translation>
+    </message>
+    <message>
+        <source>auto</source>
+        <comment>connamn ipv6 method string</comment>
+        <translation>Auto</translation>
+    </message>
+    <message>
+        <source>manual</source>
+        <comment>connamn ipv6 method string</comment>
+        <translation>Manual</translation>
+    </message>
+    <message>
+        <source>off</source>
+        <comment>connamn ipv6 method string</comment>
+        <translation>Off</translation>
     </message>
 </context>
 <context>
@@ -4412,11 +4432,6 @@ that the peer is no longer connected.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/main.cpp" line="76"/>
-        <source>Connman System Tray.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="79"/>
         <source>Bypass restoring the window state if restoring window state is specified in the settings file.</source>
         <translation type="unfinished"></translation>
@@ -4427,13 +4442,18 @@ that the peer is no longer connected.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/main.cpp" line="87"/>
-        <source>[Experimental] Enable data counters.</source>
+        <location filename="../apps/cmstapp/code/main.cpp" line="91"/>
+        <source>Disable the system tray icon.  May be needed for system trays not compliant with the Freedesktop.org system tray specification.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../apps/cmstapp/code/main.cpp" line="91"/>
-        <source>Disable the system tray icon.  May be needed for system trays not compliant with the Freedesktop.org system tray specification.</source>
+        <location filename="../apps/cmstapp/code/main.cpp" line="76"/>
+        <source>Connman System Tray.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../apps/cmstapp/code/main.cpp" line="87"/>
+        <source>[Experimental] Enable data counters.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
